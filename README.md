@@ -5,7 +5,6 @@
 **Target** : ranking and score data with 54 subjects
 
 - language : `python`
-- IDE : `jupyter notebook`
 - import package
     - BeautifulSoup
     - Selenium
