@@ -5,7 +5,7 @@
 **Target** : ranking and score data with 54 subjects
 
 - language : `python`
-- import package
+- package : `pip install`
     - BeautifulSoup
     - Selenium
     - requests
