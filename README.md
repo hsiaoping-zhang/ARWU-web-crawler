@@ -1,8 +1,8 @@
 # ARWU-web-crawler
-2021 Shanghai Ranking - [ Global Ranking of Academic Subjects ] ranking crawler
+2021 Shanghai Ranking - [ **Global Ranking of Academic Subjects** ] ranking crawler
 
 ## Introduction
-**Target** : ranking and score data with 54 sujects
+**Target** : ranking and score data with 51 subjects
 
 - language : `python`
 - IDE : `jupyter notebook`
@@ -10,6 +10,7 @@
     - BeautifulSoup
     - Selenium
     - requests
+    - pandas
 - output : `.csv` files 
 
 - website : Shanghai Ranking of [Global Ranking of Academic Subjects](https://www.shanghairanking.com/rankings/gras/2021)
@@ -26,10 +27,9 @@ option.add_argument("--disable-notifications")
 chrome = webdriver.Chrome('./chromedriver', chrome_options=option)
 ```
 
-Step 1. Get 54 subjects' name and their website ID.
+Step 1. Get 51 subjects' name and their website ID.
 Get content with class is `subject-title` as area title and class is `subj-link`'s href as subject link.
 ```python
-## get 51 subject name
 url = "http://www.shanghairanking.com/rankings/gras/2021"
 response = requests.get(url)
 soup = BeautifulSoup(response.text, "lxml")
@@ -118,10 +118,11 @@ for link in links:
         break
 ```
 Step 4. test: Click next page button
-- next page: `class = ant-pagination-item-link`
+With multiple page buttons, select the last one with `class = ant-pagination-item-link`
 > If you want to click the score ranking option in the next page afterwards, you should scroll the page to the top to continue.
 
 <img src="https://i.imgur.com/B8UYtUw.png" height=50>
+
 ```python
 # click the next page
 btns_next_page = chrome.find_elements_by_class_name("ant-pagination-item-link", )
