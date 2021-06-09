@@ -2,7 +2,7 @@
 2021 Shanghai Ranking - [ **Global Ranking of Academic Subjects** ] ranking crawler
 
 ## Introduction
-**Target** : ranking and score data with 51 subjects
+**Target** : ranking and score data with 54 subjects
 
 - language : `python`
 - IDE : `jupyter notebook`
@@ -27,7 +27,7 @@ option.add_argument("--disable-notifications")
 chrome = webdriver.Chrome('./chromedriver', chrome_options=option)
 ```
 
-Step 1. Get 51 subjects' name and their website ID.
+Step 1. Get 54 subjects' name and their website ID.
 Get content with class is `subject-title` as area title and class is `subj-link`'s href as subject link.
 ```python
 url = "http://www.shanghairanking.com/rankings/gras/2021"
