@@ -1,6 +1,8 @@
 ## Format 
 Subject.csv Format
 
+\* There might be empty cells in Total Score column.
+
 `Mathematics.csv` example
 | Year | World Rank | Institution |Total Score|Q1|CNCI|IC|TOP|AWARD|
 | -------- | -------- | -------- |-------- |-------- |-------- |-------- |-------- |-------- |
