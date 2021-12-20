@@ -1,0 +1,501 @@
+Year,Field,Subject,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
+2021,Engineering,Computer Science & Engineering,1,Massachusetts Institute of Technology (MIT),355.3,61.1,83.1,73.8,96.3,100
+2021,Engineering,Computer Science & Engineering,2,Stanford University,315.6,55.6,93,68.9,82.6,70.7
+2021,Engineering,Computer Science & Engineering,3,"University of California, Berkeley",284.4,46.9,79,72.2,78.5,65.5
+2021,Engineering,Computer Science & Engineering,4,Carnegie Mellon University,279.9,55.7,71.6,74,100,37.8
+2021,Engineering,Computer Science & Engineering,5,ETH Zurich,264.0,52.9,100,84.1,67.6,26.7
+2021,Engineering,Computer Science & Engineering,6,Tsinghua University,263.9,100,73.2,65.9,77.6,0
+2021,Engineering,Computer Science & Engineering,7,Harvard University,252.4,57.4,81.8,71.8,52.5,46.3
+2021,Engineering,Computer Science & Engineering,8,Nanyang Technological University,243.1,86.8,84.2,88.2,54.5,0
+2021,Engineering,Computer Science & Engineering,9,University of Oxford,234.2,47.3,72.7,80.9,60.2,37.8
+2021,Engineering,Computer Science & Engineering,10,"University of California, Los Angeles",226.2,41.7,65.2,67.8,52.3,53.5
+2021,Engineering,Computer Science & Engineering,11,University of Technology Sydney,224.6,67.5,91.8,90.6,47.2,0
+2021,Engineering,Computer Science & Engineering,12,University of Electronic Science and Technology of China,223.8,90.8,86.7,64.5,33.4,0
+2021,Engineering,Computer Science & Engineering,13,University of Toronto,223.1,46.5,66.4,76.7,54,40.8
+2021,Engineering,Computer Science & Engineering,14,Princeton University,222.5,36.2,74.5,72.3,55.1,42.3
+2021,Engineering,Computer Science & Engineering,15,National University of Singapore,219.8,68.6,81.2,88.1,52.3,0
+2021,Engineering,Computer Science & Engineering,16,Shanghai Jiao Tong University,218.9,86.7,71.6,64.3,47.7,0
+2021,Engineering,Computer Science & Engineering,17,University of Southern California,217.1,45.8,77.1,70.7,53.3,26.7
+2021,Engineering,Computer Science & Engineering,18,Cornell University,216.4,38.2,74.5,66.3,57.8,32.7
+2021,Engineering,Computer Science & Engineering,19,Zhejiang University,216.2,86,70.1,63.6,47.4,0
+2021,Engineering,Computer Science & Engineering,20,University of North Carolina at Chapel Hill,214.7,40.5,94.5,71.4,27.7,37.8
+2021,Engineering,Computer Science & Engineering,21,Harbin Institute of Technology,214.1,88.9,83.8,58.6,29.7,0
+2021,Engineering,Computer Science & Engineering,22,Peking University,213.3,64.6,77.5,66.6,57.9,0
+2021,Engineering,Computer Science & Engineering,23,Huazhong University of Science and Technology,210.4,89.8,83.5,65,24.1,0
+2021,Engineering,Computer Science & Engineering,24,Beihang University,210.2,85.8,72.2,60.9,40,0
+2021,Engineering,Computer Science & Engineering,24,The Chinese University of Hong Kong,210.2,58.6,84.9,68.2,53,0
+2021,Engineering,Computer Science & Engineering,24,University of Science and Technology of China,210.2,67.1,84.4,62.5,46.2,0
+2021,Engineering,Computer Science & Engineering,27,The University of Edinburgh,209.1,39.9,75,82.9,39.9,37.8
+2021,Engineering,Computer Science & Engineering,28,Xidian University,208.4,93,73.8,57.6,30.2,0
+2021,Engineering,Computer Science & Engineering,29,The University of Texas at Austin,206.5,40.9,69.5,65.9,56.2,26.7
+2021,Engineering,Computer Science & Engineering,30,Georgia Institute of Technology,204.1,54.3,73,71.5,62.5,0
+2021,Engineering,Computer Science & Engineering,31,University of Michigan-Ann Arbor,203.8,53,78.9,65.6,58.8,0
+2021,Engineering,Computer Science & Engineering,32,New York University,201.8,39.1,73.5,75.1,43.3,30.9
+2021,Engineering,Computer Science & Engineering,33,University College London,201.6,54.9,84.2,81.9,46.1,0
+2021,Engineering,Computer Science & Engineering,34,University of Oslo,199.3,32,95.2,82.3,9.4,46.3
+2021,Engineering,Computer Science & Engineering,35,Southeast University,199.0,85.7,80.3,61.1,20.7,0
+2021,Engineering,Computer Science & Engineering,36,University of Washington,198.9,42.5,75.7,66.6,67.3,0
+2021,Engineering,Computer Science & Engineering,37,City University of Hong Kong,198.4,77.2,81.6,65.3,26.6,0
+2021,Engineering,Computer Science & Engineering,38,University of Sydney,196.9,54.7,86.3,87.6,38.4,0
+2021,Engineering,Computer Science & Engineering,39,Imperial College London,196.6,57.8,78.5,79.2,44.4,0
+2021,Engineering,Computer Science & Engineering,40,University of Wisconsin - Madison,194.7,39.3,100,64.7,42.5,0
+2021,Engineering,Computer Science & Engineering,41,Dalian University of Technology,194.1,73.2,81.7,61.3,27,0
+2021,Engineering,Computer Science & Engineering,42,The Hong Kong Polytechnic University,193.5,70.6,84.4,63.2,25.9,0
+2021,Engineering,Computer Science & Engineering,43,Columbia University,193.1,45,84.7,72.3,49,0
+2021,Engineering,Computer Science & Engineering,44,Northwestern Polytechnical University,192.9,72.3,79.1,63.1,28.8,0
+2021,Engineering,Computer Science & Engineering,45,Sun Yat-sen University,191.5,66.6,76.8,57.5,36.5,0
+2021,Engineering,Computer Science & Engineering,46,Beijing University of Posts and Telecommunications,190.6,82.7,70.1,57.7,26.3,0
+2021,Engineering,Computer Science & Engineering,47,Wuhan University,190.3,73.7,81.5,62.2,22.6,0
+2021,Engineering,Computer Science & Engineering,48,The University of Adelaide,190.1,45.1,96.9,87.3,30.7,0
+2021,Engineering,Computer Science & Engineering,49,University of Montreal,189.4,42.8,68.5,78,31.6,30.9
+2021,Engineering,Computer Science & Engineering,50,The Hong Kong University of Science and Technology,188.7,50.9,80.6,67.8,43.6,0
+2021,Engineering,Computer Science & Engineering,50,University of Cambridge,188.7,45.1,84.8,82.1,42.4,0
+2021,Engineering,Computer Science & Engineering,51-75,Aalto University,,49.1,80.8,84.2,32.4,0
+2021,Engineering,Computer Science & Engineering,51-75,Beijing Institute of Technology,,67.2,75.9,61.4,27.3,0
+2021,Engineering,Computer Science & Engineering,51-75,Central South University,,66.6,91.9,58.8,8.3,0
+2021,Engineering,Computer Science & Engineering,51-75,Johns Hopkins University,,38.3,87.6,69,38.6,0
+2021,Engineering,Computer Science & Engineering,51-75,King Abdulaziz University,,65.6,97,96.5,2.5,0
+2021,Engineering,Computer Science & Engineering,51-75,Nanjing University,,55.3,75.1,67.6,41.7,0
+2021,Engineering,Computer Science & Engineering,51-75,Nanjing University of Information Science & Technology,,55,98.5,67,11.8,0
+2021,Engineering,Computer Science & Engineering,51-75,Nanjing University of Science and Technology,,65.2,77.2,56.7,23.3,0
+2021,Engineering,Computer Science & Engineering,51-75,Shenzhen University,,70.8,81.1,61.3,22.4,0
+2021,Engineering,Computer Science & Engineering,51-75,South China University of Technology,,69.5,77.5,54.9,23.3,0
+2021,Engineering,Computer Science & Engineering,51-75,Swiss Federal Institute of Technology Lausanne,,42.6,70.9,85.8,50.2,0
+2021,Engineering,Computer Science & Engineering,51-75,Technical University of Munich,,48.1,74.3,76.9,40.9,0
+2021,Engineering,Computer Science & Engineering,51-75,The Australian National University,,37.7,80.7,83.6,39.2,0
+2021,Engineering,Computer Science & Engineering,51-75,The University of New South Wales,,58.3,78.1,79.6,34.4,0
+2021,Engineering,Computer Science & Engineering,51-75,Tianjin University,,71.6,75.8,59.2,28.7,0
+2021,Engineering,Computer Science & Engineering,51-75,University of Alberta,,49.7,74,84.6,33.4,0
+2021,Engineering,Computer Science & Engineering,51-75,University of British Columbia,,52.2,79.8,83.7,36.4,0
+2021,Engineering,Computer Science & Engineering,51-75,"University of California, San Diego",,43.8,69.9,69.1,50.7,0
+2021,Engineering,Computer Science & Engineering,51-75,University of Copenhagen,,26.9,71.5,81.2,26.6,46.3
+2021,Engineering,Computer Science & Engineering,51-75,University of Illinois at Urbana-Champaign,,46.9,68.8,68.9,58.2,0
+2021,Engineering,Computer Science & Engineering,51-75,"University of Maryland, College Park",,41.5,73.4,69.1,49.7,0
+2021,Engineering,Computer Science & Engineering,51-75,University of Waterloo,,50.8,74,83.3,41.5,0
+2021,Engineering,Computer Science & Engineering,51-75,Weizmann Institute of Science,,17,57,75.6,33.8,53.5
+2021,Engineering,Computer Science & Engineering,51-75,Xi'an Jiaotong University,,71.7,75.8,59.7,25.3,0
+2021,Engineering,Computer Science & Engineering,76-100,Arizona State University,,42.4,72.4,71.8,37,0
+2021,Engineering,Computer Science & Engineering,76-100,Deakin University,,51.7,83.4,86.8,20,0
+2021,Engineering,Computer Science & Engineering,76-100,Griffith University,,33.2,100,82.4,18.3,0
+2021,Engineering,Computer Science & Engineering,76-100,Guangdong University of Technology,,53,93.5,61.1,12.1,0
+2021,Engineering,Computer Science & Engineering,76-100,King Abdullah University of Science and Technology,,40.2,77.2,88.8,29.3,0
+2021,Engineering,Computer Science & Engineering,76-100,Korea Advanced Institute of Science and Technology,,49.7,57.7,60,43.9,0
+2021,Engineering,Computer Science & Engineering,76-100,KTH Royal Institute of Technology,,42.4,73.9,84.2,32.3,0
+2021,Engineering,Computer Science & Engineering,76-100,Michigan State University,,42.1,83.2,70.2,25.2,0
+2021,Engineering,Computer Science & Engineering,76-100,National University of Defense Technology,,71.2,61.6,56.3,28.9,0
+2021,Engineering,Computer Science & Engineering,76-100,Northeastern University (Shenyang),,76,72.8,51.6,10.4,0
+2021,Engineering,Computer Science & Engineering,76-100,Northumbria University,,31.6,90,86.8,24.4,0
+2021,Engineering,Computer Science & Engineering,76-100,Paris-Saclay University,,48.7,65.2,74.9,38.8,0
+2021,Engineering,Computer Science & Engineering,76-100,PSL University,,32.8,74.5,78.1,40.4,0
+2021,Engineering,Computer Science & Engineering,76-100,Purdue University - West Lafayette,,49.4,68.8,67.2,41.3,0
+2021,Engineering,Computer Science & Engineering,76-100,"Rutgers, The State University of New Jersey - New Brunswick",,39.1,74.8,71.2,40,0
+2021,Engineering,Computer Science & Engineering,76-100,Sichuan University,,59.5,85.7,56.7,13.3,0
+2021,Engineering,Computer Science & Engineering,76-100,Swinburne University of Technology,,37.6,98.8,87.8,10.1,0
+2021,Engineering,Computer Science & Engineering,76-100,Technical University of Denmark,,34.6,100,79,15.7,0
+2021,Engineering,Computer Science & Engineering,76-100,The University of Hong Kong,,46.5,79.4,65.5,29.7,0
+2021,Engineering,Computer Science & Engineering,76-100,The University of Melbourne,,41.3,80.9,78.1,28.1,0
+2021,Engineering,Computer Science & Engineering,76-100,Tongji University,,60.1,77.7,64.1,17.4,0
+2021,Engineering,Computer Science & Engineering,76-100,Université Grenoble Alpes,,36,61.5,73.4,29.3,26.7
+2021,Engineering,Computer Science & Engineering,76-100,University of California-Merced,,21.9,100,81.6,25.4,0
+2021,Engineering,Computer Science & Engineering,76-100,University of Macau,,52,91,55.3,15.9,0
+2021,Engineering,Computer Science & Engineering,76-100,University of Pennsylvania,,36.8,75.7,64.5,47.4,0
+2021,Engineering,Computer Science & Engineering,76-100,Xiamen University,,53.5,75.2,68.7,22.9,0
+2021,Engineering,Computer Science & Engineering,101-150,Beijing Jiaotong University,,62.3,67.4,62.1,13.3,0
+2021,Engineering,Computer Science & Engineering,101-150,Brown University,,22.7,88.4,69.2,28.4,0
+2021,Engineering,Computer Science & Engineering,101-150,Brunel University,,37.6,95.3,85.6,6.2,0
+2021,Engineering,Computer Science & Engineering,101-150,China University of Geosciences (Wuhan),,44,85.7,71.8,9.7,0
+2021,Engineering,Computer Science & Engineering,101-150,Chongqing University,,60,73.4,58,9.4,0
+2021,Engineering,Computer Science & Engineering,101-150,Delft University of Technology,,47.4,68.3,79.1,26.5,0
+2021,Engineering,Computer Science & Engineering,101-150,Duke University,,33.7,67.2,68.8,45.2,0
+2021,Engineering,Computer Science & Engineering,101-150,Fudan University,,46.8,66.3,68.4,32.7,0
+2021,Engineering,Computer Science & Engineering,101-150,Guangzhou University,,41.7,96.5,62.2,4.4,0
+2021,Engineering,Computer Science & Engineering,101-150,Hamad Bin Khalifa University-Qatar,,22.3,99.3,96.5,21.5,0
+2021,Engineering,Computer Science & Engineering,101-150,Hefei University of Technology,,53.2,76.5,67.4,16.7,0
+2021,Engineering,Computer Science & Engineering,101-150,Heidelberg University,,26.1,96.3,77.5,15.3,0
+2021,Engineering,Computer Science & Engineering,101-150,Hunan University,,57.9,80.6,63.5,8.7,0
+2021,Engineering,Computer Science & Engineering,101-150,Institut Polytechnique de Paris,,40.2,67.1,79,31.5,0
+2021,Engineering,Computer Science & Engineering,101-150,King Saud University,,55.8,84.7,86.2,3.6,0
+2021,Engineering,Computer Science & Engineering,101-150,King's College London,,36.7,83.7,83.2,19.6,0
+2021,Engineering,Computer Science & Engineering,101-150,KU Leuven,,42.3,68.2,81.4,34.3,0
+2021,Engineering,Computer Science & Engineering,101-150,Lancaster University,,34.4,75,84.6,26.5,0
+2021,Engineering,Computer Science & Engineering,101-150,McGill University,,38.5,69.6,80.9,29.9,0
+2021,Engineering,Computer Science & Engineering,101-150,McMaster University,,28.9,100,80.3,9.4,0
+2021,Engineering,Computer Science & Engineering,101-150,Monash University,,40.5,75,82,26.6,0
+2021,Engineering,Computer Science & Engineering,101-150,Nanjing University of Aeronautics and Astronautics,,59.7,66.7,56,18.1,0
+2021,Engineering,Computer Science & Engineering,101-150,Nanjing University of Posts and Telecommunications,,59.9,72.6,55.1,11.5,0
+2021,Engineering,Computer Science & Engineering,101-150,New Jersey Institute of Technology,,39.9,85.8,80.7,15.7,0
+2021,Engineering,Computer Science & Engineering,101-150,Newcastle University,,33.1,76.6,83.3,28.5,0
+2021,Engineering,Computer Science & Engineering,101-150,Northeastern University (Boston),,33.7,64.9,69.2,43.3,0
+2021,Engineering,Computer Science & Engineering,101-150,Polytechnic University of Milan,,45.5,71.4,77.2,22.1,0
+2021,Engineering,Computer Science & Engineering,101-150,RMIT University,,43.9,78.6,84.8,21.5,0
+2021,Engineering,Computer Science & Engineering,101-150,Seoul National University,,47.8,58.3,52.6,39.9,0
+2021,Engineering,Computer Science & Engineering,101-150,Shandong University,,54,66.2,60.1,21.8,0
+2021,Engineering,Computer Science & Engineering,101-150,Simon Fraser University,,36.5,69.4,84.7,36.8,0
+2021,Engineering,Computer Science & Engineering,101-150,Singapore Management University,,33.2,76.8,93.7,26.1,0
+2021,Engineering,Computer Science & Engineering,101-150,Singapore University of Technology & Design,,33,85.8,91.9,25.3,0
+2021,Engineering,Computer Science & Engineering,101-150,Temple University,,37.7,85.3,88.6,18,0
+2021,Engineering,Computer Science & Engineering,101-150,The Ohio State University - Columbus,,38.6,72.7,64.5,28.2,0
+2021,Engineering,Computer Science & Engineering,101-150,The University of Queensland,,37.8,82.5,84.2,23.7,0
+2021,Engineering,Computer Science & Engineering,101-150,The University of Texas at San Antonio,,41.8,86.8,87.8,14,0
+2021,Engineering,Computer Science & Engineering,101-150,The University of Tokyo,,38.3,57.4,59.4,49.6,0
+2021,Engineering,Computer Science & Engineering,101-150,"University at Buffalo, the State University of New York",,37.7,76.8,70.6,30.5,0
+2021,Engineering,Computer Science & Engineering,101-150,"University of California, Davis",,39.7,78.1,73.6,26.5,0
+2021,Engineering,Computer Science & Engineering,101-150,"University of California, Irvine",,37.8,74.3,71.5,33.1,0
+2021,Engineering,Computer Science & Engineering,101-150,University of Florida,,47.1,72.4,71.7,22.1,0
+2021,Engineering,Computer Science & Engineering,101-150,University of Granada,,50.3,88.3,75.8,4.4,0
+2021,Engineering,Computer Science & Engineering,101-150,University of Iowa,,26.1,93.9,66.6,21.2,0
+2021,Engineering,Computer Science & Engineering,101-150,"University of Minnesota, Twin Cities",,38.9,69.8,65.4,38.2,0
+2021,Engineering,Computer Science & Engineering,101-150,University of Southampton,,43.1,72.3,79.9,23.5,0
+2021,Engineering,Computer Science & Engineering,101-150,University of Surrey,,41.7,84.5,83.2,13.8,0
+2021,Engineering,Computer Science & Engineering,101-150,Victoria University,,27.5,100,94.7,6.2,0
+2021,Engineering,Computer Science & Engineering,101-150,Virginia Polytechnic Institute and State University,,43.2,78.2,64.4,28.7,0
+2021,Engineering,Computer Science & Engineering,151-200,Aalborg University,,38.1,74.7,84.7,20.6,0
+2021,Engineering,Computer Science & Engineering,151-200,Bohai University,,31.9,100,59.7,0,0
+2021,Engineering,Computer Science & Engineering,151-200,Carleton University,,34.3,82.9,83.5,13.5,0
+2021,Engineering,Computer Science & Engineering,151-200,Dalian Maritime University,,38,91.6,54,6.2,0
+2021,Engineering,Computer Science & Engineering,151-200,De Montfort University,,29,98.7,87.2,0,0
+2021,Engineering,Computer Science & Engineering,151-200,East China Normal University,,39.5,67.4,67.6,24.4,0
+2021,Engineering,Computer Science & Engineering,151-200,Hangzhou Dianzi University,,48.3,72,59.5,13.1,0
+2021,Engineering,Computer Science & Engineering,151-200,Hong Kong Baptist University,,32.7,82.9,63.2,21.6,0
+2021,Engineering,Computer Science & Engineering,151-200,Indiana University Bloomington,,29.2,70.3,65.9,32,0
+2021,Engineering,Computer Science & Engineering,151-200,International Institute of Information Technology Hyderabad,,19.7,92.9,76.8,16.1,0
+2021,Engineering,Computer Science & Engineering,151-200,Korea University,,49,67.9,61.4,19.2,0
+2021,Engineering,Computer Science & Engineering,151-200,Lulea University of Technology,,26.2,100,95,3.6,0
+2021,Engineering,Computer Science & Engineering,151-200,Macau University of Science and Technology,,35.6,92.6,75.5,9.1,0
+2021,Engineering,Computer Science & Engineering,151-200,Nankai University,,34,83.6,58.8,19.5,0
+2021,Engineering,Computer Science & Engineering,151-200,Northwestern University,,30.5,64.5,62.8,36,0
+2021,Engineering,Computer Science & Engineering,151-200,Pennsylvania State University - University Park,,36.4,61.7,65.6,32.4,0
+2021,Engineering,Computer Science & Engineering,151-200,Polytechnic University of Catalonia,,47.3,62.1,74.3,23.2,0
+2021,Engineering,Computer Science & Engineering,151-200,Qatar University,,37.6,89.1,96.5,5,0
+2021,Engineering,Computer Science & Engineering,151-200,Queen Mary University of London,,34,78.5,81,22.4,0
+2021,Engineering,Computer Science & Engineering,151-200,Radboud University Nijmegen,,23.6,93.3,76.9,12.6,0
+2021,Engineering,Computer Science & Engineering,151-200,Sapienza University of Rome,,35.6,68.6,69.9,26.5,0
+2021,Engineering,Computer Science & Engineering,151-200,Shanghai University,,50.2,72.9,57.4,13.5,0
+2021,Engineering,Computer Science & Engineering,151-200,Sorbonne University,,41.2,62.2,72.8,29.9,0
+2021,Engineering,Computer Science & Engineering,151-200,Southwest Jiaotong University,,44.7,79.5,64.1,9.7,0
+2021,Engineering,Computer Science & Engineering,151-200,Southwest University,,40.6,85.9,68,9.4,0
+2021,Engineering,Computer Science & Engineering,151-200,St. Francis Xavier University,,25.6,100,100,0,0
+2021,Engineering,Computer Science & Engineering,151-200,Stony Brook University,,36.8,69.8,78,26,0
+2021,Engineering,Computer Science & Engineering,151-200,Technion-Israel Institute of Technology,,33.4,61.5,73.9,39.1,0
+2021,Engineering,Computer Science & Engineering,151-200,Tel Aviv University,,31.3,60,76.6,43.7,0
+2021,Engineering,Computer Science & Engineering,151-200,Texas A and M University at Qatar,,32.6,100,99.2,0,0
+2021,Engineering,Computer Science & Engineering,151-200,Texas A&M University,,40.5,66.7,66.6,30.3,0
+2021,Engineering,Computer Science & Engineering,151-200,The University of Manchester,,44,75.9,82.7,15.9,0
+2021,Engineering,Computer Science & Engineering,151-200,The University of Texas at Arlington,,31.3,75.8,78.8,25,0
+2021,Engineering,Computer Science & Engineering,151-200,University at Albany (State University of New York),,20.4,69.2,73,15.1,26.7
+2021,Engineering,Computer Science & Engineering,151-200,University of Amsterdam,,32.1,69.6,78.2,28,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Birmingham,,32.3,77.7,85.3,20,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Bristol,,31.8,73.1,75,27.6,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Chicago,,31.1,72.9,68.1,31.6,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Freiburg,,22.5,81.4,77,26.9,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Houston,,36.4,76.9,81.8,14,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Malaya,,42.7,82.9,81.6,2.5,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Oulu,,34,84.4,84.3,14.9,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Pittsburgh,,37.4,66.7,69.7,30.3,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Science and Technology Beijing,,51.6,79.3,58.1,7.1,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Warwick,,37.2,74.1,85.9,21.3,0
+2021,Engineering,Computer Science & Engineering,151-200,University of Wollongong,,37.2,79.6,81.8,10.7,0
+2021,Engineering,Computer Science & Engineering,151-200,Vanderbilt University,,31.7,88.5,55.3,18.5,0
+2021,Engineering,Computer Science & Engineering,151-200,Vienna University of Technology,,34.3,65.5,81.9,33.3,0
+2021,Engineering,Computer Science & Engineering,151-200,Yangzhou University,,30.8,98.6,75.6,0,0
+2021,Engineering,Computer Science & Engineering,151-200,York University,,24.4,88.3,84.3,18.8,0
+2021,Engineering,Computer Science & Engineering,201-300,Aarhus University,,23.4,64.3,84.1,30.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Anhui University,,40.4,71.9,62.6,10.1,0
+2021,Engineering,Computer Science & Engineering,201-300,Beijing University of Technology,,41.7,68.8,60.9,10.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Ben-Gurion University of the Negev,,30.4,57.2,70,30,0
+2021,Engineering,Computer Science & Engineering,201-300,Boston University,,27.1,61.1,64.6,31,0
+2021,Engineering,Computer Science & Engineering,201-300,California Institute of Technology,,24,68.2,71.6,32,0
+2021,Engineering,Computer Science & Engineering,201-300,Cardiff University,,32.8,72.3,84,17.1,0
+2021,Engineering,Computer Science & Engineering,201-300,Case Western Reserve University,,25.4,83.5,66.8,12.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Changsha University of Science and Technology,,27.4,100,63.7,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Chongqing University of Posts and Telecommunications,,46.5,76,54.7,7.1,0
+2021,Engineering,Computer Science & Engineering,201-300,COMSATS University Islamabad,,47.2,73.8,83.8,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Concordia University,,41.2,70.8,73.7,9.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Dongguan University of Technology,,23.4,88,60.8,8.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Eindhoven University of Technology,,35.6,63.3,79.3,25.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Fuzhou University,,40.1,75.3,58.9,6.7,0
+2021,Engineering,Computer Science & Engineering,201-300,Georgia State University,,28.2,81.1,82.1,8.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Ghent University,,45,68.4,76.1,14,0
+2021,Engineering,Computer Science & Engineering,201-300,Graz University of Technology,,23.2,73.7,80.1,21.9,0
+2021,Engineering,Computer Science & Engineering,201-300,Harbin Engineering University,,48.8,71,54.9,5.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Hohai University,,44.5,74.7,57.1,4.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Huaqiao University,,31.9,86.9,64.4,4.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Hunan University of Science and Technology,,23.9,95,73.3,0,0
+2021,Engineering,Computer Science & Engineering,201-300,Islamic Azad University,,51.7,68,53.1,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Karlsruhe Institute of Technology (KIT),,29.1,67.6,70.8,21.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Liaoning University of Technology,,27.9,100,19.1,0,0
+2021,Engineering,Computer Science & Engineering,201-300,Macquarie University,,29.5,74,81.4,14.9,0
+2021,Engineering,Computer Science & Engineering,201-300,Missouri University of Science and Technology,,27.8,80.6,74.6,10.4,0
+2021,Engineering,Computer Science & Engineering,201-300,National Taiwan University,,42.5,52.1,54.8,28.6,0
+2021,Engineering,Computer Science & Engineering,201-300,National Taiwan University of Science and Technology,,43,71.3,55.9,9.1,0
+2021,Engineering,Computer Science & Engineering,201-300,North Carolina State University - Raleigh,,34.9,69.1,63.3,20.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Qingdao University,,32.4,93.1,58.5,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Queen's University Belfast,,28.7,75.9,88.5,10.7,0
+2021,Engineering,Computer Science & Engineering,201-300,Queensland University of Technology,,30.3,69.5,79.2,26.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Qufu Normal University,,25.4,96.8,53.6,0,0
+2021,Engineering,Computer Science & Engineering,201-300,Rensselaer Polytechnic Institute,,27.4,67.7,68.5,24.3,0
+2021,Engineering,Computer Science & Engineering,201-300,RWTH Aachen University,,33,63.3,69,24.4,0
+2021,Engineering,Computer Science & Engineering,201-300,Sejong University,,35.9,83.1,67.9,3.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Shandong Normal University,,36.1,84,44.9,8,0
+2021,Engineering,Computer Science & Engineering,201-300,Shandong University of Science and Technology,,41.5,85.9,54,3.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Southern University of Science and Technology,,29,80.5,75.4,15.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Stevens Institute of Technology,,28,77.1,74.6,16.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Sungkyunkwan University,,36.9,74.8,62.3,13.8,0
+2021,Engineering,Computer Science & Engineering,201-300,SUNY New Paltz,,24.5,87.7,96.2,0,0
+2021,Engineering,Computer Science & Engineering,201-300,Swansea University,,21.7,84.6,80.2,11.8,0
+2021,Engineering,Computer Science & Engineering,201-300,Technical University Darmstadt,,31.6,62.1,72.7,29.8,0
+2021,Engineering,Computer Science & Engineering,201-300,Technical University of Berlin,,28.5,61.9,78.2,26.1,0
+2021,Engineering,Computer Science & Engineering,201-300,Thapar Institute of Engineering and Technology,,31.4,99,56.1,0,0
+2021,Engineering,Computer Science & Engineering,201-300,The University of Auckland,,32.1,71.6,85.1,19,0
+2021,Engineering,Computer Science & Engineering,201-300,The University of Glasgow,,28.1,71,76.2,20.4,0
+2021,Engineering,Computer Science & Engineering,201-300,The University of Sheffield,,36.6,69.9,80,16.7,0
+2021,Engineering,Computer Science & Engineering,201-300,The University of Texas at Dallas,,35.3,67,77.1,23.1,0
+2021,Engineering,Computer Science & Engineering,201-300,Università Della Svizzera Italiana,,23.5,74.3,89.6,15.9,0
+2021,Engineering,Computer Science & Engineering,201-300,Universiti Teknologi Malaysia,,38.6,77.9,81.8,5.6,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Arizona,,35.3,67.9,70.7,15.7,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Bern,,23.6,85.9,80.9,11.8,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Bonn,,24.7,74,73.3,24.8,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Calabria,,26.9,81.9,68.4,16.9,0
+2021,Engineering,Computer Science & Engineering,201-300,"University of California, Riverside",,28.6,69.8,70.6,21,0
+2021,Engineering,Computer Science & Engineering,201-300,"University of California, Santa Barbara",,26.7,67,72.5,30.2,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Central Florida,,33.9,68,70,24.1,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Colorado at Boulder,,24.7,64.4,60.8,30.2,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Essex,,29.6,77,93.4,7.5,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Exeter,,27.8,79.8,87.1,8.3,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Fortaleza (UNIFOR),,21.4,99.9,85.9,0,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Geneva,,21.1,94.6,86.9,7.5,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Helsinki,,31.4,70.9,81.7,20.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Idaho,,24.9,100,88.6,0,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Illinois at Chicago,,28.7,69.1,72.2,28.6,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Jordan,,18.7,100,76,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Kentucky,,28.9,83.3,74.5,14.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Lisbon,,40.8,58.2,71.7,21.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Liverpool,,33.4,64.3,87.2,21.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Luxembourg,,30,73.8,90.1,15.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Massachusetts Amherst,,28.9,62,69.4,36.6,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Montpellier,,28.8,70.5,77.7,19.2,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Munich,,21.6,71.2,74.6,23.7,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Naples Federico II,,32.9,75.3,61,14,0
+2021,Engineering,Computer Science & Engineering,201-300,University of North Carolina at Charlotte,,29.4,76.1,75,18,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Notre Dame,,31.6,71.6,70.5,17.4,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Nottingham,,31.1,67,78.1,23.7,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Padua,,35.9,73.3,75.5,16.3,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Salerno,,32.9,73.1,70.8,12.6,0
+2021,Engineering,Computer Science & Engineering,201-300,University of South Australia,,25.6,81.5,87.2,14.2,0
+2021,Engineering,Computer Science & Engineering,201-300,University of South Carolina - Columbia,,23.1,85.1,76.1,12.1,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Tehran,,39.3,72.3,63.8,10.1,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Trento,,32.8,72,81.2,21.9,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Twente,,27.5,73.5,77.8,17.2,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Utah,,33.4,69.3,61.3,26.3,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Victoria,,30.7,74.7,89.3,10.1,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Virginia,,30.9,75.2,65.7,24.1,0
+2021,Engineering,Computer Science & Engineering,201-300,University of Zurich,,26.8,79.2,83.6,19.6,0
+2021,Engineering,Computer Science & Engineering,201-300,Utrecht University,,28.1,83,77.1,14.9,0
+2021,Engineering,Computer Science & Engineering,201-300,Washington University in St. Louis,,27,79,65.2,24.3,0
+2021,Engineering,Computer Science & Engineering,201-300,Wenzhou University,,25.1,95.5,54.4,7.1,0
+2021,Engineering,Computer Science & Engineering,201-300,West Virginia University,,20.1,85.2,73.3,15.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Western Sydney University,,22.1,86.3,84.4,10.7,0
+2021,Engineering,Computer Science & Engineering,201-300,Western University,,32.6,77.2,76.7,13.1,0
+2021,Engineering,Computer Science & Engineering,201-300,Xi'an Jiaotong-Liverpool University,,24.8,85.9,79.8,6.2,0
+2021,Engineering,Computer Science & Engineering,201-300,Yale University,,28.1,63.1,73.7,31.9,0
+2021,Engineering,Computer Science & Engineering,201-300,Yeungnam University,,25.7,96.2,78,2.5,0
+2021,Engineering,Computer Science & Engineering,201-300,Yonsei University,,45.2,58,51.7,18.8,0
+2021,Engineering,Computer Science & Engineering,201-300,Zhejiang University of Technology,,41.1,75.6,53.8,7.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Auburn University,,27.6,77.9,71.8,6.7,0
+2021,Engineering,Computer Science & Engineering,301-400,Beijing Normal University,,30.9,73.7,58.5,11.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Binghamton University,,21.7,76.6,64,13.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Catholic University of Louvain,,22.9,73.6,83.5,11,0
+2021,Engineering,Computer Science & Engineering,301-400,Chalmers University of Technology,,29.4,62.6,78.8,22.2,0
+2021,Engineering,Computer Science & Engineering,301-400,China University of Mining and Technology - Xuzhou,,41.4,75.5,48.8,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,China University of Petroleum (Huadong),,34,71.8,64.8,5,0
+2021,Engineering,Computer Science & Engineering,301-400,"City, University of London",,21.5,75.7,81.6,11.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Czech Technical University in Prague,,29.6,61.4,73.2,24.3,0
+2021,Engineering,Computer Science & Engineering,301-400,Donghua University,,32.1,74.7,59.2,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Duy Tan University,,21.6,88.2,89.4,0,0
+2021,Engineering,Computer Science & Engineering,301-400,East China University of Science and Technology,,37,78.4,54.5,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Ecole de Technologie Superieure - Canada,,30.9,74.8,73.8,8.3,0
+2021,Engineering,Computer Science & Engineering,301-400,Federal University of Minas Gerais,,30,65.2,60.1,15.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Florida International University,,28.1,74.5,68.3,10.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Fujian Normal University,,29.6,81.6,72.2,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Fujian University of Technology,,19.4,88.4,77,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Guangxi Normal University,,20.4,89.2,57.9,6.2,0
+2021,Engineering,Computer Science & Engineering,301-400,Guilin University of Electronic Technology,,35.1,70.4,54.9,6.2,0
+2021,Engineering,Computer Science & Engineering,301-400,Humboldt University of Berlin,,26.2,72.5,78.6,11.8,0
+2021,Engineering,Computer Science & Engineering,301-400,Illinois Institute of Technology,,26.6,70.9,77.1,13.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Indian Institute of Technology Kharagpur,,35.9,63.9,54.2,12.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Iowa State University,,28.7,67.5,62.5,17.2,0
+2021,Engineering,Computer Science & Engineering,301-400,Jiangnan University,,36.5,70.6,60.9,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Jilin University,,47.5,60.3,54.1,12.6,0
+2021,Engineering,Computer Science & Engineering,301-400,Jinan University,,30.8,77.1,64.4,9.7,0
+2021,Engineering,Computer Science & Engineering,301-400,Khalifa University,,30.1,70.1,89.1,11.3,0
+2021,Engineering,Computer Science & Engineering,301-400,Kyung Hee University,,32.4,75.8,71.6,6.2,0
+2021,Engineering,Computer Science & Engineering,301-400,La Trobe University,,27.6,78.3,77.4,5,0
+2021,Engineering,Computer Science & Engineering,301-400,Lehigh University,,18.7,80.2,61.3,13.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Leiden University,,26.1,72.6,82.7,14,0
+2021,Engineering,Computer Science & Engineering,301-400,Linkoping University,,27.5,64.7,78.5,16.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Loughborough University,,24.1,77.1,79.2,7.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Lund University,,25.1,73.2,77.7,16.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Mayo Clinic Alix School of Medicine,,22.8,85.7,56,5.6,0
+2021,Engineering,Computer Science & Engineering,301-400,Memorial University of Newfoundland,,24.3,78.2,78.7,8,0
+2021,Engineering,Computer Science & Engineering,301-400,Middlesex University,,22.2,72.9,87,11,0
+2021,Engineering,Computer Science & Engineering,301-400,Nanjing Normal University,,28.7,78.2,65.9,3.6,0
+2021,Engineering,Computer Science & Engineering,301-400,National Yang Ming Chiao Tung University,,45.9,55.8,52.4,17.1,0
+2021,Engineering,Computer Science & Engineering,301-400,North China Electric Power University,,39.7,78.6,54.6,0,0
+2021,Engineering,Computer Science & Engineering,301-400,Norwegian University of Science and Technology - NTNU,,35.3,63.4,75.4,14,0
+2021,Engineering,Computer Science & Engineering,301-400,Old Dominion University,,21.4,83.3,75.6,7.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Polytechnic University of Madrid,,44.5,59.7,68.2,7.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Polytechnic University of Valencia,,43.5,59.6,70.6,7.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Pompeu Fabra University,,28.7,65.6,77,17.6,0
+2021,Engineering,Computer Science & Engineering,301-400,Quaid-i-Azam University,,22.6,84.2,82.7,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Renmin University of China,,30.8,64.5,66.1,20.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Rice University,,20.6,64.4,65.2,26.3,0
+2021,Engineering,Computer Science & Engineering,301-400,Ryerson University,,32.9,67.5,82.2,10.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Shandong University of Finance and Economics,,23.9,87.8,43.8,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,ShanghaiTech University,,22.2,74.8,67.2,18.8,0
+2021,Engineering,Computer Science & Engineering,301-400,Sichuan Normal University,,17.8,100,42.9,0,0
+2021,Engineering,Computer Science & Engineering,301-400,Soochow University (China),,38.6,64.3,61,13.3,0
+2021,Engineering,Computer Science & Engineering,301-400,Southwestern University of Finance and Economics,,22.3,87.5,67.3,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Tampere University,,31.5,67.7,77.1,13.3,0
+2021,Engineering,Computer Science & Engineering,301-400,The Hebrew University of Jerusalem,,19.4,59,72,30.7,0
+2021,Engineering,Computer Science & Engineering,301-400,The University of Calgary,,32.1,62.3,80.8,19.2,0
+2021,Engineering,Computer Science & Engineering,301-400,The University of New Mexico - Albuquerque,,23,73.8,81.6,13.1,0
+2021,Engineering,Computer Science & Engineering,301-400,"The University of Newcastle, Australia",,24.1,79.4,83.8,7.1,0
+2021,Engineering,Computer Science & Engineering,301-400,The University of Western Australia,,29.6,73.6,77.2,12.6,0
+2021,Engineering,Computer Science & Engineering,301-400,Tohoku University,,24.2,76.6,60,16.9,0
+2021,Engineering,Computer Science & Engineering,301-400,Ton Duc Thang University,,28,79.4,86.9,0,0
+2021,Engineering,Computer Science & Engineering,301-400,TU Dresden,,26.7,59.9,70.4,23.6,0
+2021,Engineering,Computer Science & Engineering,301-400,University College Dublin,,25.2,73.7,83.5,11,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Arkansas at Fayetteville,,19.6,79.3,66.5,11.5,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Bologna,,33.9,65.1,73.9,16.7,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Coimbra,,30.9,69.4,73.5,13.5,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Duisburg-Essen,,20.6,77.5,77.1,9.7,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Goettingen,,22,79.1,75.7,7.1,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Groningen,,28.7,69,79.4,11.3,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Jaen,,26.7,84.4,71.2,0,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Jyvaskyla,,19.2,82.2,80.9,6.2,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Leeds,,28,74.7,79.3,12.3,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Leicester,,21.9,80.6,85.2,9.1,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Manitoba,,23.9,78.1,77.2,12.3,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Miami,,19.2,82.8,66.1,7.5,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Muenster,,19.8,87.6,70.4,6.7,0
+2021,Engineering,Computer Science & Engineering,301-400,University of North Texas,,20.3,78.6,76.1,9.7,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Ottawa,,35.5,67,77.9,10.7,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Peshawar,,19.6,86.1,87.8,0,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Pisa,,27.5,66.7,63.1,17.1,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Quebec Montreal,,28.7,72.7,76.4,6.2,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Rochester,,20.4,59.9,72.5,30,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Sao Paulo,,43.4,57,62.3,16.9,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Saskatchewan,,20,72.7,82.2,16.9,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Shanghai for Science and Technology,,30.5,75.6,63.6,5.6,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Sherbrooke,,19.7,85.3,77.1,9.4,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Stuttgart,,28.7,62.3,66.2,23.3,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Sussex,,17.7,80.5,80.8,15.9,0
+2021,Engineering,Computer Science & Engineering,301-400,University of Vienna,,25.5,65.3,83.8,15.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Uppsala University,,26.7,62.7,79.4,18.7,0
+2021,Engineering,Computer Science & Engineering,301-400,Vellore Institute of Technology,,32.3,78.6,63.4,2.5,0
+2021,Engineering,Computer Science & Engineering,301-400,Victoria University of Wellington,,23.5,78.8,80.1,12.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Wageningen University & Research,,18.7,85,85.4,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Washington State University,,22,73.8,55.1,17.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Wuhan University of Science and Technology,,23.5,86.6,61.2,4.4,0
+2021,Engineering,Computer Science & Engineering,301-400,Wuhan University of Technology,,37.5,67.5,60.1,7.1,0
+2021,Engineering,Computer Science & Engineering,301-400,Zagazig University,,21.6,93.1,81.5,0,0
+2021,Engineering,Computer Science & Engineering,301-400,Zhongnan University of Economics and Law,,22,92.2,67.8,2.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Amirkabir University of Technology,,39.7,61.4,49.9,5.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Aristotle University of Thessaloniki,,31.5,65.5,64.9,8.7,0
+2021,Engineering,Computer Science & Engineering,401-500,Autonomous University of Barcelona,,28.3,60.5,76.1,13.3,0
+2021,Engineering,Computer Science & Engineering,401-500,Autonomous University of Madrid,,26,67,68.7,9.4,0
+2021,Engineering,Computer Science & Engineering,401-500,Bar-Ilan University,,20.6,54.3,72.4,27,0
+2021,Engineering,Computer Science & Engineering,401-500,Beijing University of Chemical Technology,,26.5,76.7,55,5.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Cairo University,,25.3,77,70.8,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Carlos III University of Madrid,,38.3,57.9,72.4,10.1,0
+2021,Engineering,Computer Science & Engineering,401-500,Clemson University,,26.7,64.2,54.8,13.8,0
+2021,Engineering,Computer Science & Engineering,401-500,Cranfield University,,20.8,75.6,79.3,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Curtin University,,27.4,73.1,80.7,5,0
+2021,Engineering,Computer Science & Engineering,401-500,Dartmouth College,,21.2,65.4,64.1,20.9,0
+2021,Engineering,Computer Science & Engineering,401-500,Drexel University,,22.9,61.5,62,19.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Durham University,,20.4,68.6,82.3,10.1,0
+2021,Engineering,Computer Science & Engineering,401-500,Erasmus University Rotterdam,,26,76.1,80.7,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Florida State University,,23.9,70.8,63.3,12.8,0
+2021,Engineering,Computer Science & Engineering,401-500,Free University of Bozen-Bolzano,,19.8,68.6,86.8,14.7,0
+2021,Engineering,Computer Science & Engineering,401-500,George Mason University,,26.8,60.5,61.4,20.4,0
+2021,Engineering,Computer Science & Engineering,401-500,Hanyang University,,36.3,57.6,60.6,13.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Henan University,,20.8,83.8,59.3,4.4,0
+2021,Engineering,Computer Science & Engineering,401-500,Heriot-Watt University,,22.7,69.7,78.5,13.8,0
+2021,Engineering,Computer Science & Engineering,401-500,Indian Institute of Science,,23.8,53.3,61.8,26.9,0
+2021,Engineering,Computer Science & Engineering,401-500,Indian Institute of Technology Bombay,,23.5,56.7,66.9,22.2,0
+2021,Engineering,Computer Science & Engineering,401-500,Indian Institute of Technology Delhi,,29.8,62.2,53.5,17.4,0
+2021,Engineering,Computer Science & Engineering,401-500,ITMO University,,24.8,73.4,88.7,6.2,0
+2021,Engineering,Computer Science & Engineering,401-500,Jiangxi University of Finance & Economics,,25.6,83.5,57.6,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Johannes Kepler University Linz,,25.1,66,78.5,12.1,0
+2021,Engineering,Computer Science & Engineering,401-500,Jordan University of Science and Technology,,17.8,85.7,81.1,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Kyoto University,,30.5,56.7,62.5,21.9,0
+2021,Engineering,Computer Science & Engineering,401-500,Kyungpook National University,,29.2,72,64.2,5,0
+2021,Engineering,Computer Science & Engineering,401-500,Kyushu Institute of Technology,,16.2,82.8,71.5,6.7,0
+2021,Engineering,Computer Science & Engineering,401-500,Lanzhou University,,27.5,76.3,55.4,2.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Laval University,,19.4,71.3,71.1,14.9,0
+2021,Engineering,Computer Science & Engineering,401-500,Liaocheng University,,20.8,88.4,36.8,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Liverpool John Moores University,,23.8,74.3,87.3,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Mansoura University,,19.2,83.8,78.8,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Massey University,,18.6,78,89.1,6.7,0
+2021,Engineering,Computer Science & Engineering,401-500,Nanchang University,,28.7,74.4,63.7,2.5,0
+2021,Engineering,Computer Science & Engineering,401-500,National Cheng Kung University,,39.3,58.9,54.2,11,0
+2021,Engineering,Computer Science & Engineering,401-500,National Technical University of Athens,,30.4,58,68.3,18.3,0
+2021,Engineering,Computer Science & Engineering,401-500,National Tsing Hua University,,34.2,56.4,61.5,18.7,0
+2021,Engineering,Computer Science & Engineering,401-500,National University of Sciences and Technology Pakistan,,36.7,64.3,76.7,5,0
+2021,Engineering,Computer Science & Engineering,401-500,North Dakota State University,,19.5,85.8,78.6,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Northeast Normal University,,21.2,75.9,52.7,9.4,0
+2021,Engineering,Computer Science & Engineering,401-500,NOVA University Lisbon,,26.5,68.7,73.7,10.4,0
+2021,Engineering,Computer Science & Engineering,401-500,Ocean University of China,,28.1,71,62.1,5.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Oklahoma State University,,23.1,74.9,72.7,7.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Ontario Tech University,,19.2,75.9,80.1,11,0
+2021,Engineering,Computer Science & Engineering,401-500,Oregon State University,,23.4,55,62.5,27,0
+2021,Engineering,Computer Science & Engineering,401-500,Osaka University,,31,53.7,56.2,23.7,0
+2021,Engineering,Computer Science & Engineering,401-500,Paul Sabatier University (Toulouse 3),,27.3,64.4,74.2,12.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Pohang University of Science and Technology,,26.5,56.9,57.5,23.1,0
+2021,Engineering,Computer Science & Engineering,401-500,Polytechnic University of Turin,,36.8,60.1,66.8,9.4,0
+2021,Engineering,Computer Science & Engineering,401-500,Qingdao University of Science and Technology,,22.5,83.1,58.4,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Queen's University,,26,65.8,70.3,10.1,0
+2021,Engineering,Computer Science & Engineering,401-500,SASTRA Deemed University,,18.2,89,59.6,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Shanghai Maritime University,,30.9,75.7,60.1,0,0
+2021,Engineering,Computer Science & Engineering,401-500,Shanxi University,,25.5,76.7,40.7,5.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Sharif University of Technology,,35.3,58.3,55.3,13.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Stockholm University,,19.1,70.2,81.4,10.7,0
+2021,Engineering,Computer Science & Engineering,401-500,The George Washington University,,24.9,71.6,67.9,12.3,0
+2021,Engineering,Computer Science & Engineering,401-500,The University of Georgia,,21.7,71,71.5,15.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Tianjin University of Technology,,21.7,80.7,61.9,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,Trinity College Dublin,,25.6,66.9,80.8,11.8,0
+2021,Engineering,Computer Science & Engineering,401-500,Ulsan National Institute of Science and Technology,,22.1,64.3,55.7,19.2,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Aizu,,24.9,73.4,85.1,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Bath,,19.7,67.7,77.1,18.7,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Bergen,,17.7,71.1,87.7,10.4,0
+2021,Engineering,Computer Science & Engineering,401-500,"University of California, Santa Cruz",,19.4,59.6,67.3,26.5,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Campinas,,33.3,58.3,61.9,14.7,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Chile,,29.1,66.4,82.6,10.4,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Connecticut,,27,63,61,14.2,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Delaware,,22.5,64.5,70.9,16.3,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Erlangen-Nuremberg,,25.8,67.2,64.9,11.5,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Hamburg,,23.9,70,73.9,10.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Konstanz,,19.4,65.3,86.4,13.8,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Lille,,27.3,60,74.8,18.5,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Ljubljana,,27.7,68.5,69.9,9.7,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Lorraine,,29.6,56.5,77.4,16.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Malaga,,33.2,63.4,67.6,10.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Missouri - Columbia,,25.1,72.1,67.5,9.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Nebraska - Lincoln,,25.5,69.6,73.2,11,0
+2021,Engineering,Computer Science & Engineering,401-500,University of New Brunswick,,20.9,73.2,79.2,7.5,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Paris,,25.6,55.7,79.6,21.3,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Porto,,29.5,64.2,74.5,11.5,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Rennes 1,,26.3,58.4,75.5,20.7,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Salamanca,,23.3,81.3,65.3,3.6,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Seville,,35.6,63,67.8,9.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of South Florida,,28.6,71.7,65.6,8.7,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Tennessee - Knoxville,,28.4,65.6,72.9,12.8,0
+2021,Engineering,Computer Science & Engineering,401-500,University of the Basque Country,,35,64.4,65.8,7.1,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Tuebingen,,19.2,60.4,74.5,22.8,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Windsor,,21.6,77.2,80.6,4.4,0
+2021,Engineering,Computer Science & Engineering,401-500,University of Wuerzburg,,19.1,77.8,68,9.7,0
+2021,Engineering,Computer Science & Engineering,401-500,Vrije Universiteit Brussel (VUB),,23.8,68.2,78.8,12.8,0
+2021,Engineering,Computer Science & Engineering,401-500,Wayne State University,,26.3,69.2,75.4,7.5,0
+2021,Engineering,Computer Science & Engineering,401-500,Zhejiang Gongshang University,,25.6,75.8,67.2,7.1,0
+2021,Engineering,Computer Science & Engineering,401-500,Zhejiang Normal University,,22,77.2,63.7,5,0
+2021,Engineering,Computer Science & Engineering,401-500,Zhengzhou University,,31.8,69.9,60.8,7.1,0

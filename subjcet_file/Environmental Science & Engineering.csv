@@ -1,0 +1,501 @@
+Year,Field,Subject,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
+2021,Engineering,Environmental Science & Engineering,1,Harvard University,344.5,71.1,86.9,83.5,69.8,100
+2021,Engineering,Environmental Science & Engineering,2,Stanford University,332.1,58.2,89.9,77.4,81.9,86.6
+2021,Engineering,Environmental Science & Engineering,3,ETH Zurich,327.0,74.7,84.4,88.9,100,50
+2021,Engineering,Environmental Science & Engineering,4,University of Wisconsin - Madison,300.6,54.4,76.7,71.7,55.1,100
+2021,Engineering,Environmental Science & Engineering,5,Michigan State University,294.5,53.4,76.4,76.7,49.4,100
+2021,Engineering,Environmental Science & Engineering,6,"University of California, Davis",293.8,59.7,71.5,73.4,61.3,86.6
+2021,Engineering,Environmental Science & Engineering,7,Tsinghua University,288.5,100,83,66.6,92.2,0
+2021,Engineering,Environmental Science & Engineering,8,Technical University of Denmark,281.8,61.7,75.1,85.1,57.4,70.7
+2021,Engineering,Environmental Science & Engineering,9,Massachusetts Institute of Technology (MIT),276.3,51.8,83,81.9,54.3,70.7
+2021,Engineering,Environmental Science & Engineering,10,University of Alberta,274.3,52.7,71.5,78.6,63.7,70.7
+2021,Engineering,Environmental Science & Engineering,11,Arizona State University,270.9,53.2,78.1,72.7,54.3,70.7
+2021,Engineering,Environmental Science & Engineering,12,Princeton University,269.5,41,90.4,81.3,35.2,86.6
+2021,Engineering,Environmental Science & Engineering,13,Nanjing University,268.9,84.1,77.7,68.6,93.4,0
+2021,Engineering,Environmental Science & Engineering,14,Peking University,267.8,84.2,82.5,69.7,87.2,0
+2021,Engineering,Environmental Science & Engineering,15,Technical University of Munich,263.0,43.7,76,82.2,40.3,86.6
+2021,Engineering,Environmental Science & Engineering,16,University of Copenhagen,258.7,57,80.2,89.7,42.4,61.2
+2021,Engineering,Environmental Science & Engineering,17,"University of California, Berkeley",255.3,70.1,79.8,75.2,90.3,0
+2021,Engineering,Environmental Science & Engineering,17,"University of Maryland, College Park",255.3,57.9,84.2,75.2,37,61.2
+2021,Engineering,Environmental Science & Engineering,19,California Institute of Technology,245.6,50.3,87.7,81.4,41.3,50
+2021,Engineering,Environmental Science & Engineering,20,Delft University of Technology,242.1,53.2,73.9,86.8,27,70.7
+2021,Engineering,Environmental Science & Engineering,21,The University of Western Australia,239.4,44.9,76.3,83.8,30.7,70.7
+2021,Engineering,Environmental Science & Engineering,22,Wageningen University & Research,236.0,77.7,86.1,89.6,54.3,0
+2021,Engineering,Environmental Science & Engineering,23,University of Cape Town,235.1,34.8,74.2,83.8,9.2,100
+2021,Engineering,Environmental Science & Engineering,24,The Ohio State University - Columbus,233.9,42.7,74,70.3,41.9,61.2
+2021,Engineering,Environmental Science & Engineering,25,Zhejiang University,233.1,76.1,75.1,67.7,68.3,0
+2021,Engineering,Environmental Science & Engineering,26,The University of Queensland,232.8,76.2,78.6,85.3,61,0
+2021,Engineering,Environmental Science & Engineering,27,University of Colorado at Boulder,229.6,64.5,80.1,74.3,70.1,0
+2021,Engineering,Environmental Science & Engineering,28,Georgia Institute of Technology,228.7,52.7,83.2,84.1,76,0
+2021,Engineering,Environmental Science & Engineering,29,Stockholm University,223.4,56.9,86.4,90.9,62,0
+2021,Engineering,Environmental Science & Engineering,30,University of Toronto,223.0,58.9,72.1,78.8,76.2,0
+2021,Engineering,Environmental Science & Engineering,31,Johns Hopkins University,221.8,35.7,71.9,77.2,37.6,61.2
+2021,Engineering,Environmental Science & Engineering,32,Tongji University,220.5,71.4,72,62.2,64.7,0
+2021,Engineering,Environmental Science & Engineering,33,University of Washington,219.5,60.8,84,73.9,59.9,0
+2021,Engineering,Environmental Science & Engineering,34,University of Michigan-Ann Arbor,218.9,57.6,74.9,72.4,71.9,0
+2021,Engineering,Environmental Science & Engineering,35,King's College London,216.3,32.5,81.2,84.5,24.5,61.2
+2021,Engineering,Environmental Science & Engineering,36,Yale University,215.5,47.7,83.3,79.4,68.6,0
+2021,Engineering,Environmental Science & Engineering,37,Utrecht University,213.7,61.6,87.9,87.5,46.7,0
+2021,Engineering,Environmental Science & Engineering,38,Beijing Normal University,213.5,80.7,72.9,64,47.1,0
+2021,Engineering,Environmental Science & Engineering,39,Duke University,211.5,51,79.9,74.4,65.7,0
+2021,Engineering,Environmental Science & Engineering,40,Sun Yat-sen University,207.4,64.7,79.2,66.5,50.2,0
+2021,Engineering,Environmental Science & Engineering,41,Swiss Federal Institute of Technology Lausanne,207.0,40.6,97,87.3,51.9,0
+2021,Engineering,Environmental Science & Engineering,42,Harbin Institute of Technology,206.6,64.7,77.5,56.3,53.1,0
+2021,Engineering,Environmental Science & Engineering,42,University of British Columbia,206.6,59.6,82.4,82.5,48,0
+2021,Engineering,Environmental Science & Engineering,44,Aarhus University,205.9,62.4,75.9,91.8,49.4,0
+2021,Engineering,Environmental Science & Engineering,44,Fudan University,205.9,55.7,80.1,71.6,55.9,0
+2021,Engineering,Environmental Science & Engineering,46,The University of New South Wales,203.9,58.2,77.4,80.4,52.3,0
+2021,Engineering,Environmental Science & Engineering,47,The University of Hong Kong,203.2,52.1,79.5,67.1,58.1,0
+2021,Engineering,Environmental Science & Engineering,48,"University of Minnesota, Twin Cities",201.4,53,76.4,71.2,57.7,0
+2021,Engineering,Environmental Science & Engineering,49,Nankai University,200.8,51.6,81.8,54.2,56.6,0
+2021,Engineering,Environmental Science & Engineering,50,University of Illinois at Urbana-Champaign,200.2,51.2,72.7,71.5,62,0
+2021,Engineering,Environmental Science & Engineering,51-75,Carnegie Mellon University,,38.5,74.9,70.7,68.3,0
+2021,Engineering,Environmental Science & Engineering,51-75,Colorado State University,,57.2,72,68.2,56.6,0
+2021,Engineering,Environmental Science & Engineering,51-75,Columbia University,,56.9,79.1,81.6,41.9,0
+2021,Engineering,Environmental Science & Engineering,51-75,Ghent University,,55.1,71.6,88.6,48.9,0
+2021,Engineering,Environmental Science & Engineering,51-75,Huazhong University of Science and Technology,,53.7,79.3,53.3,45.8,0
+2021,Engineering,Environmental Science & Engineering,51-75,Hunan University,,49.3,100,49.1,29.2,0
+2021,Engineering,Environmental Science & Engineering,51-75,Imperial College London,,55.6,83.4,90,42.4,0
+2021,Engineering,Environmental Science & Engineering,51-75,Jinan University,,51.8,76.6,66.6,50.2,0
+2021,Engineering,Environmental Science & Engineering,51-75,King Abdulaziz University,,42.4,89.6,97.5,38.7,0
+2021,Engineering,Environmental Science & Engineering,51-75,McGill University,,50.6,79.4,81.4,42.4,0
+2021,Engineering,Environmental Science & Engineering,51-75,Nanyang Technological University,,47.8,85,87.8,43.4,0
+2021,Engineering,Environmental Science & Engineering,51-75,National University of Singapore,,54.4,79.7,87.7,44.8,0
+2021,Engineering,Environmental Science & Engineering,51-75,Shanghai Jiao Tong University,,58.7,76.6,64.7,40.3,0
+2021,Engineering,Environmental Science & Engineering,51-75,Swedish University of Agricultural Sciences,,55.9,75.6,84.9,45.3,0
+2021,Engineering,Environmental Science & Engineering,51-75,The Hong Kong Polytechnic University,,59.2,89.6,68.8,35.8,0
+2021,Engineering,Environmental Science & Engineering,51-75,The Hong Kong University of Science and Technology,,44.5,82.6,64.4,48.9,0
+2021,Engineering,Environmental Science & Engineering,51-75,The University of Texas at Austin,,43.3,79.8,67.7,57,0
+2021,Engineering,Environmental Science & Engineering,51-75,Tianjin University,,59.3,75.6,58.3,43.4,0
+2021,Engineering,Environmental Science & Engineering,51-75,"University of California, Irvine",,45.3,82.3,80.2,49.8,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Exeter,,52.4,87,85.3,37,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Florida,,57.7,70.7,78,51.5,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Leeds,,57.5,82.2,83.5,35.8,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Massachusetts Amherst,,43.9,78.1,81.8,51.5,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Saskatchewan,,45.8,70.4,84,57.7,0
+2021,Engineering,Environmental Science & Engineering,51-75,University of Science and Technology of China,,50.9,86.8,55.3,44.3,0
+2021,Engineering,Environmental Science & Engineering,76-100,Central South University,,50.2,89.2,53.7,28.5,0
+2021,Engineering,Environmental Science & Engineering,76-100,City University of Hong Kong,,46.7,77.9,65.5,42.4,0
+2021,Engineering,Environmental Science & Engineering,76-100,Cornell University,,49.9,70.9,68.2,44.3,0
+2021,Engineering,Environmental Science & Engineering,76-100,Dalian University of Technology,,50.6,72.5,53.7,46.7,0
+2021,Engineering,Environmental Science & Engineering,76-100,East China Normal University,,45.2,83.7,67.9,37,0
+2021,Engineering,Environmental Science & Engineering,76-100,Karlsruhe Institute of Technology (KIT),,52.7,78.4,87.6,36.4,0
+2021,Engineering,Environmental Science & Engineering,76-100,Lancaster University,,47.3,78.7,86.9,40.3,0
+2021,Engineering,Environmental Science & Engineering,76-100,Nanjing University of Information Science & Technology,,55.5,73.5,71.4,42.4,0
+2021,Engineering,Environmental Science & Engineering,76-100,North Carolina State University - Raleigh,,47,69.2,64.8,53.9,0
+2021,Engineering,Environmental Science & Engineering,76-100,Oregon State University,,51.3,74,68.3,48,0
+2021,Engineering,Environmental Science & Engineering,76-100,Pennsylvania State University - University Park,,44.4,72.6,71.8,51.1,0
+2021,Engineering,Environmental Science & Engineering,76-100,Purdue University - West Lafayette,,48.2,71.9,72.7,51.5,0
+2021,Engineering,Environmental Science & Engineering,76-100,Sorbonne University,,55.6,75.7,89.1,32.7,0
+2021,Engineering,Environmental Science & Engineering,76-100,South China University of Technology,,54,82.2,55.6,36.4,0
+2021,Engineering,Environmental Science & Engineering,76-100,Tel Aviv University,,23.1,64.4,73.8,6.5,70.7
+2021,Engineering,Environmental Science & Engineering,76-100,Texas A&M University,,51.9,68.7,76.6,47.6,0
+2021,Engineering,Environmental Science & Engineering,76-100,Université Grenoble Alpes,,44.7,77.5,86.9,42.4,0
+2021,Engineering,Environmental Science & Engineering,76-100,"University of California, Los Angeles",,46.3,80.5,77,38.1,0
+2021,Engineering,Environmental Science & Engineering,76-100,"University of California, Riverside",,41.2,68.7,74.9,55.5,0
+2021,Engineering,Environmental Science & Engineering,76-100,"University of California, Santa Barbara",,42.1,87.2,77.5,40.8,0
+2021,Engineering,Environmental Science & Engineering,76-100,University of Cambridge,,52.9,82.8,87.6,29.2,0
+2021,Engineering,Environmental Science & Engineering,76-100,University of Chicago,,35.3,83.8,74.9,44.8,0
+2021,Engineering,Environmental Science & Engineering,76-100,University of Helsinki,,56.7,72,84.8,41.3,0
+2021,Engineering,Environmental Science & Engineering,76-100,University of North Carolina at Chapel Hill,,44.1,74,67.7,51.5,0
+2021,Engineering,Environmental Science & Engineering,76-100,Vrije Universiteit Amsterdam,,48,83,89.4,32,0
+2021,Engineering,Environmental Science & Engineering,101-150,Aix Marseille University,,40.4,68.4,82.5,40.8,0
+2021,Engineering,Environmental Science & Engineering,101-150,Boston University,,40.7,88.3,73.3,32.7,0
+2021,Engineering,Environmental Science & Engineering,101-150,China Agricultural University,,53.2,70.5,66.9,35.8,0
+2021,Engineering,Environmental Science & Engineering,101-150,Chongqing University,,49.8,75.9,59.7,27,0
+2021,Engineering,Environmental Science & Engineering,101-150,Curtin University,,39.3,76.8,80.2,35.8,0
+2021,Engineering,Environmental Science & Engineering,101-150,Dalhousie University,,35.6,85.8,81.4,36.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,Griffith University,,48.7,74.5,80.5,29.2,0
+2021,Engineering,Environmental Science & Engineering,101-150,Humboldt University of Berlin,,40.6,90,85.1,21.7,0
+2021,Engineering,Environmental Science & Engineering,101-150,King Abdullah University of Science and Technology,,33.4,89.3,97.1,34,0
+2021,Engineering,Environmental Science & Engineering,101-150,KU Leuven,,47.3,75.7,85.8,37.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,Lund University,,51.3,76.7,84.2,23.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,Masaryk University,,35.5,74.4,86.1,42.9,0
+2021,Engineering,Environmental Science & Engineering,101-150,Monash University,,48.2,80,79.4,32,0
+2021,Engineering,Environmental Science & Engineering,101-150,Nanjing Agricultural University,,45.4,75.3,65,40.3,0
+2021,Engineering,Environmental Science & Engineering,101-150,North China Electric Power University,,44.3,78,58.2,36.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,Norwegian University of Science and Technology - NTNU,,44.4,71.5,80.8,42.9,0
+2021,Engineering,Environmental Science & Engineering,101-150,Paul Sabatier University (Toulouse 3),,46.5,78.8,90.5,32,0
+2021,Engineering,Environmental Science & Engineering,101-150,Queensland University of Technology,,44.6,80,84.1,26.1,0
+2021,Engineering,Environmental Science & Engineering,101-150,"Rutgers, The State University of New Jersey - New Brunswick",,40.1,71.6,72.7,48,0
+2021,Engineering,Environmental Science & Engineering,101-150,Shandong University,,55.2,73.8,55.9,32.7,0
+2021,Engineering,Environmental Science & Engineering,101-150,Soochow University (China),,33,96.6,62.1,30,0
+2021,Engineering,Environmental Science & Engineering,101-150,The University of Adelaide,,42.4,78.5,81.2,27.7,0
+2021,Engineering,Environmental Science & Engineering,101-150,The University of Georgia,,40.2,71.5,65.4,40.8,0
+2021,Engineering,Environmental Science & Engineering,101-150,The University of Manchester,,46.9,78,79.7,35.2,0
+2021,Engineering,Environmental Science & Engineering,101-150,The University of Melbourne,,56.2,74.9,76.4,27.7,0
+2021,Engineering,Environmental Science & Engineering,101-150,Umea University,,38,73.5,80.7,42.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,University at Albany (State University of New York),,33.7,78.4,83.9,37,0
+2021,Engineering,Environmental Science & Engineering,101-150,University College London,,48.5,80.7,81.3,26.1,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Antwerp,,45,76.4,86.1,33.3,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Arizona,,47.8,74,76.1,36.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Basel,,34.1,82.6,92.3,29.2,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Bern,,39.1,77.2,89.3,31.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Birmingham,,42,75.3,88.4,40.3,0
+2021,Engineering,Environmental Science & Engineering,101-150,"University of California, San Diego",,39.8,81.7,78.9,39.2,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Cincinnati,,38,81.8,80.7,37,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of East Anglia,,40.6,86.3,89.7,24.5,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Iowa,,33,67.7,65.6,53.1,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Oslo,,36.3,74,86.1,36.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Oxford,,57.2,82.2,88.4,19.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Sao Paulo,,59,65.6,74,24.5,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Technology Sydney,,44.7,82.4,86.6,22.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Tuebingen,,28.7,85.3,88.8,42.9,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Versailles Saint-Quentin-en-Yvelines,,49.1,87.6,94.6,18.5,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Vienna,,32,76.4,92.1,37.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of Waterloo,,45.6,68.7,79.6,42.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,University of York,,36,79.6,83.2,31.4,0
+2021,Engineering,Environmental Science & Engineering,101-150,Virginia Polytechnic Institute and State University,,42.8,67.5,60.6,47.6,0
+2021,Engineering,Environmental Science & Engineering,101-150,Wuhan University,,59.5,70.2,55.9,30,0
+2021,Engineering,Environmental Science & Engineering,101-150,Xiamen University,,50.5,78.7,61.3,35.2,0
+2021,Engineering,Environmental Science & Engineering,101-150,Zhejiang University of Technology,,39.9,78,57.3,38.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Autonomous University of Barcelona,,49.9,76.9,84.3,18.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,Beijing Institute of Technology,,39.9,87.2,60.3,19.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,Carleton University,,32.6,71.9,74.7,41.3,0
+2021,Engineering,Environmental Science & Engineering,151-200,Chalmers University of Technology,,39.3,76.2,73.9,28.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,China University of Geosciences (Wuhan),,42.9,70.5,63.4,34,0
+2021,Engineering,Environmental Science & Engineering,151-200,Colorado School of Mines,,30.6,71.3,61,44.3,0
+2021,Engineering,Environmental Science & Engineering,151-200,Emory University,,31.9,84.7,74.7,31.4,0
+2021,Engineering,Environmental Science & Engineering,151-200,Guangdong University of Technology,,39.3,82.7,56.1,29.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,Huazhong Agricultural University,,39.5,68.9,71.1,38.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Jiangsu University,,35.9,92.9,52.1,16,0
+2021,Engineering,Environmental Science & Engineering,151-200,Korea University,,44.7,69.2,63.3,31.4,0
+2021,Engineering,Environmental Science & Engineering,151-200,Leiden University,,33.2,82.7,90,25.3,0
+2021,Engineering,Environmental Science & Engineering,151-200,Newcastle University,,36,75.8,81.2,30.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Northwest A&F University,,50.3,70.7,63,23.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,Northwestern University,,26.3,82.9,72.5,34.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,Norwegian University of Life Sciences,,38.5,74.5,88,24.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,Paris-Saclay University,,48.9,71.6,80.9,20.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Pohang University of Science and Technology,,27.4,85,64.7,37,0
+2021,Engineering,Environmental Science & Engineering,151-200,Pompeu Fabra University,,34,83.6,94.3,21.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Rice University,,24.9,74.5,78.1,42.9,0
+2021,Engineering,Environmental Science & Engineering,151-200,RWTH Aachen University,,36.8,71.3,82.4,36.4,0
+2021,Engineering,Environmental Science & Engineering,151-200,Seoul National University,,49.4,65.8,61.6,32.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,Shenzhen University,,37.3,81.8,70.2,24.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,Southern University of Science and Technology,,32.7,84.6,76,29.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,Technical University of Berlin,,38,75.4,73.5,27,0
+2021,Engineering,Environmental Science & Engineering,151-200,The Australian National University,,45.8,80.8,77.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,The Chinese University of Hong Kong,,38.7,81.3,71.6,29.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,The University of Edinburgh,,47.1,76.4,82.3,21.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,The University of Tokyo,,45,62.5,77,32,0
+2021,Engineering,Environmental Science & Engineering,151-200,Université Gustave Eiffel,,33.1,75.4,81.9,37,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Aveiro,,50.5,67.8,79.4,23.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Barcelona,,47.1,74.6,80.7,25.3,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Connecticut,,34.7,74.8,73.6,38.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Delaware,,34.2,68,75.6,46.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Girona,,37.4,78.4,76.4,24.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Gothenburg,,36.8,79.4,80.3,27.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Montpellier,,48.7,73.9,86.6,20.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Montreal,,41.8,66.8,74.5,34.6,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Oklahoma - Norman,,35,75.5,84.5,32.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Ottawa,,33.7,73.3,77.3,33.3,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Plymouth,,31.6,86.1,79.6,24.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Savoy,,26.1,79.4,87.6,35.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of South Australia,,35.5,69.9,80.2,38.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of South Carolina - Columbia,,31.8,78,76.3,35.2,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Southampton,,41.6,80.7,85,20.7,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Sussex,,31.5,94.8,84.2,18.5,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Tennessee - Knoxville,,38.2,70.5,73.2,38.1,0
+2021,Engineering,Environmental Science & Engineering,151-200,University of Zurich,,31.6,79.2,89.5,26.1,0
+2021,Engineering,Environmental Science & Engineering,151-200,Washington University in St. Louis,,26.4,69.5,68.6,49.8,0
+2021,Engineering,Environmental Science & Engineering,151-200,Wuhan University of Technology,,33.6,94.5,62.9,13.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Aalborg University,,34.6,75.9,81.1,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,Bangor University,,27.8,77,87.5,18.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,Beihang University,,33.4,75.7,57.9,23.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Beijing Forestry University,,39.7,66.5,57.1,22.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Ben-Gurion University of the Negev,,32.1,66.5,78.1,30,0
+2021,Engineering,Environmental Science & Engineering,201-300,Brown University,,28.4,77.1,77.5,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Cardiff University,,33.6,76.1,76.6,20.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Catholic University of Louvain,,28,82.8,90,13.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,China University of Geosciences (Beijing),,39.1,69.6,52.1,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,China University of Petroleum - Beijing,,31.7,72.6,64.5,22.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Claude Bernard University Lyon 1,,32.8,63.5,78.4,34.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Clemson University,,28.2,65.8,62,39.2,0
+2021,Engineering,Environmental Science & Engineering,201-300,Dartmouth College,,26.5,73.1,62.7,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,East China University of Science and Technology,,41,74.3,52.5,26.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Florida International University,,31.5,70.9,74.4,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Florida State University,,28.1,72.6,74.7,37.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Free University Berlin,,28,82.3,82.3,20.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Fuzhou University,,33.2,88.5,58.4,14.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Guangzhou University,,31.8,83.6,64.3,21.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Hanyang University,,38.4,69.2,62.2,26.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Hohai University,,46.5,59.6,60.6,31.4,0
+2021,Engineering,Environmental Science & Engineering,201-300,Hokkaido University,,39.8,65.9,77.3,30,0
+2021,Engineering,Environmental Science & Engineering,201-300,Hong Kong Baptist University,,28.9,70.5,61.6,30.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Indiana University Bloomington,,31.6,74.2,66.8,32.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Institut Agro,,36.4,76.3,85,16,0
+2021,Engineering,Environmental Science & Engineering,201-300,James Cook University,,42.2,81.3,82.6,13.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,KTH Royal Institute of Technology,,38.3,78.8,77.5,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,Kyoto University,,39.3,59.5,75,37.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Kyungpook National University,,28.5,80,65.8,24.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,Lanzhou University,,43.1,71,61.4,19.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Leuphana University Luneburg,,28.7,78.4,81.6,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,Louisiana State University - Baton Rouge,,33.7,63.6,67.7,32.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Macquarie University,,34.9,81.9,76.3,18.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,Nanjing University of Science and Technology,,32.2,80.5,50.1,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,National Taiwan University,,45,63,68.7,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Northeastern University (Boston),,25.7,78.9,67.5,30.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Ocean University of China,,41.9,66.3,55.4,31.4,0
+2021,Engineering,Environmental Science & Engineering,201-300,PSL University,,43.8,71.5,84.4,14.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Queen's University Belfast,,26.7,70.8,87.1,26.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Radboud University Nijmegen,,30.6,69.5,82.3,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Renmin University of China,,30.2,73.1,67.3,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,RMIT University,,36.7,68.1,77.3,19.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Sejong University,,33,85.5,75.6,16,0
+2021,Engineering,Environmental Science & Engineering,201-300,Shanghai University,,35.9,79.9,56.7,26.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Sichuan University,,42.5,69.5,53.9,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,South China Normal University,,33.1,77.2,60.8,22.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,The Education University of Hong Kong,,28.7,84,52.7,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,The University of Calgary,,34.3,62,74.6,37.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,"The University of Newcastle, Australia",,35.7,75.4,82.5,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,The University of Reading,,40.7,79.6,85.5,9.2,0
+2021,Engineering,Environmental Science & Engineering,201-300,The University of Sheffield,,37.9,77.8,79.6,13.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,Ulsan National Institute of Science and Technology,,26.6,83.3,56.5,25.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,"University at Buffalo, the State University of New York",,25.1,75.2,71,30,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Aberdeen,,32.7,82.8,86.6,18.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Amsterdam,,31.3,75.7,80.8,23.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Bath,,26.5,79.3,71.2,26.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Bayreuth,,26.6,80,85.2,29.2,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Bremen,,31.8,71.2,88.3,20.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Bristol,,37,76.5,84.8,19.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,"University of California, Santa Cruz",,30.3,77.2,73.2,31.4,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Clermont Auvergne,,29.6,73.6,86.6,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Duisburg-Essen,,29.4,75.1,76.4,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Eastern Finland,,36.8,69.8,80.7,27,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Freiburg,,30.1,76.7,86.8,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Geneva,,28.1,68.7,87.6,29.2,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Groningen,,34.3,76.4,80.6,13.1,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Guelph,,32.3,69.8,77.9,28.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Hawaii at Manoa,,29.9,78.5,80.5,20.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Houston,,29,72.5,72,35.8,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Illinois at Chicago,,26.3,72.7,67.6,30.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Innsbruck,,32.1,74.4,93.2,16,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Lille,,34.3,70.9,86.2,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Lisbon,,52.9,68.3,78.7,14.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,"University of Maryland, Baltimore County",,23.8,77.8,78.8,29.2,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Montana - Missoula,,31.7,75.7,70.7,18.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,"University of Natural Resources and Life Sciences, Vienna",,36.3,75.1,86.7,23.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Nebraska - Lincoln,,33.7,70.4,76.2,22.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Nevada - Reno,,28.2,68.4,65.3,33.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Notre Dame,,23.5,76.6,64.5,33.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Nottingham,,35.6,76.6,84.8,19.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Paris,,30.4,75,86.7,24.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Pittsburgh,,26.5,68.9,57,42.4,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Porto,,50,69.7,73.2,14.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Quebec Montreal,,30.4,73.9,83.4,21.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of South Florida,,30.3,67.2,71.1,28.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Southern California,,33.6,72.7,67.4,30,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Southern Denmark,,32.4,75.2,91.6,27,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Sydney,,38.5,72.5,78,23.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Tasmania,,38.9,76.8,77.1,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of the Basque Country,,38,71.5,73.6,16,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Twente,,37.2,78.1,87.6,17.3,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Utah,,32.9,71,63.6,27.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Valencia,,38.9,78.9,76.9,6.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Virginia,,28,72.9,70.3,27,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Wollongong,,32.7,75.1,76.4,24.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University of Wyoming,,32,66.1,69.1,28.5,0
+2021,Engineering,Environmental Science & Engineering,201-300,University Paris Est Creteil,,29.6,75.1,89.6,20.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Uppsala University,,35.5,75.9,84.8,22.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Vienna University of Technology,,28.7,73.6,81.2,23.6,0
+2021,Engineering,Environmental Science & Engineering,201-300,Washington State University,,34.2,74.9,68.8,30.7,0
+2021,Engineering,Environmental Science & Engineering,201-300,Xi'an Jiaotong University,,40.9,78.6,67.3,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,Aalto University,,34.6,74.9,73.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Autonomous University of Madrid,,31.3,75.6,75.4,9.2,0
+2021,Engineering,Environmental Science & Engineering,301-400,Beijing University of Chemical Technology,,34.5,76.3,50.7,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Beijing University of Technology,,31.2,71.4,54.3,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Central China Normal University,,21.3,80.9,45.6,27.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Clarkson University,,21,73.4,78.4,29.2,0
+2021,Engineering,Environmental Science & Engineering,301-400,COMSATS University Islamabad,,29.3,77.3,91.9,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Cranfield University,,33.4,69.8,81.1,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Deakin University,,31.6,71.8,74.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Donghua University,,29.6,74,56.6,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Drexel University,,24.2,69.2,66.9,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Ecole des Ponts ParisTech,,26.6,78.4,76.9,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Edith Cowan University,,21.9,88.3,89.6,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Eindhoven University of Technology,,29.5,79.6,75.8,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Fujian Agriculture and Forestry University,,26.9,67,69.1,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Goethe University Frankfurt,,24.8,75.2,82.8,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,Gwangju Institute of Science and Technology,,24.2,64.4,71.9,27.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Heriot-Watt University,,23.7,71.8,80,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Hunan Agricultural University,,25.2,84.9,47,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Icahn School of Medicine at Mount Sinai,,24.2,82.3,82.3,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Iowa State University,,30.8,72.9,67.1,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Karolinska Institute,,26.2,74,89.2,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,King Saud University,,30,81.4,96.7,6.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Korea Advanced Institute of Science and Technology,,24.6,80.4,64.9,21.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Kunming University of Science and Technology,,29.3,71,49.8,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Kyushu University,,34.2,62.3,74.3,22.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Laval University,,36.7,64.5,76,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Linkoping University,,27.6,75.5,74.2,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,London School of Hygiene & Tropical Medicine,,21.3,74.6,93.7,21.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,McMaster University,,27.5,65.5,74.5,22.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Michigan Technological University,,26,69,70.6,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Montana State University - Bozeman,,24.4,72,66.4,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Nanjing Normal University,,35.1,70,59.9,21.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,National Polytechnic Institute of Toulouse,,30,70.3,79.6,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,"National University of Ireland, Galway",,28.4,71.4,87.9,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Northern Arizona University,,26.9,82.7,73.3,6.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,NOVA University Lisbon,,30.2,74.1,77.2,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Orebro University,,21.4,73.3,78.7,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Polytechnic University of Catalonia,,41.2,68.2,78.3,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Polytechnic University of Milan,,38.1,76.9,76.1,0,0
+2021,Engineering,Environmental Science & Engineering,301-400,San Diego State University,,23,69.1,76.9,22.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Sapienza University of Rome,,38.6,70.8,64.4,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Simon Fraser University,,29.9,71.4,76,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,South China Agricultural University,,34.3,69.3,59.3,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Southeast University,,38.9,66.1,57.8,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Southern Cross University,,23.7,77.8,77,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Stony Brook University,,24.6,71.4,72.1,27.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Sungkyunkwan University,,28.4,69,61.7,21.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,SUNY College of Environmental Science and Forestry,,23.9,75.6,69.1,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,Technion-Israel Institute of Technology,,26.3,71.2,68.7,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,The Hebrew University of Jerusalem,,27.3,66.8,76.7,30,0
+2021,Engineering,Environmental Science & Engineering,301-400,The University of Auckland,,32.3,70.9,81.9,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,The University of Koblenz-Landau,,23.5,67.5,83.8,29.2,0
+2021,Engineering,Environmental Science & Engineering,301-400,Tohoku University,,32,63.9,73.7,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Trent University,,24.6,60.7,73.6,30.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,TU Dresden,,29.7,69.9,80.7,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Tufts University,,23.6,67.5,65.9,32.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,Université libre de Bruxelles (ULB),,26.2,73,91.3,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Alaska - Fairbanks,,31.6,71.3,72.4,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Bergen,,25.7,71.6,86.4,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Bologna,,35.5,62.2,74,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Bonn,,31.3,74.7,86.2,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Bordeaux,,30.7,68.9,78.5,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Castilla–La Mancha,,37.2,67.4,70.1,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Goettingen,,36.1,74.6,86.9,9.2,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Granada,,39,66.1,76.8,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Hamburg,,30.9,69.8,79.1,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Hohenheim,,24.2,78.3,86.1,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Idaho,,28.5,73.3,58.9,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Kentucky,,26.2,64.5,69.3,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Lausanne,,24.7,71.9,83.7,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Leipzig,,23.5,79,81.3,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Liverpool,,29.4,71.3,82.8,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Lorraine,,33.9,64,79.8,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Maine,,26.7,69.6,66.5,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Mainz,,24.2,74.2,90.4,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Miami,,29.4,66.9,72.5,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Muenster,,21.2,68.6,81.8,26.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Munich,,31,77.2,87.6,6.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Naples Federico II,,38,69,69.3,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of New Brunswick,,20.4,76.2,78.2,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of New Hampshire,,30.2,75.6,70.7,19.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Oldenburg,,22.5,75.7,81,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Padua,,38.4,72.9,74.5,13.1,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Potsdam,,25.8,85.9,85.4,9.2,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Rennes 1,,27.1,70.6,80.5,23.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Rhode Island,,24.6,68.2,64.3,31.4,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Santiago Compostela,,37.2,66,78,18.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Science and Technology Beijing,,35.4,69.1,52.6,16,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Stirling,,23.5,76.3,81.5,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Surrey,,29.8,78,83.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Tromso,,27.2,69.9,87.9,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Tsukuba,,26.9,77.4,83.8,17.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Turin,,31.8,64.2,68.7,21.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Vermont,,27.9,70.8,60.1,20.7,0
+2021,Engineering,Environmental Science & Engineering,301-400,University of Victoria,,30.6,77.8,76.5,14.6,0
+2021,Engineering,Environmental Science & Engineering,301-400,Western Sydney University,,27.8,76.3,81.5,11.3,0
+2021,Engineering,Environmental Science & Engineering,301-400,Western University,,27.6,68.4,74.2,27,0
+2021,Engineering,Environmental Science & Engineering,301-400,Yonsei University,,36.5,62.1,57.7,24.5,0
+2021,Engineering,Environmental Science & Engineering,301-400,Zhejiang A&F University,,25.3,86,77.9,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,Aristotle University of Thessaloniki,,34.9,68.1,70.4,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Auburn University,,28.4,64.8,72.1,18.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,Brigham Young University,,17,83.2,62.5,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Charles University in Prague,,29.8,66.1,70.3,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,China University of Mining and Technology - Beijing,,26.2,65,52.5,18.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,China University of Mining and Technology - Xuzhou,,34.2,64.5,50.7,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,China University of Petroleum (Huadong),,26.5,74.3,54.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Concordia University,,22.7,69.6,68.6,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Czech University of Life Sciences Prague,,29.8,69.2,74.9,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,Flinders University,,23.7,62.8,79.9,22.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Guangxi University,,27.2,71.2,57.8,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Hasselt University,,24.2,69,83.7,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,Hefei University of Technology,,27.1,69.2,59.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Heidelberg University,,25.5,72,81.6,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,Henan Normal University,,25.9,77.2,36.8,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Jeonbuk National University,,26,68.7,70.5,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Jiangnan University,,27.1,66.1,56.1,20.7,0
+2021,Engineering,Environmental Science & Engineering,401-500,Jilin University,,32.2,59.9,44.7,19.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Lappeenranta University of Technology,,25.8,76.7,82.2,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,Leibniz University Hannover,,23.4,67.2,83.7,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Manchester Metropolitan University,,21.9,73.7,86.5,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,Memorial University of Newfoundland,,24,69,76.4,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Nagoya University,,28.4,63.1,76.2,22.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Nanjing Forestry University,,29.9,69.5,65.5,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,NanJing Tech University,,29.4,71.6,58,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,National and Kapodistrian University of Athens,,24.9,71.9,78.3,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,National Autonomous University of Mexico,,40.1,58.4,69.4,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,National Cheng Kung University,,28.7,61.5,63.9,18.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,Northeast Normal University,,27.8,65.2,56.2,21.7,0
+2021,Engineering,Environmental Science & Engineering,401-500,Northwestern Polytechnical University,,24,82.5,65.5,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,Polytechnic University of Madrid,,35,70.4,75.2,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,Portland State University,,23.2,69,64.3,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,Pusan National University,,27.1,66.1,62.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Qingdao University,,22.2,79.3,55.7,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Quaid-i-Azam University,,23.8,71.4,85.3,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Queen's University,,25.4,58.4,72,24.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,South Dakota State University,,22.9,80.2,57.2,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Southwest University,,28.7,68.2,62.3,19.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Stellenbosch University,,27.8,81.1,81.4,0,0
+2021,Engineering,Environmental Science & Engineering,401-500,Swansea University,,20.7,76.8,88.7,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Syracuse University,,19.7,67.9,61,30,0
+2021,Engineering,Environmental Science & Engineering,401-500,Temple University,,18.6,69.1,67.2,25.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Texas Tech University,,23.3,67,72.7,18.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,The George Washington University,,23.1,74.3,70.9,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,The University of Alabama - Tuscaloosa,,21,69.6,69.1,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,The University of Glasgow,,24.7,68.6,79,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,The University of New Mexico - Albuquerque,,21.5,73,58.1,23.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,The University of Waikato,,22.7,70.3,83.6,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Tokyo Institute of Technology,,25.7,61.2,79.1,20.7,0
+2021,Engineering,Environmental Science & Engineering,401-500,Ton Duc Thang University,,17.4,86.6,100,0,0
+2021,Engineering,Environmental Science & Engineering,401-500,Trinity College Dublin,,23.5,67.9,80.3,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,UNESP,,37.7,63,64.8,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,Universidad de Cadiz,,27.6,69.4,74.7,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Universitat Jaume I,,24.6,75.4,78.4,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,Universite d'Avignon et des Pays de Vaucluse,,21.4,76.8,81.6,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,Universiti Teknologi Malaysia,,32.1,72.2,82.1,0,0
+2021,Engineering,Environmental Science & Engineering,401-500,University College Cork,,22.4,72.6,90,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University College Dublin,,27.7,67.9,86.3,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Agriculture Faisalabad,,21.6,77.1,84.7,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Campinas,,33.1,69.1,66,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Canterbury,,22.3,73.1,84.5,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Central Florida,,25.7,75.3,71.8,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Coimbra,,36.8,64.3,77.2,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Cordoba,,31.9,71.8,76,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Erlangen-Nuremberg,,23.4,75.9,80.5,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Florence,,34.9,72.9,73.7,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Giessen,,23.5,75.2,79.3,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Graz,,21.7,68,77,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Halle-Wittenberg,,21.5,78.2,84,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Hull,,21,76.2,83.4,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Jena,,21.8,74.5,83.8,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Jinan,,23.5,74.9,51.2,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Kent,,22.7,82.9,81.8,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Kiel,,26.7,77.1,82,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Leicester,,23.9,76.2,91.4,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Liege,,30.3,64.6,89.5,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Ljubljana,,28.7,67.4,75.4,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Manitoba,,25.7,63.9,74.5,20.7,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Milan,,35.1,71,68.1,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Milano-Bicocca,,24.1,70.5,74.3,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Palermo,,28.7,73.6,67.4,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Patras,,28.4,74.1,69.8,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Pennsylvania,,23.1,71.3,69,18.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Shanghai for Science and Technology,,24.1,78.4,49.1,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Sherbrooke,,23.5,75,78.9,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of South Bohemia,,23.6,66.1,80.2,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Southern Queensland,,22.2,76.5,89.9,6.5,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of St Andrews,,22.7,77.8,85.6,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Strathclyde,,22,70.2,81.8,13.1,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Stuttgart,,23,70.1,80.4,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Tehran,,34.6,64.2,63.5,9.2,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of the Balearic Islands,,21.7,74.7,83.9,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Warwick,,20.2,70.7,76.4,14.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Western Brittany,,20.4,72.7,84.2,11.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,University of Wisconsin-Milwaukee,,21.3,64,71,21.7,0
+2021,Engineering,Environmental Science & Engineering,401-500,Utah State University,,31,65.9,57,16,0
+2021,Engineering,Environmental Science & Engineering,401-500,Vanderbilt University,,19.8,73.1,60.7,17.3,0
+2021,Engineering,Environmental Science & Engineering,401-500,Xi'an University of Architecture and Technology,,31.3,67.1,51.3,19.6,0
+2021,Engineering,Environmental Science & Engineering,401-500,Zhejiang Gongshang University,,22.7,73.4,53.5,17.3,0

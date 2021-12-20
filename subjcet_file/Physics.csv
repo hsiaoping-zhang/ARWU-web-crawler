@@ -1,501 +1,501 @@
-Year,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
-2021,1,Massachusetts Institute of Technology (MIT),390.6,90.4,87.8,81.8,96,100
-2021,2,Princeton University,352.6,74.6,85.5,81.2,76.2,100
-2021,3,Stanford University,346.3,82.1,90.8,80.6,77.7,79.5
-2021,4,The University of Tokyo,342.3,94.2,70.9,74.7,92.6,69.7
-2021,5,California Institute of Technology,339.0,88.1,89.2,84.7,66.2,78.6
-2021,6,Harvard University,335.3,95.8,87.1,85.4,72.2,63
-2021,7,University of Chicago,334.8,82.1,87.4,82.1,89.6,59.4
-2021,8,"University of California, Berkeley",334.1,88.2,85.9,83.4,76.9,66.4
-2021,9,Paris-Saclay University,321.5,91.6,76.2,86.6,100,36.4
-2021,10,PSL University,315.9,80.1,79.3,86.6,75,64.2
-2021,11,University of Cambridge,298.2,91,84.4,87.7,75.6,29.7
-2021,12,The University of Edinburgh,298.1,63.5,92.5,91.8,64.3,59.4
-2021,13,"University of California, Santa Barbara",289.8,60.5,86.4,78.4,56.5,70.7
-2021,14,University of Colorado at Boulder,289.4,58.7,78.2,77.5,59.9,77.2
-2021,15,Sorbonne University,288.7,100,77.5,88.3,93.6,0
-2021,16,The University of Manchester,284.3,60.7,78,90.5,54.8,72.8
-2021,17,University of Washington,282.3,57,96.7,81.2,49.3,63
-2021,18,University of Geneva,277.2,61.9,87.6,93.9,57.4,51.4
-2021,19,Cornell University,271.6,54.8,85.6,79.1,51.2,64.2
-2021,20,University of Michigan-Ann Arbor,261.2,71.3,81.6,80.1,62.6,29.7
-2021,21,Columbia University,259.6,59.2,97.8,83.7,51.5,34.3
-2021,22,"University of Maryland, College Park",258.4,73.2,86.4,80.1,82.8,0
-2021,23,University of Illinois at Urbana-Champaign,257.9,61.2,87.2,78,51.9,42
-2021,24,University of Oxford,257.2,81.3,80.6,89.3,77.5,0
-2021,25,Université libre de Bruxelles (ULB),255.8,44.3,90.8,91.4,43.1,59.4
-2021,26,Tsinghua University,251.8,85.6,75.2,66,77.8,0
-2021,27,University of Paris,250.7,76.8,87.8,90.6,68,0
-2021,28,The Australian National University,246.5,58.2,88.1,90.9,40.1,42
-2021,29,University of Munich,244.8,61.7,84.8,87.7,55,25.7
-2021,30,University of Science and Technology of China,240.3,84.1,67.4,62.9,76.2,0
-2021,31,ETH Zurich,239.6,71.6,79.8,87.3,70.8,0
-2021,31,Sapienza University of Rome,239.6,65.2,84.7,89.6,71.8,0
-2021,33,Nagoya University,236.9,53,65.2,71.7,45,59.4
-2021,34,"University of California, Irvine",236.5,49,83.7,82.4,45.3,42
-2021,35,Peking University,236.1,83.8,71.1,68.9,67.5,0
-2021,36,Johns Hopkins University,233.7,60.7,81,82.4,45.8,29.7
-2021,37,University of Padua,232.8,65.8,88,92,60.6,0
-2021,38,Imperial College London,232.0,70.5,76.1,86.2,68.1,0
-2021,39,Université Grenoble Alpes,230.8,71.2,71.9,86.2,70.4,0
-2021,40,Kyoto University,230.6,65.6,65.9,70.8,59.2,25.7
-2021,41,University of Pennsylvania,228.7,48.6,86.1,80.4,41.5,36.4
-2021,42,Institut Polytechnique de Paris,228.3,51.1,75.9,87.5,54.1,29.7
-2021,43,Heidelberg University,227.4,65.2,87.5,91,56.5,0
-2021,44,University College London,226.8,72.4,81.2,88.6,55.4,0
-2021,45,Uppsala University,225.0,54.9,74.2,92,47.7,29.7
-2021,46,The Chinese University of Hong Kong,224.6,42.6,93.5,78.1,36.5,36.4
-2021,47,Brown University,221.9,39.3,83.7,81.5,40.6,42
-2021,48,University of Pisa,221.6,51.5,93.6,90.5,58.3,0
-2021,49,The Ohio State University - Columbus,221.2,62.9,85,85.6,56.2,0
-2021,50,University of Bologna,220.0,60.4,83,93.3,58,0
-2021,51-75,Aix Marseille University,,66.3,74.6,88.1,50.2,0
-2021,51-75,Autonomous University of Madrid,,58.1,80.6,91.6,51.7,0
-2021,51-75,Claude Bernard University Lyon 1,,51.9,85,87.4,53.2,0
-2021,51-75,Moscow State University,,64.9,65.2,73.8,63.2,0
-2021,51-75,Northwestern University,,56.4,92.7,77.3,50.8,0
-2021,51-75,Radboud University Nijmegen,,48.2,100,93.7,44.1,0
-2021,51-75,Seoul National University,,63,74.3,72.5,54.9,0
-2021,51-75,Shanghai Jiao Tong University,,68.6,67,65.7,58,0
-2021,51-75,Swiss Federal Institute of Technology Lausanne,,60.7,78.1,88.4,60.2,0
-2021,51-75,The University of Glasgow,,47.3,91.8,91.6,53.9,0
-2021,51-75,The University of Texas at Austin,,66,79.6,81.5,52.1,0
-2021,51-75,University of Birmingham,,49.3,97.6,93.3,53.4,0
-2021,51-75,University of Bonn,,48.3,86.1,91.5,43.1,21
-2021,51-75,"University of California, Los Angeles",,62.4,77,82.8,61.6,0
-2021,51-75,University of Copenhagen,,58.3,88.9,94.2,51.2,0
-2021,51-75,University of Genoa,,46.3,95.5,93.1,56.5,0
-2021,51-75,University of Hamburg,,56.2,87.3,88.4,58,0
-2021,51-75,University of Mainz,,48.7,81.8,91.3,62.3,0
-2021,51-75,"University of Minnesota, Twin Cities",,53.7,85.4,79.9,56.1,0
-2021,51-75,University of Naples Federico II,,52,89.9,91.7,50.2,0
-2021,51-75,University of Roma - Tor Vergata,,52.3,92.8,91.6,52.9,0
-2021,51-75,University of Toronto,,60,93.7,87.3,45.8,0
-2021,51-75,University of Waterloo,,42.7,72.4,80.1,39.3,42
-2021,51-75,University of Wisconsin - Madison,,59.6,80.4,82.4,57.4,0
-2021,51-75,University of Zurich,,46.9,93.1,93,54.3,0
-2021,51-75,Yale University,,56.2,87.2,86.4,55.6,0
-2021,76-100,Monash University,,47.5,93.9,89.1,37.9,0
-2021,76-100,Nanjing University,,73.2,66.9,62.9,52.9,0
-2021,76-100,Pennsylvania State University - University Park,,56.8,86.4,80.4,47.1,0
-2021,76-100,RWTH Aachen University,,49.4,79.6,83.5,53.7,0
-2021,76-100,Scuola Normale Superiore - Pisa,,44.2,87.9,92,51.7,0
-2021,76-100,Stockholm University,,54.3,86.7,94.6,44,0
-2021,76-100,Tel Aviv University,,50.1,82.2,86.1,47.3,0
-2021,76-100,The University of Melbourne,,49.5,90.8,88.3,40.2,0
-2021,76-100,University of Amsterdam,,54.9,89.3,93,42.6,0
-2021,76-100,University of Barcelona,,52.6,80.6,90.5,45.8,0
-2021,76-100,University of Bristol,,47.6,80.3,88.9,52.8,0
-2021,76-100,University of British Columbia,,51.3,83.1,88.9,52.5,0
-2021,76-100,"University of California, San Diego",,57.3,76.6,79.4,50.9,0
-2021,76-100,University of Florida,,46,87.7,84.1,47.6,0
-2021,76-100,University of Groningen,,51.2,82.9,93.4,49.1,0
-2021,76-100,University of Massachusetts Amherst,,46,93.4,87.5,40.4,0
-2021,76-100,University of Perugia,,37.3,100,93.2,47.7,0
-2021,76-100,University of Southampton,,60.7,83.2,88.8,44.8,0
-2021,76-100,University of Trento,,42.7,97.1,92,46.6,0
-2021,76-100,University of Turin,,46.7,85.4,93.2,51.5,0
-2021,76-100,University of Valencia,,49.2,84.4,92.4,45.2,0
-2021,76-100,University of Warsaw,,50.1,89.1,87.5,49,0
-2021,76-100,University of Warwick,,54.6,76,90.9,51.4,0
-2021,76-100,Weizmann Institute of Science,,48.7,84.8,90.1,54.9,0
-2021,101-150,Autonomous University of Barcelona,,51.8,80.2,91.4,41,0
-2021,101-150,Boston University,,50.9,78.3,85.5,47.7,0
-2021,101-150,Carnegie Mellon University,,42.4,86.2,83.6,45.8,0
-2021,101-150,Charles University in Prague,,50.7,74.6,90.2,51.9,0
-2021,101-150,Duke University,,43.5,84.2,81,44.3,0
-2021,101-150,Eotvos Lorand University,,36.8,96.6,91.8,36.3,0
-2021,101-150,Georgia Institute of Technology,,51.8,89.5,76.7,35.3,0
-2021,101-150,Indiana University Bloomington,,41,84.6,88.6,51.8,0
-2021,101-150,Karlsruhe Institute of Technology (KIT),,56.6,70.6,85.6,51.7,0
-2021,101-150,King's College London,,42.1,100,87.9,36.7,0
-2021,101-150,KTH Royal Institute of Technology,,56.5,68.3,91.8,46,0
-2021,101-150,Leiden University,,60.8,84.5,94.3,30,0
-2021,101-150,Lund University,,48.4,79.6,91.8,41.3,0
-2021,101-150,Michigan State University,,46.5,78.4,83.2,54.1,0
-2021,101-150,Nanyang Technological University,,60.4,77.3,85.8,34,0
-2021,101-150,National and Kapodistrian University of Athens,,42.6,83.9,93.5,41.9,0
-2021,101-150,National University of Singapore,,58.4,73.2,83.7,44.7,0
-2021,101-150,Novosibirsk State University,,49.2,68.5,79.7,60.6,0
-2021,101-150,Purdue University - West Lafayette,,54.8,73.1,76.8,50.2,0
-2021,101-150,Rice University,,45.4,81.4,85.8,48.8,0
-2021,101-150,"Rutgers, The State University of New Jersey - New Brunswick",,45.1,73.9,84.6,52.7,0
-2021,101-150,Stony Brook University,,47.3,82.7,84.4,48.2,0
-2021,101-150,Syracuse University,,28.8,100,88.2,43.1,0
-2021,101-150,Technical University of Munich,,53.1,71.9,85.7,54.3,0
-2021,101-150,Texas A&M University,,52.6,73,84.4,48.8,0
-2021,101-150,The University of Adelaide,,39.5,100,89.8,35.1,0
-2021,101-150,The University of Sheffield,,45,91.5,86.1,38.5,0
-2021,101-150,TU Dresden,,48.8,74.8,83.1,47.4,0
-2021,101-150,University College Dublin,,37.5,89.7,96.6,45.3,0
-2021,101-150,University of Arizona,,62.5,76.7,83.6,37.5,0
-2021,101-150,University of Bern,,45.2,90.4,94.3,37.3,0
-2021,101-150,"University of California, Davis",,48.8,82.4,83.4,44.3,0
-2021,101-150,"University of California, Riverside",,44,80.8,85.5,45,0
-2021,101-150,"University of California, Santa Cruz",,52.1,91.7,89.2,29.7,0
-2021,101-150,University of Clermont Auvergne,,36.8,84.7,95.1,46.3,0
-2021,101-150,University of Côte d'Azur,,43.9,93.2,91.1,32.9,0
-2021,101-150,University of Innsbruck,,42.8,82.9,93.8,47.9,0
-2021,101-150,University of Liverpool,,43.4,80,93.4,51.4,0
-2021,101-150,University of Milan,,44.9,82.4,89.3,51.2,0
-2021,101-150,University of Milano-Bicocca,,45,78.7,91.5,47.9,0
-2021,101-150,University of Mississippi,,32.2,100,93.2,42.2,0
-2021,101-150,University of Pittsburgh,,44.2,85.6,85,42.6,0
-2021,101-150,University of Rochester,,46.2,77,81.7,57,0
-2021,101-150,University of Sao Paulo,,58.3,69.8,84.6,44.5,0
-2021,101-150,University of Savoy,,33.4,96.2,92.1,40.4,0
-2021,101-150,University of Sussex,,40.2,97.9,92.1,32.2,0
-2021,101-150,University of Sydney,,54.1,80,90.3,39.3,0
-2021,101-150,University of Tennessee - Knoxville,,44.9,79.5,83.3,53.5,0
-2021,101-150,Utrecht University,,33,69.3,83.8,35.1,42
-2021,101-150,Vrije Universiteit Amsterdam,,30.1,100,90.2,42.8,0
-2021,151-200,Beihang University,,56.2,65.3,63.7,48.1,0
-2021,151-200,Bogazici University,,38.4,82.1,94.9,42.4,0
-2021,151-200,Cardiff University,,35.7,100,89.8,23.6,0
-2021,151-200,Durham University,,54.1,77.5,88.3,36.1,0
-2021,151-200,Federal University of Rio de Janeiro,,38.6,76.9,87.6,43.3,0
-2021,151-200,Florida State University,,42,78.5,84,47.7,0
-2021,151-200,Fudan University,,54.5,68.9,62.3,42.2,0
-2021,151-200,Gran Sasso Science Institute,,28.4,100,91.1,30.2,0
-2021,151-200,Humboldt University of Berlin,,46.4,78,86.9,38.1,0
-2021,151-200,International School for Advanced Studies,,40.4,93.1,86.5,35.3,0
-2021,151-200,Iowa State University,,41.5,73.5,82.2,44.7,0
-2021,151-200,Ivane Javakhishvili Tbilisi State University,,35.4,84.5,97.9,37.3,0
-2021,151-200,Leibniz University Hannover,,32.4,94,78.4,40.2,0
-2021,151-200,Louisiana State University - Baton Rouge,,29.6,100,81,36.1,0
-2021,151-200,McGill University,,47.3,80.1,86.9,35.1,0
-2021,151-200,Moscow Institute of Physics and Technology,,51.8,64,76,53.1,0
-2021,151-200,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),,49.4,67.3,77.9,53.2,0
-2021,151-200,National Taiwan University,,52.7,68.5,74.4,42.1,0
-2021,151-200,National Tsing Hua University,,46.9,83.3,77.6,36.7,0
-2021,151-200,New York University,,43.6,82.1,83.9,36.1,0
-2021,151-200,Osaka University,,55.5,60.5,68.7,47.9,0
-2021,151-200,Polytechnic University of Catalonia,,43.7,75.7,85.4,46,0
-2021,151-200,Queen's University,,20.4,64.7,79.9,17.3,59.4
-2021,151-200,Shandong University,,55.8,65.7,63.6,42.9,0
-2021,151-200,Sun Yat-sen University,,53.9,71.1,66.4,42.4,0
-2021,151-200,Technical University of Dortmund,,38.2,81.2,90.4,43.6,0
-2021,151-200,Texas Tech University,,35.4,98.6,86.8,32.9,0
-2021,151-200,The Hong Kong University of Science and Technology,,44.7,81.9,72.5,35.5,0
-2021,151-200,Tohoku University,,54.1,58.8,66.3,52.9,0
-2021,151-200,University of Bari,,36.2,79.7,91.8,48.5,0
-2021,151-200,University of Basilicata,,33.8,81.4,97.9,43.3,0
-2021,151-200,University of Cantabria,,33.7,91.7,94,32.2,0
-2021,151-200,University of Ferrara,,32.9,80.3,92.9,46.5,0
-2021,151-200,University of Goettingen,,42.8,77.4,86.7,39.7,0
-2021,151-200,University of Helsinki,,44.5,84.1,93.9,35.9,0
-2021,151-200,University of Iowa,,40.7,79.9,89.6,41.9,0
-2021,151-200,University of Lisbon,,53.2,72,88.9,42.6,0
-2021,151-200,University of Ljubljana,,38.3,82.9,89.1,38.1,0
-2021,151-200,University of Notre Dame,,42.4,74.3,84.9,42.4,0
-2021,151-200,University of Oregon,,31.7,100,88.7,35.1,0
-2021,151-200,University of Oslo,,42.3,79.5,93.2,36.7,0
-2021,151-200,University of Pavia,,40.6,82.2,92.5,41.7,0
-2021,151-200,University of Siena,,30.4,100,97,36.3,0
-2021,151-200,University of Strasbourg,,47.3,75.7,91.6,43.6,0
-2021,151-200,University of Trieste,,40.4,83.5,94.1,41.7,0
-2021,151-200,University of Urbino,,22.6,100,97.7,37.1,0
-2021,151-200,University of Virginia,,46,79.4,84.7,40.1,0
-2021,151-200,University of Wuerzburg,,42.8,77.7,90.3,45.8,0
-2021,151-200,Vienna University of Technology,,45.4,68.8,90.4,47.3,0
-2021,151-200,Wayne State University,,35.9,79.7,91.7,42.4,0
-2021,151-200,Zhejiang University,,60.9,63.8,60.9,44,0
-2021,201-300,Aalto University,,42.6,70,87.9,33.3,0
-2021,201-300,Aarhus University,,40.2,76.5,89.9,34,0
-2021,201-300,AGH University of Science and Technology,,37,71,82.1,44,0
-2021,201-300,Belarusian State University,,36.4,77.4,95.8,38.1,0
-2021,201-300,Brandeis University,,29,97.5,92.6,26.3,0
-2021,201-300,Carleton University,,27.6,93.5,91.3,25.1,0
-2021,201-300,Catholic University of Louvain,,33.1,83.5,94,31.9,0
-2021,201-300,Central China Normal University,,34.4,73.7,83,46.8,0
-2021,201-300,College of William and Mary,,21.2,100,83.5,35.9,0
-2021,201-300,Czech Technical University in Prague,,36.9,71.4,88,40.6,0
-2021,201-300,Georgian Technical University,,29.9,87.8,98.3,31,0
-2021,201-300,Ghent University,,46.5,73.9,89.9,35.5,0
-2021,201-300,Hanyang University,,42.5,73.8,67.3,39.3,0
-2021,201-300,Huazhong University of Science and Technology,,63.3,65.6,51.4,30,0
-2021,201-300,Istanbul Aydin University,,30,90.9,99.5,34.6,0
-2021,201-300,Istanbul Bilgi University,,31.9,82.2,99.5,38.1,0
-2021,201-300,King Abdulaziz University,,40.1,79.5,95.8,28.2,0
-2021,201-300,Korea University,,48.7,64,68.1,41.5,0
-2021,201-300,Lancaster University,,36.3,77.7,91.3,35.5,0
-2021,201-300,Louisiana Technical University,,25.2,92.4,96.4,25.7,0
-2021,201-300,McMaster University,,28.7,57.5,82.2,19.7,42
-2021,201-300,Nagasaki Institute of Applied Science,,26.8,91.4,99.5,27.7,0
-2021,201-300,Nankai University,,45,73.8,57.2,35.3,0
-2021,201-300,National Autonomous University of Mexico,,54,61.8,80.4,32.6,0
-2021,201-300,National Central University,,40.1,69.8,84.2,38.1,0
-2021,201-300,National Technical University of Athens,,39,78.5,92.7,34,0
-2021,201-300,Northeastern University (Boston),,36.1,82.6,85.6,39.1,0
-2021,201-300,Northern Illinois University,,25.4,93.5,90.8,28.2,0
-2021,201-300,Oklahoma State University,,29.3,87,93.1,27.7,0
-2021,201-300,Palacký University Olomouc,,31.8,84.1,90.1,30.2,0
-2021,201-300,Panjab University,,32.8,74.7,85.2,40.1,0
-2021,201-300,Paul Sabatier University (Toulouse 3),,46.4,72.4,85.6,29,0
-2021,201-300,Politecnico di Bari,,31.8,87.7,91.1,32.9,0
-2021,201-300,Pontifical Catholic University of Chile,,45.4,80,96.1,26.5,0
-2021,201-300,Queen Mary University of London,,43.3,77.7,90.4,35.1,0
-2021,201-300,Roma Tre University,,34.9,82.4,90.5,30,0
-2021,201-300,"Royal Holloway, University of London",,28.3,91.9,96.6,34.2,0
-2021,201-300,Soochow University (China),,52.7,73.8,58.9,29.5,0
-2021,201-300,Southern Methodist University,,28.3,88.8,92.8,31.5,0
-2021,201-300,Sungkyunkwan University,,51.2,65,66.8,41.5,0
-2021,201-300,Swinburne University of Technology,,39.3,90.9,91,25.7,0
-2021,201-300,Technical University of Denmark,,47.7,72.6,85.4,30.2,0
-2021,201-300,Technion-Israel Institute of Technology,,47,71.2,80.5,39.9,0
-2021,201-300,The University of Alabama - Tuscaloosa,,33.9,85.8,88.8,32.6,0
-2021,201-300,The University of Auckland,,32.6,81.1,92.3,31,0
-2021,201-300,The University of Hong Kong,,41,77.8,76,34.6,0
-2021,201-300,The University of New Mexico - Albuquerque,,37.4,76.7,83.3,34.8,0
-2021,201-300,The University of Texas at Dallas,,35.2,75.7,85,36.3,0
-2021,201-300,The University of Western Australia,,38.8,92,89.8,21.2,0
-2021,201-300,Tokyo Institute of Technology,,51.1,64.2,71.4,45.8,0
-2021,201-300,Tufts University,,32.2,88.4,87.8,30.2,0
-2021,201-300,UNESP,,39.1,75.3,81.2,34,0
-2021,201-300,Universidade Federal do ABC (UFABC),,31.1,80.8,92.9,33.8,0
-2021,201-300,"University at Buffalo, the State University of New York",,36.3,77.2,84.7,35.7,0
-2021,201-300,University of Alberta,,42.7,73.6,86,34.8,0
-2021,201-300,University of Antwerp,,35.9,80.2,91.3,33.3,0
-2021,201-300,University of Belgrade,,43.6,70.9,87.2,38.1,0
-2021,201-300,University of Bergen,,31.1,83.2,96.4,30.5,0
-2021,201-300,University of Bochum,,39.5,64.2,85.2,42.9,0
-2021,201-300,University of Bordeaux,,41.4,73.2,84.2,35.9,0
-2021,201-300,University of Campinas,,40.2,72.9,83.4,37.3,0
-2021,201-300,University of Canterbury,,30.3,82.6,96.9,30.5,0
-2021,201-300,University of Cape Town,,36.7,80.2,96.1,28.2,0
-2021,201-300,University of Catania,,39.4,81,90.6,34.4,0
-2021,201-300,University of Cincinnati,,29.9,83.4,87.3,42.4,0
-2021,201-300,University of Cologne,,37.3,67.2,89.8,42.2,0
-2021,201-300,University of Eastern Piedmont,,32.7,81.5,97.3,40.2,0
-2021,201-300,University of Erlangen-Nuremberg,,43.4,71.3,82,39.5,0
-2021,201-300,University of Florence,,40.4,74.7,86.6,42.4,0
-2021,201-300,University of Freiburg,,37.7,75.4,85.1,38.5,0
-2021,201-300,University of Giessen,,35.3,75.3,90.5,42.9,0
-2021,201-300,University of Granada,,36.5,91.2,90.7,26.8,0
-2021,201-300,University of Kansas,,33.9,81.4,90.3,34.6,0
-2021,201-300,University of La Laguna,,49.4,82.6,95.1,16,0
-2021,201-300,University of Malaya,,39,71,86,35.5,0
-2021,201-300,University of Montreal,,42.6,75.6,88.7,31,0
-2021,201-300,University of Nebraska - Lincoln,,37.7,80.2,85.6,36.3,0
-2021,201-300,University of Nottingham,,40.6,78,83.6,37.3,0
-2021,201-300,University of Oviedo,,31.8,90.5,94.2,29.7,0
-2021,201-300,University of Portsmouth,,31.7,100,94,17.3,0
-2021,201-300,University of Rennes 1,,25.5,100,82.1,25.7,0
-2021,201-300,University of Salerno,,26.2,100,84,28.5,0
-2021,201-300,University of Santiago Compostela,,30.7,78.7,92.4,38.7,0
-2021,201-300,University of Siegen,,31.7,91.2,93.2,32.9,0
-2021,201-300,University of Split,,29.7,84.8,98.7,31.5,0
-2021,201-300,University of St Andrews,,42.3,75.7,91,31.5,0
-2021,201-300,University of Strathclyde,,34,89.8,87,33.8,0
-2021,201-300,University of the Balearic Islands,,22.9,100,86.3,23.9,0
-2021,201-300,University of the Basque Country,,40.3,64.2,88.9,40.6,0
-2021,201-300,University of the Witwatersrand,,33.3,82.5,92.7,28.7,0
-2021,201-300,University of Tsukuba,,42.2,68.6,74.4,38.1,0
-2021,201-300,University of Udine,,28.2,90.6,94.6,26,0
-2021,201-300,University of Victoria,,38.3,87.2,94.8,31,0
-2021,201-300,University of Wisconsin-Milwaukee,,23.7,100,86.9,22.9,0
-2021,201-300,University of Wuppertal,,30.3,88.2,93.9,27.9,0
-2021,201-300,Vanderbilt University,,37.9,81.9,86.4,34,0
-2021,201-300,Vrije Universiteit Brussel (VUB),,35.4,80.2,93.5,34,0
-2021,201-300,West Virginia University,,26.1,100,80.5,24.2,0
-2021,201-300,Wuhan University,,45.5,66.9,60.5,44,0
-2021,301-400,Adiyaman University,,24.5,86.6,96.8,28.2,0
-2021,301-400,Ankara University,,29.2,76.7,89,32.9,0
-2021,301-400,Baylor University,,29.6,79,92.4,31.5,0
-2021,301-400,Benemerita Universidad Autonoma de Puebla,,33.1,74,83.7,32.6,0
-2021,301-400,Brandenburg University of Technology,,26.7,80,93.5,28.5,0
-2021,301-400,British University in Egypt,,23.7,83.7,93.9,26.8,0
-2021,301-400,Brunel University,,26.9,80.6,93.5,29.7,0
-2021,301-400,Cag University,,19.3,96.4,100,20.5,0
-2021,301-400,California State University Fresno,,24.2,91.7,97,22.2,0
-2021,301-400,Chalmers University of Technology,,44.2,66.9,90.3,29.2,0
-2021,301-400,Colorado State University,,21.2,96.9,73.8,24.8,0
-2021,301-400,Comenius University in Bratislava,,34.2,78.1,95.5,30.7,0
-2021,301-400,Complutense University of Madrid,,39.9,68.5,86.6,27.9,0
-2021,301-400,Cukurova University,,25.3,82.2,91.8,28.2,0
-2021,301-400,Delft University of Technology,,40.5,66.3,81.7,35.5,0
-2021,301-400,Drexel University,,23,100,78.1,18.2,0
-2021,301-400,Ecole Normale Superieure - Lyon,,34.5,73.4,86.8,31.7,0
-2021,301-400,Florida Institute of Technology,,27.6,80.9,92.2,29.5,0
-2021,301-400,Florida International University,,29,80.9,90.7,33.3,0
-2021,301-400,Gaziantep University,,23.8,90.9,94.2,22.2,0
-2021,301-400,Gaziosmanpasa University,,23.1,85.5,95.1,24.5,0
-2021,301-400,Goethe University Frankfurt,,34.3,70.6,88.6,38.9,0
-2021,301-400,Guglielmo Marconi University,,24.7,87.5,99.1,28.2,0
-2021,301-400,Hampton University,,17.5,96.2,94,22.2,0
-2021,301-400,Hiroshima Institute of Technology,,23.9,93.8,97.8,22.2,0
-2021,301-400,Hunan University,,37,70.8,57.2,32.4,0
-2021,301-400,Ilia State University,,27.4,88.9,97,24.5,0
-2021,301-400,Indian Institute of Science Education & Research (IISER) - Kolkata,,20.8,100,62.3,20.1,0
-2021,301-400,Indian Institute of Science Education & Research (IISER) - Pune,,29.8,76.2,84.9,30.2,0
-2021,301-400,Indian Institute of Technology Hyderabad,,19.8,100,74.3,19,0
-2021,301-400,Indian Institute of Technology Madras,,37.2,71.5,69.8,38.1,0
-2021,301-400,Izmir Institute of Technology,,26.2,80.3,90.1,28.2,0
-2021,301-400,Jagiellonian University,,42.1,69.3,85.2,32.9,0
-2021,301-400,Kafkas University,,24.4,88.2,97.7,27.9,0
-2021,301-400,Kansas State University,,30.8,80.2,87.8,33.1,0
-2021,301-400,King Abdullah University of Science and Technology,,37.4,82.3,84.8,17.3,0
-2021,301-400,KU Leuven,,46.4,63.9,88.3,30,0
-2021,301-400,Kyoto University of Education,,23.6,94.6,99.8,21.9,0
-2021,301-400,Kyungpook National University,,35.8,64.5,77.5,40.6,0
-2021,301-400,Lappeenranta University of Technology,,25.8,79.7,97.7,29.2,0
-2021,301-400,Liverpool John Moores University,,34.8,98,97.8,3.9,0
-2021,301-400,Manhattan College,,24.2,95.9,98.6,22.2,0
-2021,301-400,Mimar Sinan Guzel Sanatlar University,,24.3,88,98.4,28.2,0
-2021,301-400,Montana State University - Bozeman,,21,100,74.5,23.6,0
-2021,301-400,Ohio University,,22,89.5,87.1,24.5,0
-2021,301-400,Okayama University,,29.6,75,81.6,30.7,0
-2021,301-400,Parthenope University Naples,,28.7,87.2,97.7,22.9,0
-2021,301-400,Peter the Great St. Petersburg Polytechnic University,,38.3,68.3,80.9,38.7,0
-2021,301-400,Piri Reis University,,23.3,88.3,98.9,26.8,0
-2021,301-400,Pusan National University,,31.8,85.5,66.4,28.7,0
-2021,301-400,Quaid-i-Azam University,,31.9,74.5,84.8,28.5,0
-2021,301-400,Rio de Janeiro State University,,36.4,68.2,82.8,36.9,0
-2021,301-400,Rochester Institute of Technology,,24.7,100,77.5,21.6,0
-2021,301-400,Simon Fraser University,,30.8,80.3,91.2,29.7,0
-2021,301-400,Sofia University,,29.4,74.2,93.6,30.5,0
-2021,301-400,Technical University Darmstadt,,35.4,64,81.3,42.4,0
-2021,301-400,Texas A and M University at Qatar,,28.6,81.9,99,29.2,0
-2021,301-400,The Hebrew University of Jerusalem,,38.6,71.2,81.8,34.4,0
-2021,301-400,The University of New South Wales,,45.8,69.9,84.9,27.7,0
-2021,301-400,The University of Texas at Arlington,,30.6,80.5,89.1,27.7,0
-2021,301-400,TOBB Ekonomi ve Teknoloji University,,24.5,91.6,95.4,22.2,0
-2021,301-400,Tokyo Metropolitan University,,32.4,79.2,84.7,32.9,0
-2021,301-400,Universidad Antonio Narino,,24.8,94.6,99,22.9,0
-2021,301-400,Universidad Tecnica Federico Santa Maria,,31,78.2,95.4,30.7,0
-2021,301-400,Universidade Federal de Sao Joao del-Rei,,24.5,88.9,91.4,22.6,0
-2021,301-400,Universite de Haute Alsace,,27.4,86.2,95.5,28.2,0
-2021,301-400,Universite Mohammed Premier,,25.5,94.5,98.2,22.2,0
-2021,301-400,University at Albany (State University of New York),,27.1,86.9,89.6,27.4,0
-2021,301-400,University of Basel,,31.5,76.5,89.8,32.6,0
-2021,301-400,University of Buenos Aires,,36.3,71.5,86.2,27.9,0
-2021,301-400,University of Cagliari,,32,74,92.6,36.1,0
-2021,301-400,University of Calabria,,30.9,79.3,91,26.3,0
-2021,301-400,University of Camerino,,16.6,100,86.2,20.9,0
-2021,301-400,University of Coimbra,,30.6,80.8,91.5,28.2,0
-2021,301-400,University of Cyprus,,28,81.6,96.6,30.2,0
-2021,301-400,University of Debrecen,,27.3,78.3,93,30.7,0
-2021,301-400,University of Fribourg,,29.1,83.4,96.1,29,0
-2021,301-400,University of Illinois at Chicago,,33.7,74.6,83.1,37.3,0
-2021,301-400,University of Ioannina,,29.2,76.4,92.2,30,0
-2021,301-400,University of Johannesburg,,29.7,82.2,94.3,24.8,0
-2021,301-400,University of Los Andes (Colombia),,28.2,81.8,96.2,31.7,0
-2021,301-400,University of Louisville,,25.4,89.4,91.6,21.9,0
-2021,301-400,University of Mons,,27.6,85,93.2,22.2,0
-2021,301-400,University of Montpellier,,35.1,75.2,82.9,28.2,0
-2021,301-400,University of Muenster,,32.9,75.7,84.6,34.6,0
-2021,301-400,University of Oklahoma - Norman,,33.9,83.3,85.3,28.2,0
-2021,301-400,University of Parma,,19.3,100,84.2,18.2,0
-2021,301-400,University of Puerto Rico Mayaguez,,24.6,83.8,96.4,28.5,0
-2021,301-400,University of Rostock,,26.6,68.6,84.8,40.6,0
-2021,301-400,University of Salento,,30.9,82.7,87,23.9,0
-2021,301-400,University of South Carolina - Columbia,,28.2,82.6,87,31,0
-2021,301-400,University of Szeged,,19.2,100,81.9,19.4,0
-2021,301-400,University of Texas Rio Grande Valley,,15.9,100,85.3,19.4,0
-2021,301-400,University of Tuebingen,,35.2,74.2,89.5,24.8,0
-2021,301-400,University of Vienna,,40.7,69.9,89.2,31.2,0
-2021,301-400,Utah Valley University,,21.7,86.4,99.1,25.1,0
-2021,301-400,Warsaw University of Technology,,37,69.2,82.9,37.7,0
-2021,301-400,Washington State University,,21.1,100,67.9,25.4,0
-2021,301-400,West University of Timisoara,,24.5,87.2,92.2,22.2,0
-2021,301-400,York University,,31.7,83.8,92.9,26.5,0
-2021,401-500,Aristotle University of Thessaloniki,,31.8,76.1,89.8,24.5,0
-2021,401-500,Arizona State University,,40.8,67.6,76.4,25.4,0
-2021,401-500,Bahcesehir University,,20.5,88,94.8,17.3,0
-2021,401-500,California State University-Sacramento,,18.6,86,98.2,16.4,0
-2021,401-500,Case Western Reserve University,,27.9,86.3,76.1,17.7,0
-2021,401-500,Chonnam National University,,31.6,68.2,77.7,35.5,0
-2021,401-500,Chulalongkorn University,,29.4,75,90.3,28.7,0
-2021,401-500,Creighton University,,15.1,86.2,96.8,21.6,0
-2021,401-500,Eindhoven University of Technology,,37.4,65.1,79.1,29.5,0
-2021,401-500,Erzincan University,,21.1,89,92.8,22.2,0
-2021,401-500,Fayoum University,,17.3,87.1,95.5,20.5,0
-2021,401-500,Federal University of Rio Grande do Norte,,23,90.6,76.4,22.6,0
-2021,401-500,Federal University of Rio Grande do Sul,,31.1,66.5,83.6,24.8,0
-2021,401-500,Free University Berlin,,31.5,67.4,79.3,35.9,0
-2021,401-500,Hassan II University of Casablanca,,24.6,82.5,92,22.2,0
-2021,401-500,Hiroshima University,,32.4,69.4,77.3,28.5,0
-2021,401-500,IMT Atlantique,,17.9,87,91.1,22.2,0
-2021,401-500,Indian Institute of Science,,41.2,55.3,64.2,33.5,0
-2021,401-500,Indian Institute of Technology Bombay,,31,70.5,65.5,26,0
-2021,401-500,Indian Institute of Technology Gandhinagar,,17.9,100,68.8,17.7,0
-2021,401-500,International Islamic University Malaysia,,23.5,79.3,95.1,26.3,0
-2021,401-500,Isfahan University of Technology,,30.2,72.3,77.4,29,0
-2021,401-500,Islamic Azad University,,38.2,62.9,55.1,27.9,0
-2021,401-500,Istanbul Technical University,,27.9,69.4,81.2,28.7,0
-2021,401-500,Jilin University,,50.6,60.1,48.1,20.1,0
-2021,401-500,Kobe University,,32.2,73.6,78.8,26.8,0
-2021,401-500,Korea Advanced Institute of Science and Technology,,47.7,60.7,61.2,22.6,0
-2021,401-500,Kyushu University,,40.5,64.2,70.8,29.7,0
-2021,401-500,Lanzhou University,,38.4,58.2,56.8,34,0
-2021,401-500,Marmara University,,24.9,78.6,89.2,27.7,0
-2021,401-500,Mersin University,,24,80.7,90.3,27.4,0
-2021,401-500,Middle East Technical University,,30,70.7,80.5,32.6,0
-2021,401-500,Mohammed V University,,26.3,74.7,81.9,22.2,0
-2021,401-500,National University of La Plata,,38.1,69.9,88.1,24.8,0
-2021,401-500,New Mexico State University,,23.6,82.7,87.2,15.5,0
-2021,401-500,North Carolina State University - Raleigh,,35.7,69.3,69.6,30.7,0
-2021,401-500,NOVA University Lisbon,,28.5,79.4,92,22.6,0
-2021,401-500,Ochanomizu University,,22.2,87.8,88.6,19.7,0
-2021,401-500,Ozyegin University,,22.1,85.1,95.8,23.9,0
-2021,401-500,Pohang University of Science and Technology,,40.4,60.6,65.4,28.2,0
-2021,401-500,Polytechnic University of Milan,,34.3,66.1,77.9,25.1,0
-2021,401-500,Queen's University Belfast,,36.6,70.5,93.1,24.2,0
-2021,401-500,Riga Technical University,,21.2,79.6,96.5,25.4,0
-2021,401-500,Rockefeller University,,19.2,89,96.2,21.6,0
-2021,401-500,Sejong University,,27.5,72,77.4,25.1,0
-2021,401-500,Shanxi University,,37.4,56.1,53.5,37.1,0
-2021,401-500,Shenzhen University,,43.7,74.9,56.8,16.9,0
-2021,401-500,Shinshu University,,28.2,78.3,85.8,24.5,0
-2021,401-500,Southeast University,,42.4,60.4,51.1,28.7,0
-2021,401-500,Southern University of Science and Technology,,33.9,73.4,67.5,25.7,0
-2021,401-500,Technical University of Berlin,,34.6,64,77.1,26,0
-2021,401-500,Temple University,,22,73.8,79.3,31.2,0
-2021,401-500,The Catholic University of America,,26.9,69.3,87,29,0
-2021,401-500,The City College of New York,,23,87.7,78.4,23.9,0
-2021,401-500,The George Washington University,,23.2,81.1,78.3,23.2,0
-2021,401-500,The Graduate University for Advanced Studies,,33.3,66.8,80.1,22.9,0
-2021,401-500,The University of Queensland,,33.9,73.9,81.7,25.7,0
-2021,401-500,Tomsk State University,,37.2,63.2,75.9,35.3,0
-2021,401-500,Transilvania University of Brasov,,22.3,85.7,92.9,17.7,0
-2021,401-500,Ulsan National Institute of Science and Technology,,34.7,80,66.9,19.4,0
-2021,401-500,Universidad Autonoma de San Luis Potosi,,26.8,73.1,86.4,28.2,0
-2021,401-500,Universidade Federal de Juiz de Fora,,26.3,84.3,90.2,22.2,0
-2021,401-500,Universidade Federal do Triangulo Mineiro,,17.8,79.2,96.2,31.7,0
-2021,401-500,Universitat Ramon Llull,,18.4,79.8,94.2,31.7,0
-2021,401-500,University of Alabama in Huntsville,,22,91.7,74.3,11.6,0
-2021,401-500,University of Bath,,26.8,74.2,84.8,21.2,0
-2021,401-500,University of Bialystok,,13.7,100,85.1,15.5,0
-2021,401-500,University of Chile,,37.4,71.6,90.8,12.8,0
-2021,401-500,University of Delaware,,30.5,72.4,77.2,26.3,0
-2021,401-500,University of Delhi,,31.9,63.3,69.9,33.1,0
-2021,401-500,University of Houston,,29.9,71.2,82.2,30.2,0
-2021,401-500,University of Jena,,36.5,67.9,76.5,29,0
-2021,401-500,University of Jyvaskyla,,24.4,69,90.8,28.5,0
-2021,401-500,University of Kentucky,,25.7,69.7,85.3,27.1,0
-2021,401-500,University of KwaZulu-Natal,,25.2,84.6,86.3,15.5,0
-2021,401-500,University of Leicester,,28.6,83.5,91.6,12.8,0
-2021,401-500,University of Liege,,30.7,75,92.4,16.9,0
-2021,401-500,University of Marrakech Cadi Ayyad,,25.8,82.7,91.1,22.2,0
-2021,401-500,University of Minho,,28.7,77.2,91,23.2,0
-2021,401-500,University of Modena and Reggio Emilia,,23.6,68.3,88.5,33.1,0
-2021,401-500,University of Nantes,,23.2,75.7,86.9,22.9,0
-2021,401-500,University of North Carolina at Chapel Hill,,31,75.7,74.7,22.9,0
-2021,401-500,University of Porto,,37.5,73.3,87.9,18.2,0
-2021,401-500,University of Regensburg,,27.2,69.1,80.1,32.9,0
-2021,401-500,University of Seoul,,28.4,75.5,80.2,29.5,0
-2021,401-500,University of Southern California,,32.7,79.7,69.7,21.6,0
-2021,401-500,University of Stuttgart,,35.1,66.1,72.1,34.8,0
-2021,401-500,University of Ulm,,24.7,66,81.4,34.2,0
-2021,401-500,University of Utah,,33.3,75,74.1,20.5,0
-2021,401-500,University of York,,31.4,64.3,89.4,31.9,0
-2021,401-500,University of Zagreb,,25.4,69.7,91.9,25.7,0
-2021,401-500,University of Zielona Gora,,16.4,100,87.4,16.9,0
-2021,401-500,Vilnius University,,33.2,69.2,87.5,29,0
-2021,401-500,Virginia Polytechnic Institute and State University,,33.4,68.8,74.6,32.6,0
-2021,401-500,Visva Bharati University,,26.7,75,83.2,28.2,0
-2021,401-500,Waseda University,,35.2,71,74.5,30.2,0
-2021,401-500,Washington University in St. Louis,,26.5,74.4,70.1,26.3,0
-2021,401-500,Xi'an Jiaotong University,,52.8,58.3,54.1,25.7,0
-2021,401-500,Yonsei University,,44.8,64,63.6,27.9,0
-2021,401-500,Zhengzhou University,,33.4,73.5,58.9,25.4,0
+Year,Field,Subject,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
+2021,Natural Sciences,Physics,1,Massachusetts Institute of Technology (MIT),390.6,90.4,87.8,81.8,96,100
+2021,Natural Sciences,Physics,2,Princeton University,352.6,74.6,85.5,81.2,76.2,100
+2021,Natural Sciences,Physics,3,Stanford University,346.3,82.1,90.8,80.6,77.7,79.5
+2021,Natural Sciences,Physics,4,The University of Tokyo,342.3,94.2,70.9,74.7,92.6,69.7
+2021,Natural Sciences,Physics,5,California Institute of Technology,339,88.1,89.2,84.7,66.2,78.6
+2021,Natural Sciences,Physics,6,Harvard University,335.3,95.8,87.1,85.4,72.2,63
+2021,Natural Sciences,Physics,7,University of Chicago,334.8,82.1,87.4,82.1,89.6,59.4
+2021,Natural Sciences,Physics,8,"University of California, Berkeley",334.1,88.2,85.9,83.4,76.9,66.4
+2021,Natural Sciences,Physics,9,Paris-Saclay University,321.5,91.6,76.2,86.6,100,36.4
+2021,Natural Sciences,Physics,10,PSL University,315.9,80.1,79.3,86.6,75,64.2
+2021,Natural Sciences,Physics,11,University of Cambridge,298.2,91,84.4,87.7,75.6,29.7
+2021,Natural Sciences,Physics,12,The University of Edinburgh,298.1,63.5,92.5,91.8,64.3,59.4
+2021,Natural Sciences,Physics,13,"University of California, Santa Barbara",289.8,60.5,86.4,78.4,56.5,70.7
+2021,Natural Sciences,Physics,14,University of Colorado at Boulder,289.4,58.7,78.2,77.5,59.9,77.2
+2021,Natural Sciences,Physics,15,Sorbonne University,288.7,100,77.5,88.3,93.6,0
+2021,Natural Sciences,Physics,16,The University of Manchester,284.3,60.7,78,90.5,54.8,72.8
+2021,Natural Sciences,Physics,17,University of Washington,282.3,57,96.7,81.2,49.3,63
+2021,Natural Sciences,Physics,18,University of Geneva,277.2,61.9,87.6,93.9,57.4,51.4
+2021,Natural Sciences,Physics,19,Cornell University,271.6,54.8,85.6,79.1,51.2,64.2
+2021,Natural Sciences,Physics,20,University of Michigan-Ann Arbor,261.2,71.3,81.6,80.1,62.6,29.7
+2021,Natural Sciences,Physics,21,Columbia University,259.6,59.2,97.8,83.7,51.5,34.3
+2021,Natural Sciences,Physics,22,"University of Maryland, College Park",258.4,73.2,86.4,80.1,82.8,0
+2021,Natural Sciences,Physics,23,University of Illinois at Urbana-Champaign,257.9,61.2,87.2,78,51.9,42
+2021,Natural Sciences,Physics,24,University of Oxford,257.2,81.3,80.6,89.3,77.5,0
+2021,Natural Sciences,Physics,25,Université libre de Bruxelles (ULB),255.8,44.3,90.8,91.4,43.1,59.4
+2021,Natural Sciences,Physics,26,Tsinghua University,251.8,85.6,75.2,66,77.8,0
+2021,Natural Sciences,Physics,27,University of Paris,250.7,76.8,87.8,90.6,68,0
+2021,Natural Sciences,Physics,28,The Australian National University,246.5,58.2,88.1,90.9,40.1,42
+2021,Natural Sciences,Physics,29,University of Munich,244.8,61.7,84.8,87.7,55,25.7
+2021,Natural Sciences,Physics,30,University of Science and Technology of China,240.3,84.1,67.4,62.9,76.2,0
+2021,Natural Sciences,Physics,31,ETH Zurich,239.6,71.6,79.8,87.3,70.8,0
+2021,Natural Sciences,Physics,31,Sapienza University of Rome,239.6,65.2,84.7,89.6,71.8,0
+2021,Natural Sciences,Physics,33,Nagoya University,236.9,53,65.2,71.7,45,59.4
+2021,Natural Sciences,Physics,34,"University of California, Irvine",236.5,49,83.7,82.4,45.3,42
+2021,Natural Sciences,Physics,35,Peking University,236.1,83.8,71.1,68.9,67.5,0
+2021,Natural Sciences,Physics,36,Johns Hopkins University,233.7,60.7,81,82.4,45.8,29.7
+2021,Natural Sciences,Physics,37,University of Padua,232.8,65.8,88,92,60.6,0
+2021,Natural Sciences,Physics,38,Imperial College London,232,70.5,76.1,86.2,68.1,0
+2021,Natural Sciences,Physics,39,Université Grenoble Alpes,230.8,71.2,71.9,86.2,70.4,0
+2021,Natural Sciences,Physics,40,Kyoto University,230.6,65.6,65.9,70.8,59.2,25.7
+2021,Natural Sciences,Physics,41,University of Pennsylvania,228.7,48.6,86.1,80.4,41.5,36.4
+2021,Natural Sciences,Physics,42,Institut Polytechnique de Paris,228.3,51.1,75.9,87.5,54.1,29.7
+2021,Natural Sciences,Physics,43,Heidelberg University,227.4,65.2,87.5,91,56.5,0
+2021,Natural Sciences,Physics,44,University College London,226.8,72.4,81.2,88.6,55.4,0
+2021,Natural Sciences,Physics,45,Uppsala University,225,54.9,74.2,92,47.7,29.7
+2021,Natural Sciences,Physics,46,The Chinese University of Hong Kong,224.6,42.6,93.5,78.1,36.5,36.4
+2021,Natural Sciences,Physics,47,Brown University,221.9,39.3,83.7,81.5,40.6,42
+2021,Natural Sciences,Physics,48,University of Pisa,221.6,51.5,93.6,90.5,58.3,0
+2021,Natural Sciences,Physics,49,The Ohio State University - Columbus,221.2,62.9,85,85.6,56.2,0
+2021,Natural Sciences,Physics,50,University of Bologna,220,60.4,83,93.3,58,0
+2021,Natural Sciences,Physics,51-75,Aix Marseille University,,66.3,74.6,88.1,50.2,0
+2021,Natural Sciences,Physics,51-75,Autonomous University of Madrid,,58.1,80.6,91.6,51.7,0
+2021,Natural Sciences,Physics,51-75,Claude Bernard University Lyon 1,,51.9,85,87.4,53.2,0
+2021,Natural Sciences,Physics,51-75,Moscow State University,,64.9,65.2,73.8,63.2,0
+2021,Natural Sciences,Physics,51-75,Northwestern University,,56.4,92.7,77.3,50.8,0
+2021,Natural Sciences,Physics,51-75,Radboud University Nijmegen,,48.2,100,93.7,44.1,0
+2021,Natural Sciences,Physics,51-75,Seoul National University,,63,74.3,72.5,54.9,0
+2021,Natural Sciences,Physics,51-75,Shanghai Jiao Tong University,,68.6,67,65.7,58,0
+2021,Natural Sciences,Physics,51-75,Swiss Federal Institute of Technology Lausanne,,60.7,78.1,88.4,60.2,0
+2021,Natural Sciences,Physics,51-75,The University of Glasgow,,47.3,91.8,91.6,53.9,0
+2021,Natural Sciences,Physics,51-75,The University of Texas at Austin,,66,79.6,81.5,52.1,0
+2021,Natural Sciences,Physics,51-75,University of Birmingham,,49.3,97.6,93.3,53.4,0
+2021,Natural Sciences,Physics,51-75,University of Bonn,,48.3,86.1,91.5,43.1,21
+2021,Natural Sciences,Physics,51-75,"University of California, Los Angeles",,62.4,77,82.8,61.6,0
+2021,Natural Sciences,Physics,51-75,University of Copenhagen,,58.3,88.9,94.2,51.2,0
+2021,Natural Sciences,Physics,51-75,University of Genoa,,46.3,95.5,93.1,56.5,0
+2021,Natural Sciences,Physics,51-75,University of Hamburg,,56.2,87.3,88.4,58,0
+2021,Natural Sciences,Physics,51-75,University of Mainz,,48.7,81.8,91.3,62.3,0
+2021,Natural Sciences,Physics,51-75,"University of Minnesota, Twin Cities",,53.7,85.4,79.9,56.1,0
+2021,Natural Sciences,Physics,51-75,University of Naples Federico II,,52,89.9,91.7,50.2,0
+2021,Natural Sciences,Physics,51-75,University of Roma - Tor Vergata,,52.3,92.8,91.6,52.9,0
+2021,Natural Sciences,Physics,51-75,University of Toronto,,60,93.7,87.3,45.8,0
+2021,Natural Sciences,Physics,51-75,University of Waterloo,,42.7,72.4,80.1,39.3,42
+2021,Natural Sciences,Physics,51-75,University of Wisconsin - Madison,,59.6,80.4,82.4,57.4,0
+2021,Natural Sciences,Physics,51-75,University of Zurich,,46.9,93.1,93,54.3,0
+2021,Natural Sciences,Physics,51-75,Yale University,,56.2,87.2,86.4,55.6,0
+2021,Natural Sciences,Physics,76-100,Monash University,,47.5,93.9,89.1,37.9,0
+2021,Natural Sciences,Physics,76-100,Nanjing University,,73.2,66.9,62.9,52.9,0
+2021,Natural Sciences,Physics,76-100,Pennsylvania State University - University Park,,56.8,86.4,80.4,47.1,0
+2021,Natural Sciences,Physics,76-100,RWTH Aachen University,,49.4,79.6,83.5,53.7,0
+2021,Natural Sciences,Physics,76-100,Scuola Normale Superiore - Pisa,,44.2,87.9,92,51.7,0
+2021,Natural Sciences,Physics,76-100,Stockholm University,,54.3,86.7,94.6,44,0
+2021,Natural Sciences,Physics,76-100,Tel Aviv University,,50.1,82.2,86.1,47.3,0
+2021,Natural Sciences,Physics,76-100,The University of Melbourne,,49.5,90.8,88.3,40.2,0
+2021,Natural Sciences,Physics,76-100,University of Amsterdam,,54.9,89.3,93,42.6,0
+2021,Natural Sciences,Physics,76-100,University of Barcelona,,52.6,80.6,90.5,45.8,0
+2021,Natural Sciences,Physics,76-100,University of Bristol,,47.6,80.3,88.9,52.8,0
+2021,Natural Sciences,Physics,76-100,University of British Columbia,,51.3,83.1,88.9,52.5,0
+2021,Natural Sciences,Physics,76-100,"University of California, San Diego",,57.3,76.6,79.4,50.9,0
+2021,Natural Sciences,Physics,76-100,University of Florida,,46,87.7,84.1,47.6,0
+2021,Natural Sciences,Physics,76-100,University of Groningen,,51.2,82.9,93.4,49.1,0
+2021,Natural Sciences,Physics,76-100,University of Massachusetts Amherst,,46,93.4,87.5,40.4,0
+2021,Natural Sciences,Physics,76-100,University of Perugia,,37.3,100,93.2,47.7,0
+2021,Natural Sciences,Physics,76-100,University of Southampton,,60.7,83.2,88.8,44.8,0
+2021,Natural Sciences,Physics,76-100,University of Trento,,42.7,97.1,92,46.6,0
+2021,Natural Sciences,Physics,76-100,University of Turin,,46.7,85.4,93.2,51.5,0
+2021,Natural Sciences,Physics,76-100,University of Valencia,,49.2,84.4,92.4,45.2,0
+2021,Natural Sciences,Physics,76-100,University of Warsaw,,50.1,89.1,87.5,49,0
+2021,Natural Sciences,Physics,76-100,University of Warwick,,54.6,76,90.9,51.4,0
+2021,Natural Sciences,Physics,76-100,Weizmann Institute of Science,,48.7,84.8,90.1,54.9,0
+2021,Natural Sciences,Physics,101-150,Autonomous University of Barcelona,,51.8,80.2,91.4,41,0
+2021,Natural Sciences,Physics,101-150,Boston University,,50.9,78.3,85.5,47.7,0
+2021,Natural Sciences,Physics,101-150,Carnegie Mellon University,,42.4,86.2,83.6,45.8,0
+2021,Natural Sciences,Physics,101-150,Charles University in Prague,,50.7,74.6,90.2,51.9,0
+2021,Natural Sciences,Physics,101-150,Duke University,,43.5,84.2,81,44.3,0
+2021,Natural Sciences,Physics,101-150,Eotvos Lorand University,,36.8,96.6,91.8,36.3,0
+2021,Natural Sciences,Physics,101-150,Georgia Institute of Technology,,51.8,89.5,76.7,35.3,0
+2021,Natural Sciences,Physics,101-150,Indiana University Bloomington,,41,84.6,88.6,51.8,0
+2021,Natural Sciences,Physics,101-150,Karlsruhe Institute of Technology (KIT),,56.6,70.6,85.6,51.7,0
+2021,Natural Sciences,Physics,101-150,King's College London,,42.1,100,87.9,36.7,0
+2021,Natural Sciences,Physics,101-150,KTH Royal Institute of Technology,,56.5,68.3,91.8,46,0
+2021,Natural Sciences,Physics,101-150,Leiden University,,60.8,84.5,94.3,30,0
+2021,Natural Sciences,Physics,101-150,Lund University,,48.4,79.6,91.8,41.3,0
+2021,Natural Sciences,Physics,101-150,Michigan State University,,46.5,78.4,83.2,54.1,0
+2021,Natural Sciences,Physics,101-150,Nanyang Technological University,,60.4,77.3,85.8,34,0
+2021,Natural Sciences,Physics,101-150,National and Kapodistrian University of Athens,,42.6,83.9,93.5,41.9,0
+2021,Natural Sciences,Physics,101-150,National University of Singapore,,58.4,73.2,83.7,44.7,0
+2021,Natural Sciences,Physics,101-150,Novosibirsk State University,,49.2,68.5,79.7,60.6,0
+2021,Natural Sciences,Physics,101-150,Purdue University - West Lafayette,,54.8,73.1,76.8,50.2,0
+2021,Natural Sciences,Physics,101-150,Rice University,,45.4,81.4,85.8,48.8,0
+2021,Natural Sciences,Physics,101-150,"Rutgers, The State University of New Jersey - New Brunswick",,45.1,73.9,84.6,52.7,0
+2021,Natural Sciences,Physics,101-150,Stony Brook University,,47.3,82.7,84.4,48.2,0
+2021,Natural Sciences,Physics,101-150,Syracuse University,,28.8,100,88.2,43.1,0
+2021,Natural Sciences,Physics,101-150,Technical University of Munich,,53.1,71.9,85.7,54.3,0
+2021,Natural Sciences,Physics,101-150,Texas A&M University,,52.6,73,84.4,48.8,0
+2021,Natural Sciences,Physics,101-150,The University of Adelaide,,39.5,100,89.8,35.1,0
+2021,Natural Sciences,Physics,101-150,The University of Sheffield,,45,91.5,86.1,38.5,0
+2021,Natural Sciences,Physics,101-150,TU Dresden,,48.8,74.8,83.1,47.4,0
+2021,Natural Sciences,Physics,101-150,University College Dublin,,37.5,89.7,96.6,45.3,0
+2021,Natural Sciences,Physics,101-150,University of Arizona,,62.5,76.7,83.6,37.5,0
+2021,Natural Sciences,Physics,101-150,University of Bern,,45.2,90.4,94.3,37.3,0
+2021,Natural Sciences,Physics,101-150,"University of California, Davis",,48.8,82.4,83.4,44.3,0
+2021,Natural Sciences,Physics,101-150,"University of California, Riverside",,44,80.8,85.5,45,0
+2021,Natural Sciences,Physics,101-150,"University of California, Santa Cruz",,52.1,91.7,89.2,29.7,0
+2021,Natural Sciences,Physics,101-150,UniversityofClermontAuvergne,,36.8,84.7,95.1,46.3,0
+2021,Natural Sciences,Physics,101-150,University of Côte d'Azur,,43.9,93.2,91.1,32.9,0
+2021,Natural Sciences,Physics,101-150,University of Innsbruck,,42.8,82.9,93.8,47.9,0
+2021,Natural Sciences,Physics,101-150,University of Liverpool,,43.4,80,93.4,51.4,0
+2021,Natural Sciences,Physics,101-150,University of Milan,,44.9,82.4,89.3,51.2,0
+2021,Natural Sciences,Physics,101-150,University of Milano-Bicocca,,45,78.7,91.5,47.9,0
+2021,Natural Sciences,Physics,101-150,University of Mississippi,,32.2,100,93.2,42.2,0
+2021,Natural Sciences,Physics,101-150,University of Pittsburgh,,44.2,85.6,85,42.6,0
+2021,Natural Sciences,Physics,101-150,University of Rochester,,46.2,77,81.7,57,0
+2021,Natural Sciences,Physics,101-150,University of Sao Paulo,,58.3,69.8,84.6,44.5,0
+2021,Natural Sciences,Physics,101-150,University of Savoy,,33.4,96.2,92.1,40.4,0
+2021,Natural Sciences,Physics,101-150,University of Sussex,,40.2,97.9,92.1,32.2,0
+2021,Natural Sciences,Physics,101-150,University of Sydney,,54.1,80,90.3,39.3,0
+2021,Natural Sciences,Physics,101-150,University of Tennessee - Knoxville,,44.9,79.5,83.3,53.5,0
+2021,Natural Sciences,Physics,101-150,Utrecht University,,33,69.3,83.8,35.1,42
+2021,Natural Sciences,Physics,101-150,Vrije Universiteit Amsterdam,,30.1,100,90.2,42.8,0
+2021,Natural Sciences,Physics,151-200,Beihang University,,56.2,65.3,63.7,48.1,0
+2021,Natural Sciences,Physics,151-200,Bogazici University,,38.4,82.1,94.9,42.4,0
+2021,Natural Sciences,Physics,151-200,Cardiff University,,35.7,100,89.8,23.6,0
+2021,Natural Sciences,Physics,151-200,Durham University,,54.1,77.5,88.3,36.1,0
+2021,Natural Sciences,Physics,151-200,Federal University of Rio de Janeiro,,38.6,76.9,87.6,43.3,0
+2021,Natural Sciences,Physics,151-200,Florida State University,,42,78.5,84,47.7,0
+2021,Natural Sciences,Physics,151-200,Fudan University,,54.5,68.9,62.3,42.2,0
+2021,Natural Sciences,Physics,151-200,Gran Sasso Science Institute,,28.4,100,91.1,30.2,0
+2021,Natural Sciences,Physics,151-200,Humboldt University of Berlin,,46.4,78,86.9,38.1,0
+2021,Natural Sciences,Physics,151-200,International School for Advanced Studies,,40.4,93.1,86.5,35.3,0
+2021,Natural Sciences,Physics,151-200,Iowa State University,,41.5,73.5,82.2,44.7,0
+2021,Natural Sciences,Physics,151-200,Ivane Javakhishvili Tbilisi State University,,35.4,84.5,97.9,37.3,0
+2021,Natural Sciences,Physics,151-200,Leibniz University Hannover,,32.4,94,78.4,40.2,0
+2021,Natural Sciences,Physics,151-200,Louisiana State University - Baton Rouge,,29.6,100,81,36.1,0
+2021,Natural Sciences,Physics,151-200,McGill University,,47.3,80.1,86.9,35.1,0
+2021,Natural Sciences,Physics,151-200,Moscow Institute of Physics and Technology,,51.8,64,76,53.1,0
+2021,Natural Sciences,Physics,151-200,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),,49.4,67.3,77.9,53.2,0
+2021,Natural Sciences,Physics,151-200,National Taiwan University,,52.7,68.5,74.4,42.1,0
+2021,Natural Sciences,Physics,151-200,National Tsing Hua University,,46.9,83.3,77.6,36.7,0
+2021,Natural Sciences,Physics,151-200,New York University,,43.6,82.1,83.9,36.1,0
+2021,Natural Sciences,Physics,151-200,Osaka University,,55.5,60.5,68.7,47.9,0
+2021,Natural Sciences,Physics,151-200,Polytechnic University of Catalonia,,43.7,75.7,85.4,46,0
+2021,Natural Sciences,Physics,151-200,Queen's University,,20.4,64.7,79.9,17.3,59.4
+2021,Natural Sciences,Physics,151-200,Shandong University,,55.8,65.7,63.6,42.9,0
+2021,Natural Sciences,Physics,151-200,Sun Yat-sen University,,53.9,71.1,66.4,42.4,0
+2021,Natural Sciences,Physics,151-200,Technical University of Dortmund,,38.2,81.2,90.4,43.6,0
+2021,Natural Sciences,Physics,151-200,Texas Tech University,,35.4,98.6,86.8,32.9,0
+2021,Natural Sciences,Physics,151-200,The Hong Kong University of Science and Technology,,44.7,81.9,72.5,35.5,0
+2021,Natural Sciences,Physics,151-200,Tohoku University,,54.1,58.8,66.3,52.9,0
+2021,Natural Sciences,Physics,151-200,University of Bari,,36.2,79.7,91.8,48.5,0
+2021,Natural Sciences,Physics,151-200,University of Basilicata,,33.8,81.4,97.9,43.3,0
+2021,Natural Sciences,Physics,151-200,University of Cantabria,,33.7,91.7,94,32.2,0
+2021,Natural Sciences,Physics,151-200,University of Ferrara,,32.9,80.3,92.9,46.5,0
+2021,Natural Sciences,Physics,151-200,University of Goettingen,,42.8,77.4,86.7,39.7,0
+2021,Natural Sciences,Physics,151-200,University of Helsinki,,44.5,84.1,93.9,35.9,0
+2021,Natural Sciences,Physics,151-200,University of Iowa,,40.7,79.9,89.6,41.9,0
+2021,Natural Sciences,Physics,151-200,University of Lisbon,,53.2,72,88.9,42.6,0
+2021,Natural Sciences,Physics,151-200,University of Ljubljana,,38.3,82.9,89.1,38.1,0
+2021,Natural Sciences,Physics,151-200,University of Notre Dame,,42.4,74.3,84.9,42.4,0
+2021,Natural Sciences,Physics,151-200,University of Oregon,,31.7,100,88.7,35.1,0
+2021,Natural Sciences,Physics,151-200,University of Oslo,,42.3,79.5,93.2,36.7,0
+2021,Natural Sciences,Physics,151-200,University of Pavia,,40.6,82.2,92.5,41.7,0
+2021,Natural Sciences,Physics,151-200,University of Siena,,30.4,100,97,36.3,0
+2021,Natural Sciences,Physics,151-200,University of Strasbourg,,47.3,75.7,91.6,43.6,0
+2021,Natural Sciences,Physics,151-200,University of Trieste,,40.4,83.5,94.1,41.7,0
+2021,Natural Sciences,Physics,151-200,University of Urbino,,22.6,100,97.7,37.1,0
+2021,Natural Sciences,Physics,151-200,University of Virginia,,46,79.4,84.7,40.1,0
+2021,Natural Sciences,Physics,151-200,University of Wuerzburg,,42.8,77.7,90.3,45.8,0
+2021,Natural Sciences,Physics,151-200,Vienna University of Technology,,45.4,68.8,90.4,47.3,0
+2021,Natural Sciences,Physics,151-200,Wayne State University,,35.9,79.7,91.7,42.4,0
+2021,Natural Sciences,Physics,151-200,Zhejiang University,,60.9,63.8,60.9,44,0
+2021,Natural Sciences,Physics,201-300,Aalto University,,42.6,70,87.9,33.3,0
+2021,Natural Sciences,Physics,201-300,Aarhus University,,40.2,76.5,89.9,34,0
+2021,Natural Sciences,Physics,201-300,AGH University of Science and Technology,,37,71,82.1,44,0
+2021,Natural Sciences,Physics,201-300,Belarusian State University,,36.4,77.4,95.8,38.1,0
+2021,Natural Sciences,Physics,201-300,Brandeis University,,29,97.5,92.6,26.3,0
+2021,Natural Sciences,Physics,201-300,Carleton University,,27.6,93.5,91.3,25.1,0
+2021,Natural Sciences,Physics,201-300,Catholic University of Louvain,,33.1,83.5,94,31.9,0
+2021,Natural Sciences,Physics,201-300,Central China Normal University,,34.4,73.7,83,46.8,0
+2021,Natural Sciences,Physics,201-300,College of William and Mary,,21.2,100,83.5,35.9,0
+2021,Natural Sciences,Physics,201-300,Czech Technical University in Prague,,36.9,71.4,88,40.6,0
+2021,Natural Sciences,Physics,201-300,Georgian Technical University,,29.9,87.8,98.3,31,0
+2021,Natural Sciences,Physics,201-300,Ghent University,,46.5,73.9,89.9,35.5,0
+2021,Natural Sciences,Physics,201-300,Hanyang University,,42.5,73.8,67.3,39.3,0
+2021,Natural Sciences,Physics,201-300,Huazhong University of Science and Technology,,63.3,65.6,51.4,30,0
+2021,Natural Sciences,Physics,201-300,Istanbul Aydin University,,30,90.9,99.5,34.6,0
+2021,Natural Sciences,Physics,201-300,Istanbul Bilgi University,,31.9,82.2,99.5,38.1,0
+2021,Natural Sciences,Physics,201-300,King Abdulaziz University,,40.1,79.5,95.8,28.2,0
+2021,Natural Sciences,Physics,201-300,Korea University,,48.7,64,68.1,41.5,0
+2021,Natural Sciences,Physics,201-300,Lancaster University,,36.3,77.7,91.3,35.5,0
+2021,Natural Sciences,Physics,201-300,Louisiana Technical University,,25.2,92.4,96.4,25.7,0
+2021,Natural Sciences,Physics,201-300,McMaster University,,28.7,57.5,82.2,19.7,42
+2021,Natural Sciences,Physics,201-300,Nagasaki Institute of Applied Science,,26.8,91.4,99.5,27.7,0
+2021,Natural Sciences,Physics,201-300,Nankai University,,45,73.8,57.2,35.3,0
+2021,Natural Sciences,Physics,201-300,National Autonomous University of Mexico,,54,61.8,80.4,32.6,0
+2021,Natural Sciences,Physics,201-300,National Central University,,40.1,69.8,84.2,38.1,0
+2021,Natural Sciences,Physics,201-300,National Technical University of Athens,,39,78.5,92.7,34,0
+2021,Natural Sciences,Physics,201-300,Northeastern University (Boston),,36.1,82.6,85.6,39.1,0
+2021,Natural Sciences,Physics,201-300,Northern Illinois University,,25.4,93.5,90.8,28.2,0
+2021,Natural Sciences,Physics,201-300,Oklahoma State University,,29.3,87,93.1,27.7,0
+2021,Natural Sciences,Physics,201-300,Palacký University Olomouc,,31.8,84.1,90.1,30.2,0
+2021,Natural Sciences,Physics,201-300,Panjab University,,32.8,74.7,85.2,40.1,0
+2021,Natural Sciences,Physics,201-300,Paul Sabatier University (Toulouse 3),,46.4,72.4,85.6,29,0
+2021,Natural Sciences,Physics,201-300,Politecnico di Bari,,31.8,87.7,91.1,32.9,0
+2021,Natural Sciences,Physics,201-300,Pontifical Catholic University of Chile,,45.4,80,96.1,26.5,0
+2021,Natural Sciences,Physics,201-300,Queen Mary University of London,,43.3,77.7,90.4,35.1,0
+2021,Natural Sciences,Physics,201-300,Roma Tre University,,34.9,82.4,90.5,30,0
+2021,Natural Sciences,Physics,201-300,"Royal Holloway, University of London",,28.3,91.9,96.6,34.2,0
+2021,Natural Sciences,Physics,201-300,Soochow University (China),,52.7,73.8,58.9,29.5,0
+2021,Natural Sciences,Physics,201-300,Southern Methodist University,,28.3,88.8,92.8,31.5,0
+2021,Natural Sciences,Physics,201-300,Sungkyunkwan University,,51.2,65,66.8,41.5,0
+2021,Natural Sciences,Physics,201-300,Swinburne University of Technology,,39.3,90.9,91,25.7,0
+2021,Natural Sciences,Physics,201-300,Technical University of Denmark,,47.7,72.6,85.4,30.2,0
+2021,Natural Sciences,Physics,201-300,Technion-Israel Institute of Technology,,47,71.2,80.5,39.9,0
+2021,Natural Sciences,Physics,201-300,The University of Alabama - Tuscaloosa,,33.9,85.8,88.8,32.6,0
+2021,Natural Sciences,Physics,201-300,The University of Auckland,,32.6,81.1,92.3,31,0
+2021,Natural Sciences,Physics,201-300,The University of Hong Kong,,41,77.8,76,34.6,0
+2021,Natural Sciences,Physics,201-300,The University of New Mexico - Albuquerque,,37.4,76.7,83.3,34.8,0
+2021,Natural Sciences,Physics,201-300,The University of Texas at Dallas,,35.2,75.7,85,36.3,0
+2021,Natural Sciences,Physics,201-300,The University of Western Australia,,38.8,92,89.8,21.2,0
+2021,Natural Sciences,Physics,201-300,Tokyo Institute of Technology,,51.1,64.2,71.4,45.8,0
+2021,Natural Sciences,Physics,201-300,Tufts University,,32.2,88.4,87.8,30.2,0
+2021,Natural Sciences,Physics,201-300,UNESP,,39.1,75.3,81.2,34,0
+2021,Natural Sciences,Physics,201-300,Universidade Federal do ABC (UFABC),,31.1,80.8,92.9,33.8,0
+2021,Natural Sciences,Physics,201-300,"University at Buffalo, the State University of New York",,36.3,77.2,84.7,35.7,0
+2021,Natural Sciences,Physics,201-300,University of Alberta,,42.7,73.6,86,34.8,0
+2021,Natural Sciences,Physics,201-300,University of Antwerp,,35.9,80.2,91.3,33.3,0
+2021,Natural Sciences,Physics,201-300,University of Belgrade,,43.6,70.9,87.2,38.1,0
+2021,Natural Sciences,Physics,201-300,University of Bergen,,31.1,83.2,96.4,30.5,0
+2021,Natural Sciences,Physics,201-300,University of Bochum,,39.5,64.2,85.2,42.9,0
+2021,Natural Sciences,Physics,201-300,University of Bordeaux,,41.4,73.2,84.2,35.9,0
+2021,Natural Sciences,Physics,201-300,University of Campinas,,40.2,72.9,83.4,37.3,0
+2021,Natural Sciences,Physics,201-300,University of Canterbury,,30.3,82.6,96.9,30.5,0
+2021,Natural Sciences,Physics,201-300,University of Cape Town,,36.7,80.2,96.1,28.2,0
+2021,Natural Sciences,Physics,201-300,University of Catania,,39.4,81,90.6,34.4,0
+2021,Natural Sciences,Physics,201-300,University of Cincinnati,,29.9,83.4,87.3,42.4,0
+2021,Natural Sciences,Physics,201-300,University of Cologne,,37.3,67.2,89.8,42.2,0
+2021,Natural Sciences,Physics,201-300,University of Eastern Piedmont,,32.7,81.5,97.3,40.2,0
+2021,Natural Sciences,Physics,201-300,University of Erlangen-Nuremberg,,43.4,71.3,82,39.5,0
+2021,Natural Sciences,Physics,201-300,University of Florence,,40.4,74.7,86.6,42.4,0
+2021,Natural Sciences,Physics,201-300,University of Freiburg,,37.7,75.4,85.1,38.5,0
+2021,Natural Sciences,Physics,201-300,University of Giessen,,35.3,75.3,90.5,42.9,0
+2021,Natural Sciences,Physics,201-300,University of Granada,,36.5,91.2,90.7,26.8,0
+2021,Natural Sciences,Physics,201-300,University of Kansas,,33.9,81.4,90.3,34.6,0
+2021,Natural Sciences,Physics,201-300,University of La Laguna,,49.4,82.6,95.1,16,0
+2021,Natural Sciences,Physics,201-300,University of Malaya,,39,71,86,35.5,0
+2021,Natural Sciences,Physics,201-300,University of Montreal,,42.6,75.6,88.7,31,0
+2021,Natural Sciences,Physics,201-300,University of Nebraska - Lincoln,,37.7,80.2,85.6,36.3,0
+2021,Natural Sciences,Physics,201-300,University of Nottingham,,40.6,78,83.6,37.3,0
+2021,Natural Sciences,Physics,201-300,University of Oviedo,,31.8,90.5,94.2,29.7,0
+2021,Natural Sciences,Physics,201-300,University of Portsmouth,,31.7,100,94,17.3,0
+2021,Natural Sciences,Physics,201-300,University of Rennes 1,,25.5,100,82.1,25.7,0
+2021,Natural Sciences,Physics,201-300,University of Salerno,,26.2,100,84,28.5,0
+2021,Natural Sciences,Physics,201-300,University of Santiago Compostela,,30.7,78.7,92.4,38.7,0
+2021,Natural Sciences,Physics,201-300,University of Siegen,,31.7,91.2,93.2,32.9,0
+2021,Natural Sciences,Physics,201-300,University of Split,,29.7,84.8,98.7,31.5,0
+2021,Natural Sciences,Physics,201-300,University of St Andrews,,42.3,75.7,91,31.5,0
+2021,Natural Sciences,Physics,201-300,University of Strathclyde,,34,89.8,87,33.8,0
+2021,Natural Sciences,Physics,201-300,University of the Balearic Islands,,22.9,100,86.3,23.9,0
+2021,Natural Sciences,Physics,201-300,University of the Basque Country,,40.3,64.2,88.9,40.6,0
+2021,Natural Sciences,Physics,201-300,University of the Witwatersrand,,33.3,82.5,92.7,28.7,0
+2021,Natural Sciences,Physics,201-300,University of Tsukuba,,42.2,68.6,74.4,38.1,0
+2021,Natural Sciences,Physics,201-300,University of Udine,,28.2,90.6,94.6,26,0
+2021,Natural Sciences,Physics,201-300,University of Victoria,,38.3,87.2,94.8,31,0
+2021,Natural Sciences,Physics,201-300,University of Wisconsin-Milwaukee,,23.7,100,86.9,22.9,0
+2021,Natural Sciences,Physics,201-300,University of Wuppertal,,30.3,88.2,93.9,27.9,0
+2021,Natural Sciences,Physics,201-300,Vanderbilt University,,37.9,81.9,86.4,34,0
+2021,Natural Sciences,Physics,201-300,Vrije Universiteit Brussel (VUB),,35.4,80.2,93.5,34,0
+2021,Natural Sciences,Physics,201-300,West Virginia University,,26.1,100,80.5,24.2,0
+2021,Natural Sciences,Physics,201-300,Wuhan University,,45.5,66.9,60.5,44,0
+2021,Natural Sciences,Physics,301-400,Adiyaman University,,24.5,86.6,96.8,28.2,0
+2021,Natural Sciences,Physics,301-400,Ankara University,,29.2,76.7,89,32.9,0
+2021,Natural Sciences,Physics,301-400,Baylor University,,29.6,79,92.4,31.5,0
+2021,Natural Sciences,Physics,301-400,Benemerita Universidad Autonoma de Puebla,,33.1,74,83.7,32.6,0
+2021,Natural Sciences,Physics,301-400,Brandenburg University of Technology,,26.7,80,93.5,28.5,0
+2021,Natural Sciences,Physics,301-400,British University in Egypt,,23.7,83.7,93.9,26.8,0
+2021,Natural Sciences,Physics,301-400,Brunel University,,26.9,80.6,93.5,29.7,0
+2021,Natural Sciences,Physics,301-400,Cag University,,19.3,96.4,100,20.5,0
+2021,Natural Sciences,Physics,301-400,California State University Fresno,,24.2,91.7,97,22.2,0
+2021,Natural Sciences,Physics,301-400,Chalmers University of Technology,,44.2,66.9,90.3,29.2,0
+2021,Natural Sciences,Physics,301-400,Colorado State University,,21.2,96.9,73.8,24.8,0
+2021,Natural Sciences,Physics,301-400,Comenius University in Bratislava,,34.2,78.1,95.5,30.7,0
+2021,Natural Sciences,Physics,301-400,Complutense University of Madrid,,39.9,68.5,86.6,27.9,0
+2021,Natural Sciences,Physics,301-400,Cukurova University,,25.3,82.2,91.8,28.2,0
+2021,Natural Sciences,Physics,301-400,Delft University of Technology,,40.5,66.3,81.7,35.5,0
+2021,Natural Sciences,Physics,301-400,Drexel University,,23,100,78.1,18.2,0
+2021,Natural Sciences,Physics,301-400,Ecole Normale Superieure - Lyon,,34.5,73.4,86.8,31.7,0
+2021,Natural Sciences,Physics,301-400,Florida Institute of Technology,,27.6,80.9,92.2,29.5,0
+2021,Natural Sciences,Physics,301-400,Florida International University,,29,80.9,90.7,33.3,0
+2021,Natural Sciences,Physics,301-400,Gaziantep University,,23.8,90.9,94.2,22.2,0
+2021,Natural Sciences,Physics,301-400,Gaziosmanpasa University,,23.1,85.5,95.1,24.5,0
+2021,Natural Sciences,Physics,301-400,Goethe University Frankfurt,,34.3,70.6,88.6,38.9,0
+2021,Natural Sciences,Physics,301-400,Guglielmo Marconi University,,24.7,87.5,99.1,28.2,0
+2021,Natural Sciences,Physics,301-400,Hampton University,,17.5,96.2,94,22.2,0
+2021,Natural Sciences,Physics,301-400,Hiroshima Institute of Technology,,23.9,93.8,97.8,22.2,0
+2021,Natural Sciences,Physics,301-400,Hunan University,,37,70.8,57.2,32.4,0
+2021,Natural Sciences,Physics,301-400,Ilia State University,,27.4,88.9,97,24.5,0
+2021,Natural Sciences,Physics,301-400,Indian Institute of Science Education & Research (IISER) - Kolkata,,20.8,100,62.3,20.1,0
+2021,Natural Sciences,Physics,301-400,Indian Institute of Science Education & Research (IISER) - Pune,,29.8,76.2,84.9,30.2,0
+2021,Natural Sciences,Physics,301-400,Indian Institute of Technology Hyderabad,,19.8,100,74.3,19,0
+2021,Natural Sciences,Physics,301-400,Indian Institute of Technology Madras,,37.2,71.5,69.8,38.1,0
+2021,Natural Sciences,Physics,301-400,Izmir Institute of Technology,,26.2,80.3,90.1,28.2,0
+2021,Natural Sciences,Physics,301-400,Jagiellonian University,,42.1,69.3,85.2,32.9,0
+2021,Natural Sciences,Physics,301-400,Kafkas University,,24.4,88.2,97.7,27.9,0
+2021,Natural Sciences,Physics,301-400,Kansas State University,,30.8,80.2,87.8,33.1,0
+2021,Natural Sciences,Physics,301-400,King Abdullah University of Science and Technology,,37.4,82.3,84.8,17.3,0
+2021,Natural Sciences,Physics,301-400,KU Leuven,,46.4,63.9,88.3,30,0
+2021,Natural Sciences,Physics,301-400,Kyoto University of Education,,23.6,94.6,99.8,21.9,0
+2021,Natural Sciences,Physics,301-400,Kyungpook National University,,35.8,64.5,77.5,40.6,0
+2021,Natural Sciences,Physics,301-400,Lappeenranta University of Technology,,25.8,79.7,97.7,29.2,0
+2021,Natural Sciences,Physics,301-400,Liverpool John Moores University,,34.8,98,97.8,3.9,0
+2021,Natural Sciences,Physics,301-400,Manhattan College,,24.2,95.9,98.6,22.2,0
+2021,Natural Sciences,Physics,301-400,Mimar Sinan Guzel Sanatlar University,,24.3,88,98.4,28.2,0
+2021,Natural Sciences,Physics,301-400,Montana State University - Bozeman,,21,100,74.5,23.6,0
+2021,Natural Sciences,Physics,301-400,Ohio University,,22,89.5,87.1,24.5,0
+2021,Natural Sciences,Physics,301-400,Okayama University,,29.6,75,81.6,30.7,0
+2021,Natural Sciences,Physics,301-400,Parthenope University Naples,,28.7,87.2,97.7,22.9,0
+2021,Natural Sciences,Physics,301-400,Peter the Great St. Petersburg Polytechnic University,,38.3,68.3,80.9,38.7,0
+2021,Natural Sciences,Physics,301-400,Piri Reis University,,23.3,88.3,98.9,26.8,0
+2021,Natural Sciences,Physics,301-400,Pusan National University,,31.8,85.5,66.4,28.7,0
+2021,Natural Sciences,Physics,301-400,Quaid-i-Azam University,,31.9,74.5,84.8,28.5,0
+2021,Natural Sciences,Physics,301-400,Rio de Janeiro State University,,36.4,68.2,82.8,36.9,0
+2021,Natural Sciences,Physics,301-400,Rochester Institute of Technology,,24.7,100,77.5,21.6,0
+2021,Natural Sciences,Physics,301-400,Simon Fraser University,,30.8,80.3,91.2,29.7,0
+2021,Natural Sciences,Physics,301-400,Sofia University,,29.4,74.2,93.6,30.5,0
+2021,Natural Sciences,Physics,301-400,Technical University Darmstadt,,35.4,64,81.3,42.4,0
+2021,Natural Sciences,Physics,301-400,Texas A and M University at Qatar,,28.6,81.9,99,29.2,0
+2021,Natural Sciences,Physics,301-400,The Hebrew University of Jerusalem,,38.6,71.2,81.8,34.4,0
+2021,Natural Sciences,Physics,301-400,The University of New South Wales,,45.8,69.9,84.9,27.7,0
+2021,Natural Sciences,Physics,301-400,The University of Texas at Arlington,,30.6,80.5,89.1,27.7,0
+2021,Natural Sciences,Physics,301-400,TOBB Ekonomi ve Teknoloji University,,24.5,91.6,95.4,22.2,0
+2021,Natural Sciences,Physics,301-400,Tokyo Metropolitan University,,32.4,79.2,84.7,32.9,0
+2021,Natural Sciences,Physics,301-400,Universidad Antonio Narino,,24.8,94.6,99,22.9,0
+2021,Natural Sciences,Physics,301-400,Universidad Tecnica Federico Santa Maria,,31,78.2,95.4,30.7,0
+2021,Natural Sciences,Physics,301-400,Universidade Federal de Sao Joao del-Rei,,24.5,88.9,91.4,22.6,0
+2021,Natural Sciences,Physics,301-400,Universite de Haute Alsace,,27.4,86.2,95.5,28.2,0
+2021,Natural Sciences,Physics,301-400,Universite Mohammed Premier,,25.5,94.5,98.2,22.2,0
+2021,Natural Sciences,Physics,301-400,University at Albany (State University of New York),,27.1,86.9,89.6,27.4,0
+2021,Natural Sciences,Physics,301-400,University of Basel,,31.5,76.5,89.8,32.6,0
+2021,Natural Sciences,Physics,301-400,University of Buenos Aires,,36.3,71.5,86.2,27.9,0
+2021,Natural Sciences,Physics,301-400,University of Cagliari,,32,74,92.6,36.1,0
+2021,Natural Sciences,Physics,301-400,University of Calabria,,30.9,79.3,91,26.3,0
+2021,Natural Sciences,Physics,301-400,University of Camerino,,16.6,100,86.2,20.9,0
+2021,Natural Sciences,Physics,301-400,University of Coimbra,,30.6,80.8,91.5,28.2,0
+2021,Natural Sciences,Physics,301-400,University of Cyprus,,28,81.6,96.6,30.2,0
+2021,Natural Sciences,Physics,301-400,University of Debrecen,,27.3,78.3,93,30.7,0
+2021,Natural Sciences,Physics,301-400,University of Fribourg,,29.1,83.4,96.1,29,0
+2021,Natural Sciences,Physics,301-400,University of Illinois at Chicago,,33.7,74.6,83.1,37.3,0
+2021,Natural Sciences,Physics,301-400,University of Ioannina,,29.2,76.4,92.2,30,0
+2021,Natural Sciences,Physics,301-400,University of Johannesburg,,29.7,82.2,94.3,24.8,0
+2021,Natural Sciences,Physics,301-400,University of Los Andes (Colombia),,28.2,81.8,96.2,31.7,0
+2021,Natural Sciences,Physics,301-400,University of Louisville,,25.4,89.4,91.6,21.9,0
+2021,Natural Sciences,Physics,301-400,University of Mons,,27.6,85,93.2,22.2,0
+2021,Natural Sciences,Physics,301-400,University of Montpellier,,35.1,75.2,82.9,28.2,0
+2021,Natural Sciences,Physics,301-400,University of Muenster,,32.9,75.7,84.6,34.6,0
+2021,Natural Sciences,Physics,301-400,University of Oklahoma - Norman,,33.9,83.3,85.3,28.2,0
+2021,Natural Sciences,Physics,301-400,University of Parma,,19.3,100,84.2,18.2,0
+2021,Natural Sciences,Physics,301-400,University of Puerto Rico Mayaguez,,24.6,83.8,96.4,28.5,0
+2021,Natural Sciences,Physics,301-400,University of Rostock,,26.6,68.6,84.8,40.6,0
+2021,Natural Sciences,Physics,301-400,University of Salento,,30.9,82.7,87,23.9,0
+2021,Natural Sciences,Physics,301-400,University of South Carolina - Columbia,,28.2,82.6,87,31,0
+2021,Natural Sciences,Physics,301-400,University of Szeged,,19.2,100,81.9,19.4,0
+2021,Natural Sciences,Physics,301-400,University of Texas Rio Grande Valley,,15.9,100,85.3,19.4,0
+2021,Natural Sciences,Physics,301-400,University of Tuebingen,,35.2,74.2,89.5,24.8,0
+2021,Natural Sciences,Physics,301-400,University of Vienna,,40.7,69.9,89.2,31.2,0
+2021,Natural Sciences,Physics,301-400,Utah Valley University,,21.7,86.4,99.1,25.1,0
+2021,Natural Sciences,Physics,301-400,Warsaw University of Technology,,37,69.2,82.9,37.7,0
+2021,Natural Sciences,Physics,301-400,Washington State University,,21.1,100,67.9,25.4,0
+2021,Natural Sciences,Physics,301-400,West University of Timisoara,,24.5,87.2,92.2,22.2,0
+2021,Natural Sciences,Physics,301-400,York University,,31.7,83.8,92.9,26.5,0
+2021,Natural Sciences,Physics,401-500,Aristotle University of Thessaloniki,,31.8,76.1,89.8,24.5,0
+2021,Natural Sciences,Physics,401-500,Arizona State University,,40.8,67.6,76.4,25.4,0
+2021,Natural Sciences,Physics,401-500,Bahcesehir University,,20.5,88,94.8,17.3,0
+2021,Natural Sciences,Physics,401-500,California State University-Sacramento,,18.6,86,98.2,16.4,0
+2021,Natural Sciences,Physics,401-500,Case Western Reserve University,,27.9,86.3,76.1,17.7,0
+2021,Natural Sciences,Physics,401-500,Chonnam National University,,31.6,68.2,77.7,35.5,0
+2021,Natural Sciences,Physics,401-500,Chulalongkorn University,,29.4,75,90.3,28.7,0
+2021,Natural Sciences,Physics,401-500,Creighton University,,15.1,86.2,96.8,21.6,0
+2021,Natural Sciences,Physics,401-500,Eindhoven University of Technology,,37.4,65.1,79.1,29.5,0
+2021,Natural Sciences,Physics,401-500,Erzincan University,,21.1,89,92.8,22.2,0
+2021,Natural Sciences,Physics,401-500,Fayoum University,,17.3,87.1,95.5,20.5,0
+2021,Natural Sciences,Physics,401-500,Federal University of Rio Grande do Norte,,23,90.6,76.4,22.6,0
+2021,Natural Sciences,Physics,401-500,Federal University of Rio Grande do Sul,,31.1,66.5,83.6,24.8,0
+2021,Natural Sciences,Physics,401-500,Free University Berlin,,31.5,67.4,79.3,35.9,0
+2021,Natural Sciences,Physics,401-500,Hassan II University of Casablanca,,24.6,82.5,92,22.2,0
+2021,Natural Sciences,Physics,401-500,Hiroshima University,,32.4,69.4,77.3,28.5,0
+2021,Natural Sciences,Physics,401-500,IMT Atlantique,,17.9,87,91.1,22.2,0
+2021,Natural Sciences,Physics,401-500,Indian Institute of Science,,41.2,55.3,64.2,33.5,0
+2021,Natural Sciences,Physics,401-500,Indian Institute of Technology Bombay,,31,70.5,65.5,26,0
+2021,Natural Sciences,Physics,401-500,Indian Institute of Technology Gandhinagar,,17.9,100,68.8,17.7,0
+2021,Natural Sciences,Physics,401-500,International Islamic University Malaysia,,23.5,79.3,95.1,26.3,0
+2021,Natural Sciences,Physics,401-500,Isfahan University of Technology,,30.2,72.3,77.4,29,0
+2021,Natural Sciences,Physics,401-500,Islamic Azad University,,38.2,62.9,55.1,27.9,0
+2021,Natural Sciences,Physics,401-500,Istanbul Technical University,,27.9,69.4,81.2,28.7,0
+2021,Natural Sciences,Physics,401-500,Jilin University,,50.6,60.1,48.1,20.1,0
+2021,Natural Sciences,Physics,401-500,Kobe University,,32.2,73.6,78.8,26.8,0
+2021,Natural Sciences,Physics,401-500,Korea Advanced Institute of Science and Technology,,47.7,60.7,61.2,22.6,0
+2021,Natural Sciences,Physics,401-500,Kyushu University,,40.5,64.2,70.8,29.7,0
+2021,Natural Sciences,Physics,401-500,Lanzhou University,,38.4,58.2,56.8,34,0
+2021,Natural Sciences,Physics,401-500,Marmara University,,24.9,78.6,89.2,27.7,0
+2021,Natural Sciences,Physics,401-500,Mersin University,,24,80.7,90.3,27.4,0
+2021,Natural Sciences,Physics,401-500,Middle East Technical University,,30,70.7,80.5,32.6,0
+2021,Natural Sciences,Physics,401-500,Mohammed V University,,26.3,74.7,81.9,22.2,0
+2021,Natural Sciences,Physics,401-500,National University of La Plata,,38.1,69.9,88.1,24.8,0
+2021,Natural Sciences,Physics,401-500,New Mexico State University,,23.6,82.7,87.2,15.5,0
+2021,Natural Sciences,Physics,401-500,North Carolina State University - Raleigh,,35.7,69.3,69.6,30.7,0
+2021,Natural Sciences,Physics,401-500,NOVA University Lisbon,,28.5,79.4,92,22.6,0
+2021,Natural Sciences,Physics,401-500,Ochanomizu University,,22.2,87.8,88.6,19.7,0
+2021,Natural Sciences,Physics,401-500,Ozyegin University,,22.1,85.1,95.8,23.9,0
+2021,Natural Sciences,Physics,401-500,Pohang University of Science and Technology,,40.4,60.6,65.4,28.2,0
+2021,Natural Sciences,Physics,401-500,Polytechnic University of Milan,,34.3,66.1,77.9,25.1,0
+2021,Natural Sciences,Physics,401-500,Queen's University Belfast,,36.6,70.5,93.1,24.2,0
+2021,Natural Sciences,Physics,401-500,Riga Technical University,,21.2,79.6,96.5,25.4,0
+2021,Natural Sciences,Physics,401-500,Rockefeller University,,19.2,89,96.2,21.6,0
+2021,Natural Sciences,Physics,401-500,Sejong University,,27.5,72,77.4,25.1,0
+2021,Natural Sciences,Physics,401-500,Shanxi University,,37.4,56.1,53.5,37.1,0
+2021,Natural Sciences,Physics,401-500,Shenzhen University,,43.7,74.9,56.8,16.9,0
+2021,Natural Sciences,Physics,401-500,Shinshu University,,28.2,78.3,85.8,24.5,0
+2021,Natural Sciences,Physics,401-500,Southeast University,,42.4,60.4,51.1,28.7,0
+2021,Natural Sciences,Physics,401-500,Southern University of Science and Technology,,33.9,73.4,67.5,25.7,0
+2021,Natural Sciences,Physics,401-500,Technical University of Berlin,,34.6,64,77.1,26,0
+2021,Natural Sciences,Physics,401-500,Temple University,,22,73.8,79.3,31.2,0
+2021,Natural Sciences,Physics,401-500,The Catholic University of America,,26.9,69.3,87,29,0
+2021,Natural Sciences,Physics,401-500,The City College of New York,,23,87.7,78.4,23.9,0
+2021,Natural Sciences,Physics,401-500,The George Washington University,,23.2,81.1,78.3,23.2,0
+2021,Natural Sciences,Physics,401-500,The Graduate University for Advanced Studies,,33.3,66.8,80.1,22.9,0
+2021,Natural Sciences,Physics,401-500,The University of Queensland,,33.9,73.9,81.7,25.7,0
+2021,Natural Sciences,Physics,401-500,Tomsk State University,,37.2,63.2,75.9,35.3,0
+2021,Natural Sciences,Physics,401-500,Transilvania University of Brasov,,22.3,85.7,92.9,17.7,0
+2021,Natural Sciences,Physics,401-500,Ulsan National Institute of Science and Technology,,34.7,80,66.9,19.4,0
+2021,Natural Sciences,Physics,401-500,Universidad Autonoma de San Luis Potosi,,26.8,73.1,86.4,28.2,0
+2021,Natural Sciences,Physics,401-500,Universidade Federal de Juiz de Fora,,26.3,84.3,90.2,22.2,0
+2021,Natural Sciences,Physics,401-500,Universidade Federal do Triangulo Mineiro,,17.8,79.2,96.2,31.7,0
+2021,Natural Sciences,Physics,401-500,Universitat Ramon Llull,,18.4,79.8,94.2,31.7,0
+2021,Natural Sciences,Physics,401-500,University of Alabama in Huntsville,,22,91.7,74.3,11.6,0
+2021,Natural Sciences,Physics,401-500,University of Bath,,26.8,74.2,84.8,21.2,0
+2021,Natural Sciences,Physics,401-500,University of Bialystok,,13.7,100,85.1,15.5,0
+2021,Natural Sciences,Physics,401-500,University of Chile,,37.4,71.6,90.8,12.8,0
+2021,Natural Sciences,Physics,401-500,University of Delaware,,30.5,72.4,77.2,26.3,0
+2021,Natural Sciences,Physics,401-500,University of Delhi,,31.9,63.3,69.9,33.1,0
+2021,Natural Sciences,Physics,401-500,University of Houston,,29.9,71.2,82.2,30.2,0
+2021,Natural Sciences,Physics,401-500,University of Jena,,36.5,67.9,76.5,29,0
+2021,Natural Sciences,Physics,401-500,University of Jyvaskyla,,24.4,69,90.8,28.5,0
+2021,Natural Sciences,Physics,401-500,University of Kentucky,,25.7,69.7,85.3,27.1,0
+2021,Natural Sciences,Physics,401-500,University of KwaZulu-Natal,,25.2,84.6,86.3,15.5,0
+2021,Natural Sciences,Physics,401-500,University of Leicester,,28.6,83.5,91.6,12.8,0
+2021,Natural Sciences,Physics,401-500,University of Liege,,30.7,75,92.4,16.9,0
+2021,Natural Sciences,Physics,401-500,University of Marrakech Cadi Ayyad,,25.8,82.7,91.1,22.2,0
+2021,Natural Sciences,Physics,401-500,University of Minho,,28.7,77.2,91,23.2,0
+2021,Natural Sciences,Physics,401-500,University of Modena and Reggio Emilia,,23.6,68.3,88.5,33.1,0
+2021,Natural Sciences,Physics,401-500,University of Nantes,,23.2,75.7,86.9,22.9,0
+2021,Natural Sciences,Physics,401-500,University of North Carolina at Chapel Hill,,31,75.7,74.7,22.9,0
+2021,Natural Sciences,Physics,401-500,University of Porto,,37.5,73.3,87.9,18.2,0
+2021,Natural Sciences,Physics,401-500,University of Regensburg,,27.2,69.1,80.1,32.9,0
+2021,Natural Sciences,Physics,401-500,University of Seoul,,28.4,75.5,80.2,29.5,0
+2021,Natural Sciences,Physics,401-500,University of Southern California,,32.7,79.7,69.7,21.6,0
+2021,Natural Sciences,Physics,401-500,University of Stuttgart,,35.1,66.1,72.1,34.8,0
+2021,Natural Sciences,Physics,401-500,University of Ulm,,24.7,66,81.4,34.2,0
+2021,Natural Sciences,Physics,401-500,University of Utah,,33.3,75,74.1,20.5,0
+2021,Natural Sciences,Physics,401-500,University of York,,31.4,64.3,89.4,31.9,0
+2021,Natural Sciences,Physics,401-500,University of Zagreb,,25.4,69.7,91.9,25.7,0
+2021,Natural Sciences,Physics,401-500,University of Zielona Gora,,16.4,100,87.4,16.9,0
+2021,Natural Sciences,Physics,401-500,Vilnius University,,33.2,69.2,87.5,29,0
+2021,Natural Sciences,Physics,401-500,Virginia Polytechnic Institute and State University,,33.4,68.8,74.6,32.6,0
+2021,Natural Sciences,Physics,401-500,Visva Bharati University,,26.7,75,83.2,28.2,0
+2021,Natural Sciences,Physics,401-500,Waseda University,,35.2,71,74.5,30.2,0
+2021,Natural Sciences,Physics,401-500,Washington University in St. Louis,,26.5,74.4,70.1,26.3,0
+2021,Natural Sciences,Physics,401-500,Xi'an Jiaotong University,,52.8,58.3,54.1,25.7,0
+2021,Natural Sciences,Physics,401-500,Yonsei University,,44.8,64,63.6,27.9,0
+2021,Natural Sciences,Physics,401-500,Zhengzhou University,,33.4,73.5,58.9,25.4,0

@@ -1,0 +1,501 @@
+Year,Field,Subject,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
+2021,Engineering,Materials Science & Engineering,1,Massachusetts Institute of Technology (MIT),355.4,71.5,95.1,80.1,82,90.8
+2021,Engineering,Materials Science & Engineering,2,Georgia Institute of Technology,342.1,70.4,97.1,80.3,78.7,79.8
+2021,Engineering,Materials Science & Engineering,3,"University of California, Berkeley",340.9,63.9,92.3,80.2,73.7,94.9
+2021,Engineering,Materials Science & Engineering,4,Harvard University,334.4,55.6,97.1,84.2,80.3,84.4
+2021,Engineering,Materials Science & Engineering,5,Northwestern University,331.4,62.3,89.4,75.1,64.7,100
+2021,Engineering,Materials Science & Engineering,6,University of Cambridge,322.9,63.2,87.2,88.8,70.3,84.4
+2021,Engineering,Materials Science & Engineering,7,Stanford University,316.1,63.2,100,78.1,76,61.2
+2021,Engineering,Materials Science & Engineering,8,Tsinghua University,296.4,100,86.2,56,99.1,0
+2021,Engineering,Materials Science & Engineering,9,Nanyang Technological University,296.2,81.1,97.7,86.9,100,0
+2021,Engineering,Materials Science & Engineering,10,"University of California, Los Angeles",293.7,49.9,95.8,80,59.6,72.5
+2021,Engineering,Materials Science & Engineering,11,University of Illinois at Urbana-Champaign,281.5,53.1,77.2,70,46.4,90.8
+2021,Engineering,Materials Science & Engineering,12,Peking University,278.7,81.3,90.7,57,95.4,0
+2021,Engineering,Materials Science & Engineering,13,University of Science and Technology of China,277.5,88.4,89.2,53.3,89.2,0
+2021,Engineering,Materials Science & Engineering,14,Pennsylvania State University - University Park,268.4,56,85.9,74.4,50.3,61.2
+2021,Engineering,Materials Science & Engineering,15,National University of Singapore,264.5,73.4,90.6,84.5,83.6,0
+2021,Engineering,Materials Science & Engineering,16,Soochow University (China),260.6,78.4,92.9,58.3,77.7,0
+2021,Engineering,Materials Science & Engineering,17,Imperial College London,255.6,60.2,82.9,84.1,57,38.7
+2021,Engineering,Materials Science & Engineering,18,Zhejiang University,249.3,80.5,84.6,60,72.2,0
+2021,Engineering,Materials Science & Engineering,19,University of Michigan-Ann Arbor,243.9,54.6,85,72.2,45.1,44.7
+2021,Engineering,Materials Science & Engineering,20,Shanghai Jiao Tong University,242.1,83.4,80.8,58.6,66.2,0
+2021,Engineering,Materials Science & Engineering,21,Huazhong University of Science and Technology,238.6,78.2,88,53.6,61.7,0
+2021,Engineering,Materials Science & Engineering,22,Tianjin University,238.1,76.9,81.2,51.2,69.8,0
+2021,Engineering,Materials Science & Engineering,23,Nanjing University,234.9,69.8,85.7,55.9,68.1,0
+2021,Engineering,Materials Science & Engineering,24,"University of California, San Diego",234.7,45.2,84.7,71,47.2,43.3
+2021,Engineering,Materials Science & Engineering,25,Fudan University,233.7,68.9,90.6,57.5,62.6,0
+2021,Engineering,Materials Science & Engineering,26,King Abdullah University of Science and Technology,232.7,50.6,100,88.2,64.4,0
+2021,Engineering,Materials Science & Engineering,27,University of Oxford,231.7,53.1,89.1,85,45.1,27.4
+2021,Engineering,Materials Science & Engineering,28,South China University of Technology,230.1,81.6,84.6,49.6,53.9,0
+2021,Engineering,Materials Science & Engineering,29,Cornell University,230.0,42.6,84.8,68.9,45.6,43.3
+2021,Engineering,Materials Science & Engineering,30,The University of Texas at Austin,229.8,49.3,91.3,71,47.6,27.4
+2021,Engineering,Materials Science & Engineering,30,University of Chicago,229.8,68.4,83.8,73.4,62.9,0
+2021,Engineering,Materials Science & Engineering,32,Jilin University,229.7,77.6,81.3,48.2,61.1,0
+2021,Engineering,Materials Science & Engineering,33,Ulsan National Institute of Science and Technology,228.2,53.2,98,60.1,65,0
+2021,Engineering,Materials Science & Engineering,34,Beihang University,228.0,67,77.9,51.7,72.7,0
+2021,Engineering,Materials Science & Engineering,35,Xi'an Jiaotong University,226.8,77.4,81.4,58.8,56.3,0
+2021,Engineering,Materials Science & Engineering,36,Princeton University,225.1,33.4,79.1,75,36.3,61.2
+2021,Engineering,Materials Science & Engineering,37,Seoul National University,224.5,69.1,75.8,56.5,68.4,0
+2021,Engineering,Materials Science & Engineering,38,Nankai University,223.1,56.4,99.1,51.1,57.3,0
+2021,Engineering,Materials Science & Engineering,39,Sungkyunkwan University,221.7,63.7,75.8,53.9,71.4,0
+2021,Engineering,Materials Science & Engineering,40,Swiss Federal Institute of Technology Lausanne,220.1,56.9,92,86.6,53.9,0
+2021,Engineering,Materials Science & Engineering,41,City University of Hong Kong,218.6,58.6,96.1,62.1,51.4,0
+2021,Engineering,Materials Science & Engineering,42,Korea Advanced Institute of Science and Technology,218.0,64.9,78,56.1,63.8,0
+2021,Engineering,Materials Science & Engineering,43,ETH Zurich,215.5,58.4,82,84,58.3,0
+2021,Engineering,Materials Science & Engineering,44,Harbin Institute of Technology,215.0,88.3,75.2,51.5,41.2,0
+2021,Engineering,Materials Science & Engineering,45,"University of California, Riverside",213.8,31.9,83.1,72.4,29.5,54.8
+2021,Engineering,Materials Science & Engineering,46,Wuhan University,211.8,60.5,87.7,52.4,53.2,0
+2021,Engineering,Materials Science & Engineering,47,University of Massachusetts Amherst,211.0,31.5,84.1,74.8,41.7,38.7
+2021,Engineering,Materials Science & Engineering,48,The Hong Kong University of Science and Technology,209.9,49.4,100,58.7,48.8,0
+2021,Engineering,Materials Science & Engineering,48,"University of California, Santa Barbara",209.9,41.9,82.5,70.7,43.9,27.4
+2021,Engineering,Materials Science & Engineering,50,Sun Yat-sen University,209.7,59.5,88.3,52.4,51.4,0
+2021,Engineering,Materials Science & Engineering,51-75,Beijing Institute of Technology,,57.9,84.2,51.3,46.8,0
+2021,Engineering,Materials Science & Engineering,51-75,Beijing University of Chemical Technology,,57.9,89.4,51.2,46.8,0
+2021,Engineering,Materials Science & Engineering,51-75,California Institute of Technology,,35.6,85.1,72,28.8,38.7
+2021,Engineering,Materials Science & Engineering,51-75,Carnegie Mellon University,,32.9,83.6,63.7,31.3,47.4
+2021,Engineering,Materials Science & Engineering,51-75,Central South University,,71.4,81.7,50.6,35.3,0
+2021,Engineering,Materials Science & Engineering,51-75,Karlsruhe Institute of Technology (KIT),,56.7,74.2,79.8,53.2,0
+2021,Engineering,Materials Science & Engineering,51-75,Monash University,,52.4,88.8,88.5,43.9,0
+2021,Engineering,Materials Science & Engineering,51-75,NanJing Tech University,,60.6,81.2,56,55.6,0
+2021,Engineering,Materials Science & Engineering,51-75,Northwestern Polytechnical University,,73.3,77.6,48.9,37.9,0
+2021,Engineering,Materials Science & Engineering,51-75,Paris-Saclay University,,52.5,66.2,78.4,35.3,27.4
+2021,Engineering,Materials Science & Engineering,51-75,Pohang University of Science and Technology,,57.4,79.9,61.8,57.3,0
+2021,Engineering,Materials Science & Engineering,51-75,Rice University,,44,96.3,80.7,46.4,0
+2021,Engineering,Materials Science & Engineering,51-75,Shenzhen University,,56.1,89.1,62.4,51.4,0
+2021,Engineering,Materials Science & Engineering,51-75,Sorbonne University,,50.9,67.4,80.9,36.9,27.4
+2021,Engineering,Materials Science & Engineering,51-75,The Hong Kong Polytechnic University,,53.6,88,51.4,45.6,0
+2021,Engineering,Materials Science & Engineering,51-75,The University of Tokyo,,60.2,68.6,63.5,57.3,0
+2021,Engineering,Materials Science & Engineering,51-75,Tokyo Institute of Technology,,43.9,61.9,61.2,31.9,54.8
+2021,Engineering,Materials Science & Engineering,51-75,University of Houston,,32.5,80.5,80,28.2,47.4
+2021,Engineering,Materials Science & Engineering,51-75,University of Science and Technology Beijing,,71.8,74.6,52.7,43.4,0
+2021,Engineering,Materials Science & Engineering,51-75,University of Toronto,,45,85.7,77.1,50.3,0
+2021,Engineering,Materials Science & Engineering,51-75,University of Washington,,45.7,98.3,77.9,47.2,0
+2021,Engineering,Materials Science & Engineering,51-75,University of Wisconsin - Madison,,41.8,85.6,68.4,37.9,27.4
+2021,Engineering,Materials Science & Engineering,51-75,University of Wollongong,,46.6,92.5,91.4,41.2,0
+2021,Engineering,Materials Science & Engineering,51-75,Weizmann Institute of Science,,27.5,78.6,85.1,33.6,47.4
+2021,Engineering,Materials Science & Engineering,51-75,Wuhan University of Technology,,63.2,85.5,58.8,39.8,0
+2021,Engineering,Materials Science & Engineering,76-100,Columbia University,,38.4,90.9,81.9,46.4,0
+2021,Engineering,Materials Science & Engineering,76-100,Hunan University,,52.4,89.4,56.9,37.4,0
+2021,Engineering,Materials Science & Engineering,76-100,King Abdulaziz University,,42.1,96.1,97,34.7,0
+2021,Engineering,Materials Science & Engineering,76-100,Korea University,,60.3,77.3,55,41.7,0
+2021,Engineering,Materials Science & Engineering,76-100,Nanjing University of Science and Technology,,50.8,83.7,55.7,38.4,0
+2021,Engineering,Materials Science & Engineering,76-100,North Carolina State University - Raleigh,,48,85.4,72,46.4,0
+2021,Engineering,Materials Science & Engineering,76-100,Shandong University,,65.3,77.7,50.5,35.8,0
+2021,Engineering,Materials Science & Engineering,76-100,Sichuan University,,69,78.6,47.2,36.9,0
+2021,Engineering,Materials Science & Engineering,76-100,Southeast University,,58.4,75.6,52.1,38.9,0
+2021,Engineering,Materials Science & Engineering,76-100,Southern University of Science and Technology,,44.7,87.2,65.8,42.1,0
+2021,Engineering,Materials Science & Engineering,76-100,The Chinese University of Hong Kong,,39.2,100,64,39.3,0
+2021,Engineering,Materials Science & Engineering,76-100,The University of New South Wales,,54.6,82.5,84,35.8,0
+2021,Engineering,Materials Science & Engineering,76-100,The University of Queensland,,45.4,88.3,84,36.3,0
+2021,Engineering,Materials Science & Engineering,76-100,Tongji University,,56.3,81.8,56.6,40.3,0
+2021,Engineering,Materials Science & Engineering,76-100,TU Dresden,,51.9,74.5,76.1,53.6,0
+2021,Engineering,Materials Science & Engineering,76-100,University College London,,48.5,78.4,85.7,40.3,0
+2021,Engineering,Materials Science & Engineering,76-100,University of Electronic Science and Technology of China,,54.1,79.3,60.8,44.3,0
+2021,Engineering,Materials Science & Engineering,76-100,"University of Maryland, College Park",,43.7,90.9,64.4,45.1,0
+2021,Engineering,Materials Science & Engineering,76-100,University of Nebraska - Lincoln,,35.3,95.9,80.3,39.8,0
+2021,Engineering,Materials Science & Engineering,76-100,University of North Carolina at Chapel Hill,,30.2,100,72.4,44.7,0
+2021,Engineering,Materials Science & Engineering,76-100,University of Pennsylvania,,39.6,87.9,70.7,46.8,0
+2021,Engineering,Materials Science & Engineering,76-100,University of Tennessee - Knoxville,,47.5,94.8,77.3,29.5,0
+2021,Engineering,Materials Science & Engineering,76-100,Xiamen University,,55.8,82.9,62.9,41.7,0
+2021,Engineering,Materials Science & Engineering,76-100,Yonsei University,,58.8,70.4,53.3,45.6,0
+2021,Engineering,Materials Science & Engineering,76-100,Zhengzhou University,,50.1,97.2,56.5,37.4,0
+2021,Engineering,Materials Science & Engineering,101-150,Aalto University,,40.5,72.4,85.8,29.5,0
+2021,Engineering,Materials Science & Engineering,101-150,Autonomous University of Barcelona,,36.3,72.8,86.8,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Case Western Reserve University,,32.2,86.3,68.8,28.2,0
+2021,Engineering,Materials Science & Engineering,101-150,Chongqing University,,59.9,77.6,51.6,25.3,0
+2021,Engineering,Materials Science & Engineering,101-150,Dalian University of Technology,,60.9,75.4,55.1,30.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Delft University of Technology,,47.5,78.3,87.3,35.8,0
+2021,Engineering,Materials Science & Engineering,101-150,Donghua University,,57.5,78.5,56.6,32.5,0
+2021,Engineering,Materials Science & Engineering,101-150,Drexel University,,31.2,100,70.7,31.9,0
+2021,Engineering,Materials Science & Engineering,101-150,Duke University,,31,94.5,72.5,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,East China Normal University,,39.3,82.4,50.1,31.3,0
+2021,Engineering,Materials Science & Engineering,101-150,East China University of Science and Technology,,48.2,78.4,52.5,33.6,0
+2021,Engineering,Materials Science & Engineering,101-150,Eindhoven University of Technology,,38.8,80.2,80.7,37.4,0
+2021,Engineering,Materials Science & Engineering,101-150,Griffith University,,23.5,100,89.8,30.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Hanyang University,,55.6,72.5,56.8,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Johns Hopkins University,,35.7,83,71.6,33.6,0
+2021,Engineering,Materials Science & Engineering,101-150,KU Leuven,,43.8,73,85.9,25.3,0
+2021,Engineering,Materials Science & Engineering,101-150,Kyoto University,,54.4,70.1,59.4,34.2,0
+2021,Engineering,Materials Science & Engineering,101-150,Kyung Hee University,,42.5,78.1,54.4,29.5,0
+2021,Engineering,Materials Science & Engineering,101-150,Kyushu University,,41,66.9,66.7,38.4,0
+2021,Engineering,Materials Science & Engineering,101-150,Linkoping University,,36.7,85.7,86.5,40.3,0
+2021,Engineering,Materials Science & Engineering,101-150,Nanjing University of Posts and Telecommunications,,35.6,82.5,47.7,37.9,0
+2021,Engineering,Materials Science & Engineering,101-150,National Taiwan University,,52.6,72.7,62.5,40.7,0
+2021,Engineering,Materials Science & Engineering,101-150,National Tsing Hua University,,44.9,73.2,62.8,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,PSL University,,46.4,71.4,75.5,31.9,0
+2021,Engineering,Materials Science & Engineering,101-150,Purdue University - West Lafayette,,49.5,79.4,66.4,39.3,0
+2021,Engineering,Materials Science & Engineering,101-150,Queensland University of Technology,,35.3,88.5,88.4,31.3,0
+2021,Engineering,Materials Science & Engineering,101-150,Rensselaer Polytechnic Institute,,29.6,78.6,71.3,20.4,38.7
+2021,Engineering,Materials Science & Engineering,101-150,RMIT University,,39.8,83.2,83.4,23,0
+2021,Engineering,Materials Science & Engineering,101-150,RWTH Aachen University,,45.7,73,73.4,34.2,0
+2021,Engineering,Materials Science & Engineering,101-150,Shaanxi Normal University,,36.2,88.1,42.3,31.9,0
+2021,Engineering,Materials Science & Engineering,101-150,Shanghai University,,57,71.3,57.6,25.3,0
+2021,Engineering,Materials Science & Engineering,101-150,ShanghaiTech University,,26.2,85.5,64,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Technical University of Denmark,,45.1,72.8,84.2,28.2,0
+2021,Engineering,Materials Science & Engineering,101-150,Technical University of Munich,,43.7,75.3,81.5,34.2,0
+2021,Engineering,Materials Science & Engineering,101-150,The Australian National University,,35.8,84,88.7,29.5,0
+2021,Engineering,Materials Science & Engineering,101-150,The University of Adelaide,,29.7,100,82.4,33.6,0
+2021,Engineering,Materials Science & Engineering,101-150,The University of Hong Kong,,37.9,89.1,62.4,31.3,0
+2021,Engineering,Materials Science & Engineering,101-150,The University of Manchester,,51.7,78.6,82.9,30.7,0
+2021,Engineering,Materials Science & Engineering,101-150,The University of Melbourne,,34.8,81.8,81,26.8,0
+2021,Engineering,Materials Science & Engineering,101-150,Tohoku University,,56.1,63.8,69,41.7,0
+2021,Engineering,Materials Science & Engineering,101-150,Université Grenoble Alpes,,55.6,65.7,82.2,37.4,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Bristol,,33.5,71,80.7,23.8,27.4
+2021,Engineering,Materials Science & Engineering,101-150,University of Colorado at Boulder,,37.6,86.7,69.9,37.9,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Erlangen-Nuremberg,,45.4,74.8,78.6,30.1,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Groningen,,29.6,79.9,86.2,34.7,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Munich,,33.7,82.7,80.1,29.5,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Southern California,,32.8,82.4,73.8,23.8,27.4
+2021,Engineering,Materials Science & Engineering,101-150,University of Technology Sydney,,26.9,94.5,86.1,25.3,0
+2021,Engineering,Materials Science & Engineering,101-150,University of Waterloo,,40.7,85.4,78.3,34.2,0
+2021,Engineering,Materials Science & Engineering,101-150,Yale University,,30.9,85.8,74.6,27.5,0
+2021,Engineering,Materials Science & Engineering,151-200,Arizona State University,,35.4,74,69.3,33.1,0
+2021,Engineering,Materials Science & Engineering,151-200,Central China Normal University,,21.3,100,56.1,16.3,0
+2021,Engineering,Materials Science & Engineering,151-200,Chalmers University of Technology,,38.1,71.9,83.5,28.2,0
+2021,Engineering,Materials Science & Engineering,151-200,Curtin University,,31.1,84.2,86.8,23,0
+2021,Engineering,Materials Science & Engineering,151-200,Deakin University,,36.6,79.9,83.1,15,0
+2021,Engineering,Materials Science & Engineering,151-200,Fuzhou University,,40.4,80.1,48.8,21.3,0
+2021,Engineering,Materials Science & Engineering,151-200,Iowa State University,,37.4,70.7,69.7,30.7,0
+2021,Engineering,Materials Science & Engineering,151-200,Jiangsu University,,44.3,77.3,46.1,17.4,0
+2021,Engineering,Materials Science & Engineering,151-200,KTH Royal Institute of Technology,,46.5,70.8,85.5,23.8,0
+2021,Engineering,Materials Science & Engineering,151-200,Lanzhou University,,42.8,76.8,46.8,23,0
+2021,Engineering,Materials Science & Engineering,151-200,Nanjing Normal University,,26.3,91.6,51.8,23.8,0
+2021,Engineering,Materials Science & Engineering,151-200,Nanjing University of Aeronautics and Astronautics,,45.5,74.6,47.2,24.6,0
+2021,Engineering,Materials Science & Engineering,151-200,National Yang Ming Chiao Tung University,,41.3,64.6,64.8,35.3,0
+2021,Engineering,Materials Science & Engineering,151-200,Northeast Normal University,,34,85.5,39.6,26.8,0
+2021,Engineering,Materials Science & Engineering,151-200,Northeastern University (Boston),,29,83.7,78,28.2,0
+2021,Engineering,Materials Science & Engineering,151-200,Osaka University,,46.9,62.5,62.9,34.2,0
+2021,Engineering,Materials Science & Engineering,151-200,Polytechnic University of Catalonia,,37,74,78.8,26.8,0
+2021,Engineering,Materials Science & Engineering,151-200,Polytechnic University of Milan,,38,75,75.4,26.1,0
+2021,Engineering,Materials Science & Engineering,151-200,Qingdao University,,37.8,89,59.9,15,0
+2021,Engineering,Materials Science & Engineering,151-200,Qingdao University of Science and Technology,,35.8,82.1,46.1,23,0
+2021,Engineering,Materials Science & Engineering,151-200,Queen Mary University of London,,32.8,78.5,90.4,24.6,0
+2021,Engineering,Materials Science & Engineering,151-200,"Rutgers, The State University of New Jersey - New Brunswick",,33,79.7,77,30.7,0
+2021,Engineering,Materials Science & Engineering,151-200,Singapore University of Technology & Design,,23,94.6,89,22.1,0
+2021,Engineering,Materials Science & Engineering,151-200,Technical University Darmstadt,,38.6,70.7,76.3,23.8,0
+2021,Engineering,Materials Science & Engineering,151-200,Technion-Israel Institute of Technology,,34.6,70.6,77.1,33.6,0
+2021,Engineering,Materials Science & Engineering,151-200,Texas A&M University,,44.5,77.4,72.4,22.1,0
+2021,Engineering,Materials Science & Engineering,151-200,The Ohio State University - Columbus,,38.3,77,70.6,28.8,0
+2021,Engineering,Materials Science & Engineering,151-200,The University of New Mexico - Albuquerque,,22.5,72.7,64,16.3,33.5
+2021,Engineering,Materials Science & Engineering,151-200,The University of Sheffield,,37.1,80.4,79.1,21.3,0
+2021,Engineering,Materials Science & Engineering,151-200,The University of Texas at Dallas,,31.7,83.3,78.2,28.2,0
+2021,Engineering,Materials Science & Engineering,151-200,Tianjin University of Technology,,30.3,81.1,48.6,28.2,0
+2021,Engineering,Materials Science & Engineering,151-200,Trinity College Dublin,,31.7,83.2,86.5,20.4,0
+2021,Engineering,Materials Science & Engineering,151-200,"University at Buffalo, the State University of New York",,31.2,80.7,76.4,25.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Antwerp,,30.1,76.8,90.1,23,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Bath,,28.3,88.4,81.8,17.4,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Birmingham,,32.9,76.2,83.9,26.8,0
+2021,Engineering,Materials Science & Engineering,151-200,"University of California, Irvine",,32.5,72.3,76.9,28.2,0
+2021,Engineering,Materials Science & Engineering,151-200,"University of California, Santa Cruz",,21.8,92.2,84.6,20.4,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Illinois at Chicago,,27.7,79.3,70.9,29.5,0
+2021,Engineering,Materials Science & Engineering,151-200,"University of Minnesota, Twin Cities",,38.3,75,68.7,31.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Montpellier,,37.4,68.6,79.7,27.5,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Muenster,,31.1,79.2,77.2,25.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Nottingham,,35.7,74.2,80.8,26.8,0
+2021,Engineering,Materials Science & Engineering,151-200,University of St Andrews,,25,75.6,92.8,31.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Strasbourg,,36.3,68.3,85.7,36.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Sydney,,36.2,78.3,86.8,25.3,0
+2021,Engineering,Materials Science & Engineering,151-200,University of the Basque Country,,40.4,70.3,85.9,23,0
+2021,Engineering,Materials Science & Engineering,151-200,University of Toledo,,20.9,98.8,66.8,16.3,0
+2021,Engineering,Materials Science & Engineering,151-200,Uppsala University,,41.6,71.8,86.7,17.4,0
+2021,Engineering,Materials Science & Engineering,151-200,Vanderbilt University,,27.9,84.1,65.1,24.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Aarhus University,,29.3,77.9,91.1,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Aix Marseille University,,33.5,64.8,80.9,24.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Autonomous University of Madrid,,32.2,68.1,84.5,22.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Bar-Ilan University,,25.5,81.3,77.7,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Beijing Jiaotong University,,29.6,74,51.7,22.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Beijing Normal University,,31.2,79.3,50.3,26.8,0
+2021,Engineering,Materials Science & Engineering,201-300,Beijing University of Technology,,39.6,69.9,51.9,26.8,0
+2021,Engineering,Materials Science & Engineering,201-300,Boston University,,23.6,73.2,74.1,27.5,0
+2021,Engineering,Materials Science & Engineering,201-300,Brown University,,27.7,84.6,74.2,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Chung-Ang University,,33,66.8,47.2,29.5,0
+2021,Engineering,Materials Science & Engineering,201-300,Daegu Gyeongbuk Institute of Science & Technology,,27.8,75.9,58.6,22.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Dongguan University of Technology,,20,88.9,50.2,17.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Dongguk University,,33.1,75.1,67.9,26.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Edith Cowan University,,16.1,98,94.8,10.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Emory University,,23.4,84.7,63.8,23,0
+2021,Engineering,Materials Science & Engineering,201-300,"ENSCM, Chimie Montpellier",,26.9,73.7,79.3,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Florida State University,,29.8,70.6,70.6,26.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Free University Berlin,,29.4,72.5,79.1,23,0
+2021,Engineering,Materials Science & Engineering,201-300,Ghent University,,38.1,76.4,84,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Guangxi University,,31.1,75.7,52.1,21.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Guangzhou University,,20.6,95.8,62.9,10.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Gwangju Institute of Science and Technology,,31.9,71.9,60,27.5,0
+2021,Engineering,Materials Science & Engineering,201-300,Hainan University,,21.6,90.5,55.2,15,0
+2021,Engineering,Materials Science & Engineering,201-300,Hefei University of Technology,,38.8,74,48.1,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Heidelberg University,,25.7,74.1,77.3,23.8,0
+2021,Engineering,Materials Science & Engineering,201-300,Heilongjiang University,,24.1,86.4,35.1,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Henan Normal University,,27.4,86.5,46.1,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Hokkaido University,,39.5,65,64.8,29.5,0
+2021,Engineering,Materials Science & Engineering,201-300,Hong Kong Baptist University,,22.6,91,54.6,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Hubei University,,33.7,81.5,55.6,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Humboldt University of Berlin,,29.1,72.6,79.5,26.1,0
+2021,Engineering,Materials Science & Engineering,201-300,Indian Institute of Science,,43.2,65.9,57.7,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Jiangnan University,,35.9,66.5,46,28.2,0
+2021,Engineering,Materials Science & Engineering,201-300,Jinan University,,36.9,81.4,49.1,17.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Kent State University,,19.1,82.5,79.8,30.1,0
+2021,Engineering,Materials Science & Engineering,201-300,King Saud University,,35.8,72.2,95,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,McGill University,,38.2,69.9,75.6,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Nanchang University,,33.6,76.6,46.6,23,0
+2021,Engineering,Materials Science & Engineering,201-300,Northwest University,,30.3,80.9,50.1,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Okinawa Institute of Science and Technology Graduate University,,14.5,93.6,85.9,10.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Paul Sabatier University (Toulouse 3),,33,69.9,73.6,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Polytechnic University of Turin,,32.3,74.5,71.8,15,0
+2021,Engineering,Materials Science & Engineering,201-300,Pusan National University,,39.1,61.5,52.3,31.9,0
+2021,Engineering,Materials Science & Engineering,201-300,Qatar University,,23,81,95.1,13.7,0
+2021,Engineering,Materials Science & Engineering,201-300,Queen's University Belfast,,23.2,74.5,89.5,21.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Sapienza University of Rome,,31.2,72.8,75.6,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Shandong University of Science and Technology,,25.9,92.5,46.7,10.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Shanxi University,,28.7,77.2,50.9,23,0
+2021,Engineering,Materials Science & Engineering,201-300,South China Normal University,,34.2,75.4,54.3,25.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Southwest Jiaotong University,,38,73.4,54.9,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Stockholm University,,23.6,82,91.5,12.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Stony Brook University,,31.3,75.8,71.2,24.6,0
+2021,Engineering,Materials Science & Engineering,201-300,Swinburne University of Technology,,27.3,79.9,82.8,12.3,0
+2021,Engineering,Materials Science & Engineering,201-300,Technical University of Berlin,,29.7,73.6,76.6,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Tel Aviv University,,26.2,69.6,77.8,28.2,0
+2021,Engineering,Materials Science & Engineering,201-300,The Hebrew University of Jerusalem,,27.4,75.4,76.5,29.5,0
+2021,Engineering,Materials Science & Engineering,201-300,The University of Akron,,30.6,73.6,69.1,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,The University of Auckland,,23.2,84,86.5,23,0
+2021,Engineering,Materials Science & Engineering,201-300,The University of Western Australia,,23.2,81.5,89.8,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Tufts University,,24,79.3,74.8,25.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Alberta,,36.9,68.7,78,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Amsterdam,,20.3,78.2,90.8,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Barcelona,,31.9,68.6,84,23.8,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Bayreuth,,25.5,69.6,75.5,25.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Bologna,,30.9,77.3,75.3,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Bordeaux,,37.6,66.1,79.5,26.8,0
+2021,Engineering,Materials Science & Engineering,201-300,University of British Columbia,,33.5,67.5,80.3,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,"University of California, Davis",,35.6,69.7,73.6,26.1,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Central Florida,,28.9,75.4,79,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Delaware,,31,72.6,70,21.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Florida,,32,72.1,65.4,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Fribourg,,18.6,77.8,90.1,26.1,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Geneva,,21.3,77.9,88.6,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Jinan,,38.1,76.8,41.8,16.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Lorraine,,38.4,63,82.8,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Macau,,25.8,90.3,63,17.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Mainz,,26,74,83.1,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Mons,,21.4,86.2,90.4,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of North Texas,,26.6,77.5,73.4,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Pittsburgh,,34.5,77.8,69.4,21.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Saskatchewan,,25.2,77.6,84.7,21.3,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Southampton,,32.4,69.8,86.2,28.2,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Southern Queensland,,16.8,95.9,94.3,10.6,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Stuttgart,,31.3,67.3,73.9,27.5,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Twente,,33.4,70.2,84.1,26.8,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Valencia,,25.4,76.9,84.9,23,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Virginia,,28.1,75.8,59.2,22.1,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Warwick,,32.2,68.6,81.9,23.8,0
+2021,Engineering,Materials Science & Engineering,201-300,University of Wuerzburg,,26.2,70.9,82.8,29.5,0
+2021,Engineering,Materials Science & Engineering,201-300,Utrecht University,,27.8,82,82.4,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Vienna University of Technology,,33,67.2,87.1,18.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Virginia Polytechnic Institute and State University,,32.1,72.7,63.8,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Wake Forest University,,16.6,92.8,68.9,13.7,0
+2021,Engineering,Materials Science & Engineering,201-300,Washington State University,,30.2,79.3,70.5,13.7,0
+2021,Engineering,Materials Science & Engineering,201-300,Washington University in St. Louis,,23.6,79.9,60.5,20.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Western University,,27.7,82.1,77.5,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Yangzhou University,,28.6,85.5,49.4,15,0
+2021,Engineering,Materials Science & Engineering,201-300,Yanshan University,,38.2,70.2,48.9,17.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Zhejiang Normal University,,23.7,87.3,45.9,19.4,0
+2021,Engineering,Materials Science & Engineering,201-300,Zhejiang University of Technology,,34.5,80.1,53.1,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Anhui University,,32.5,70.9,39.7,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Ben-Gurion University of the Negev,,27.8,67.4,73.6,24.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Capital Normal University,,20.5,80.6,42,23,0
+2021,Engineering,Materials Science & Engineering,301-400,Cardiff University,,23.2,70.9,86.9,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Catholic University of Louvain,,23.8,75.8,86.2,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Changsha University of Science and Technology,,22.6,90.5,54.7,8.7,0
+2021,Engineering,Materials Science & Engineering,301-400,Chemnitz University of Technology,,24.2,65.1,73.8,26.1,0
+2021,Engineering,Materials Science & Engineering,301-400,China Pharmaceutical University,,22.3,86.9,56.6,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,China University of Petroleum - Beijing,,26.4,75.9,55.9,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,China University of Petroleum (Huadong),,33.2,76.7,48.4,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Chonnam National University,,35.2,69.4,58.2,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Colorado School of Mines,,27.8,74.7,66.1,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Complutense University of Madrid,,30.5,68.3,77.5,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Dalhousie University,,25.7,80.5,69.5,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,Durham University,,22.5,75.2,85.7,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Ewha Womans University,,25.8,74.8,62.4,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Florida International University,,16.8,65.5,69.6,8.7,27.4
+2021,Engineering,Materials Science & Engineering,301-400,Graz University of Technology,,26.7,69,84.4,20.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Guangdong University of Technology,,38.8,73.4,51.3,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Hangzhou Dianzi University,,29.2,78,45.1,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,Harbin Engineering University,,34.8,80.2,44.7,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Harbin Normal University,,18.7,91.7,36.9,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Henan University,,30.1,80.2,47.5,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Imam Abdulrahman Bin Faisal University,,14.4,88.5,90.5,6.1,0
+2021,Engineering,Materials Science & Engineering,301-400,INHA University,,33.2,66.5,53.2,21.3,0
+2021,Engineering,Materials Science & Engineering,301-400,ITMO University,,28.9,66.1,86,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Jeonbuk National University,,38.8,68.4,59.6,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Jiangsu University of Science and Technology,,28.6,88.4,51,6.1,0
+2021,Engineering,Materials Science & Engineering,301-400,King Fahd University of Petroleum & Minerals,,22.5,85.1,80.4,8.7,0
+2021,Engineering,Materials Science & Engineering,301-400,King's College London,,19.7,75.8,87,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Konkuk University,,29.7,72.5,62.5,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Leiden University,,20.1,73.6,82.2,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Lund University,,33,68,87.7,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,McMaster University,,31.1,67.2,78,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Missouri University of Science and Technology,,27.5,78,64.7,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Nanjing Forestry University,,27.4,76.7,61.1,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,National Cheng Kung University,,36.9,58.4,47.6,22.1,0
+2021,Engineering,Materials Science & Engineering,301-400,New York University,,20.4,74.2,81.6,22.1,0
+2021,Engineering,Materials Science & Engineering,301-400,Northeastern University (Shenyang),,50.7,65.8,52.4,6.1,0
+2021,Engineering,Materials Science & Engineering,301-400,Norwegian University of Science and Technology - NTNU,,33,70.5,85.1,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Ocean University of China,,23.7,82.5,48.3,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Oregon State University,,24.3,78.2,65.5,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Palacký University Olomouc,,16.6,82.2,82.4,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Radboud University Nijmegen,,24.1,73.1,88.9,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Renmin University of China,,20,81.7,60.4,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Sejong University,,30.9,74.5,62,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Shandong Normal University,,21.6,92.7,41.8,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Shanghai University of Electric Power,,18.9,84.7,53.9,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Skolkovo Institute of Science and Technology,,20.1,79,88.4,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,South China Agricultural University,,20.7,88.1,53.2,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Southwest University,,38.9,76.6,44.7,8.7,0
+2021,Engineering,Materials Science & Engineering,301-400,Southwest University of Science and Technology,,30.5,74.4,38.3,15,0
+2021,Engineering,Materials Science & Engineering,301-400,Swansea University,,26.1,74.1,81.2,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,Taiyuan University of Technology,,42.1,69.5,49.1,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,The National University of Science and Technology MISiS,,33.7,68.1,82.1,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,The Second Military Medical University,,17,87.8,52.2,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,The University of Edinburgh,,24.5,71,87.3,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,The University of Glasgow,,23.1,70.6,85.4,21.3,0
+2021,Engineering,Materials Science & Engineering,301-400,The University of Texas at San Antonio,,19.4,73.1,82.9,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Tianjin Medical University,,17.8,82.5,42.3,22.1,0
+2021,Engineering,Materials Science & Engineering,301-400,Universitat Jaume I,,22.2,81.4,78.1,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Université Djillali Liabès de Sidi-Bel-Abbès,,10.5,100,83,0,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Arizona,,20.5,60.2,70.8,16.3,22.4
+2021,Engineering,Materials Science & Engineering,301-400,University of Aveiro,,34.5,66.3,84.5,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Basel,,23.5,73.3,87.4,15,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Bochum,,29,72.8,74.8,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Connecticut,,29.6,71.4,63.6,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Copenhagen,,26.3,74.2,92.1,15,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Duisburg-Essen,,28.3,70.7,78.1,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Exeter,,21.4,72.9,85.5,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Florence,,21.8,69.4,77.7,20.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Freiburg,,28.2,67.5,75,21.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Helsinki,,21.8,73.4,87.2,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Jena,,30.2,72.3,76.1,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Kentucky,,26.8,70.2,77.4,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Kiel,,23.6,74.7,79.6,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Leeds,,29.9,66.1,82.8,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Leoben,,30.9,71.1,82.7,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Lille,,34.2,63.9,82.1,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Limerick,,20.7,74.7,81.9,19.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Lisbon,,34.3,68.3,74.7,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Liverpool,,27.7,72.9,85.3,16.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Minho,,33.8,67.2,78.9,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Missouri - Columbia,,22.7,72.8,73.1,20.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Naples Federico II,,29.6,76.1,66,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Padua,,31.7,72.6,78.5,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Paris,,30.4,67.5,78.3,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Potsdam,,20.8,77.6,80.8,17.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Regensburg,,20.7,77.6,83.2,15,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Rochester,,22.7,81.5,77.6,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Salerno,,22.4,81.8,73.5,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,University of South Australia,,24.8,75.1,82.9,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,University of South Carolina - Columbia,,27.3,74,70.1,12.3,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Tabuk,,10.8,100,100,0,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Tehran,,36,72.6,59.6,8.7,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Tsukuba,,30.2,66.6,63.1,23.8,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Utah,,31.2,66.4,63,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,University of Vienna,,25.2,71.6,91.7,13.7,0
+2021,Engineering,Materials Science & Engineering,301-400,Vrije Universiteit Amsterdam,,15.5,86,91.5,10.6,0
+2021,Engineering,Materials Science & Engineering,301-400,Wuhan Institute of Technology,,25.1,78.7,50.4,18.4,0
+2021,Engineering,Materials Science & Engineering,301-400,Xiangtan University,,34.3,74,47.9,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Abo Akademi University,,18.9,73.3,86.3,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Air Force Medical University,,18.4,77.5,56.5,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Ajou University,,26,64.9,60.5,22.1,0
+2021,Engineering,Materials Science & Engineering,401-500,Amirkabir University of Technology,,33.3,72.5,53.9,6.1,0
+2021,Engineering,Materials Science & Engineering,401-500,Army Medical University,,17.2,82.6,50,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Beijing University of Posts and Telecommunications,,19.1,78.6,52.3,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Bilkent University,,20.9,70.7,75.6,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Binghamton University,,21.7,75.6,62.8,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Charite - Universitats Medizin Berlin,,13.3,79.2,73,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Chongqing Medical University,,15.6,85.2,46.1,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Chongqing University of Posts and Telecommunications,,13.9,85.6,72.5,6.1,0
+2021,Engineering,Materials Science & Engineering,401-500,Claude Bernard University Lyon 1,,31.9,63.2,77.9,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Clemson University,,25.9,68.1,63.3,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Flinders University,,16.9,79.7,83.6,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Hamad Bin Khalifa University-Qatar,,15.2,84.6,92.4,6.1,0
+2021,Engineering,Materials Science & Engineering,401-500,Hasselt University,,17.9,73.9,89.8,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Hebei University,,26.3,76.3,44.1,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Huazhong Agricultural University,,17.5,82.6,49.6,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Hunan Normal University,,21.1,82.6,45.3,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Indian Institute of Technology Kharagpur,,34.7,65.7,46.7,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Indian Institute of Technology Madras,,35.7,61.8,53.8,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Islamic Azad University,,42,71.2,49.9,0,0
+2021,Engineering,Materials Science & Engineering,401-500,Jiangsu Normal University,,21.1,75.8,62.6,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Jiangxi Normal University,,20.5,83.2,43.7,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Johannes Kepler University Linz,,21.4,65.7,85.3,20.4,0
+2021,Engineering,Materials Science & Engineering,401-500,Khalifa University,,24.1,71.7,91.8,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Koc University,,15.6,84.5,74.7,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Kyungpook National University,,31.1,60.1,56.4,20.4,0
+2021,Engineering,Materials Science & Engineering,401-500,Laval University,,22.1,76.5,74.5,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Leibniz University Hannover,,26.2,70,71.1,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Louisiana State University - Baton Rouge,,23.9,73.4,72.7,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Macquarie University,,16.4,74.6,85.8,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Michigan State University,,28.1,70.3,68.3,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Michigan Technological University,,20.1,79.6,77.7,6.1,0
+2021,Engineering,Materials Science & Engineering,401-500,Moscow State University,,35.9,57.4,74.7,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Nagoya University,,33,59.2,57.6,21.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Nanjing Medical University,,20.2,78.3,47.8,15,0
+2021,Engineering,Materials Science & Engineering,401-500,National Polytechnic Institute of Toulouse,,25.1,70.4,69,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,National Taiwan University of Science and Technology,,30.3,65.8,61.6,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Newcastle University,,21.7,74.2,85,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Ningbo University,,32.5,72.1,47.9,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,North China Electric Power University,,25.9,74.3,54.2,15,0
+2021,Engineering,Materials Science & Engineering,401-500,NOVA University Lisbon,,23.6,69.2,75.9,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Peking Union Medical College,,22,80.9,48.5,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Polytechnic University of Valencia,,25.8,66.5,75.2,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Qufu Normal University,,17.4,85.5,56.3,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Shaanxi University of Science and Technology,,33.7,73,33,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Sharif University of Technology,,28.3,73.8,56.8,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Shenyang Pharmaceutical University,,16.5,87.1,45.2,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Shinshu University,,26.7,65.5,73.7,17.4,0
+2021,Engineering,Materials Science & Engineering,401-500,Tampere University,,24.4,69.6,79.9,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Temple University,,19.5,75.3,67.5,17.4,0
+2021,Engineering,Materials Science & Engineering,401-500,The City College of New York,,17,75.7,72.7,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Tianjin Normal University,,15.9,84.2,48.6,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Tokyo University of Science,,26.8,64.9,52.8,19.4,0
+2021,Engineering,Materials Science & Engineering,401-500,Ton Duc Thang University,,17.4,79.3,93.4,6.1,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Calabria,,21.2,72.7,77.4,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Campinas,,28.1,63.4,70.9,17.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Chemistry and Technology Prague,,25.5,67,68.2,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Cologne,,20.1,69,88.9,18.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Crete,,16.5,74.7,83.2,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Genoa,,23.4,72,71.5,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Giessen,,21.4,76.6,67.8,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Goettingen,,24.7,69.7,80.1,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Hamburg,,27.8,65.2,81.9,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of L'Aquila,,13.9,85.3,80.4,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Leipzig,,23.5,65.8,75.6,19.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Liege,,19.2,69,88.5,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Marburg,,19.6,73.7,75.9,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Milano-Bicocca,,23.1,70.1,80.2,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Montreal,,28.4,67.9,73.4,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Notre Dame,,25.8,74.4,63.4,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Palermo,,21.9,79,64.8,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Perugia,,18.7,77.9,79.7,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Rennes 1,,26.7,68.4,82.3,15,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Roma - Tor Vergata,,25.4,71.4,75.6,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Sao Paulo,,40.4,59.9,69.3,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Shanghai for Science and Technology,,26.3,75.7,48.1,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of South Florida,,21.9,68.6,82.2,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Strathclyde,,23.2,67.6,81.8,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Surrey,,21.1,70,81.1,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Trieste,,20.3,73.9,87,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Ulm,,24.7,69.7,78.2,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Ulsan,,23.9,67.2,60.8,18.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Warsaw,,24.2,66.3,75.3,17.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Wisconsin-Milwaukee,,16.9,80.6,75.3,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,University of York,,16.1,73,84.3,17.4,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Zaragoza,,28.7,65.9,82.2,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,University of Zurich,,19.1,67.6,85.2,16.3,0
+2021,Engineering,Materials Science & Engineering,401-500,University Rovira i Virgili,,20.6,73.5,85.2,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Virginia Commonwealth University,,20.9,73.8,70.9,12.3,0
+2021,Engineering,Materials Science & Engineering,401-500,Waseda University,,24.8,64.4,60.4,19.4,0
+2021,Engineering,Materials Science & Engineering,401-500,Wenzhou Medical University,,19.5,82.8,63.5,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Wenzhou University,,22.8,82.1,47.6,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Western Sydney University,,15.7,78.7,89.3,10.6,0
+2021,Engineering,Materials Science & Engineering,401-500,Wuhan University of Science and Technology,,31.7,70.2,48,8.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Xi'an University of Technology,,29.3,68.3,43.8,13.7,0
+2021,Engineering,Materials Science & Engineering,401-500,Yeungnam University,,31.7,64.8,61.2,15,0
+2021,Engineering,Materials Science & Engineering,401-500,Zhejiang Sci-Tech University,,31.1,72.9,50.9,12.3,0

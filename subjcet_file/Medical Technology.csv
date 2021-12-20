@@ -1,0 +1,401 @@
+Year,Field,Subject,World Rank,Institution,Total Score,Q1,CNCI,IC,TOP,AWARD
+2021,Medical Sciences,Medical Technology,1,Harvard University,301.6,100,79.2,71.7,100,40.1
+2021,Medical Sciences,Medical Technology,2,Stanford University,257.3,62,81.3,69.7,80.1,100
+2021,Medical Sciences,Medical Technology,3,Johns Hopkins University,254.4,68.7,78,70.8,76.9,82.9
+2021,Medical Sciences,Medical Technology,4,King's College London,235.8,55.4,88,86.3,75.1,0
+2021,Medical Sciences,Medical Technology,5,University of Oxford,228.3,52.4,85.3,84.9,65.6,40.1
+2021,Medical Sciences,Medical Technology,6,University College London,223.9,64.8,82.1,87.4,59.5,0
+2021,Medical Sciences,Medical Technology,7,New York University,222.8,50.5,78.9,62.8,66.9,69.4
+2021,Medical Sciences,Medical Technology,8,University of Toronto,218.5,65.9,76.8,78,51,46.3
+2021,Medical Sciences,Medical Technology,9,Utrecht University,215.5,54,80.3,73.7,66.5,0
+2021,Medical Sciences,Medical Technology,10,"University of California, San Francisco",213.6,51.7,82.7,62.8,54.1,62.7
+2021,Medical Sciences,Medical Technology,11,Mayo Clinic Alix School of Medicine,207.5,57.6,80.5,57.4,44.6,66.8
+2021,Medical Sciences,Medical Technology,12,"University of California, Los Angeles",206.2,54.3,78.6,66.8,59.9,0
+2021,Medical Sciences,Medical Technology,13,University of Pennsylvania,204.5,56.7,74.9,62,48.2,62
+2021,Medical Sciences,Medical Technology,14,"University of Minnesota, Twin Cities",203.7,38.9,77.8,62.2,62.2,61.2
+2021,Medical Sciences,Medical Technology,15,ETH Zurich,202.3,36.6,80.4,82.6,59.9,44.3
+2021,Medical Sciences,Medical Technology,16,Duke University,201.6,50.5,81.4,63.1,46.4,53.5
+2021,Medical Sciences,Medical Technology,17,Heidelberg University,199.4,52.5,83.2,71.7,49.3,0
+2021,Medical Sciences,Medical Technology,18,University of Wisconsin - Madison,195.8,46.7,76.3,57.4,61.3,0
+2021,Medical Sciences,Medical Technology,19,University of Zurich,195.5,48,74.5,79.6,57.1,0
+2021,Medical Sciences,Medical Technology,20,Radboud University Nijmegen,194.9,47.8,94.5,88.5,34.9,0
+2021,Medical Sciences,Medical Technology,21,Technical University of Munich,192.3,48.8,85.1,75.1,43.3,0
+2021,Medical Sciences,Medical Technology,22,Massachusetts Institute of Technology (MIT),191.8,33.7,88.9,80.1,53.1,0
+2021,Medical Sciences,Medical Technology,23,Vanderbilt University,191.5,41.4,75.1,55.8,63.9,0
+2021,Medical Sciences,Medical Technology,24,"University of California, San Diego",190.3,42.9,74.4,66,48.2,58.2
+2021,Medical Sciences,Medical Technology,25,Leiden University,187.7,46.7,79.4,82.3,45.2,0
+2021,Medical Sciences,Medical Technology,26,The University of Texas Southwestern Medical Center at Dallas,186.1,40.4,73.3,63.2,50.4,46.3
+2021,Medical Sciences,Medical Technology,27,Imperial College London,183.0,43.4,95.4,82.2,27.8,0
+2021,Medical Sciences,Medical Technology,28,Case Western Reserve University,182.4,32.5,80.7,67.7,46.4,46.3
+2021,Medical Sciences,Medical Technology,29,University of Cambridge,181.7,37.7,83.7,85.3,34.1,46.3
+2021,Medical Sciences,Medical Technology,30,University of Lausanne,179.9,36.6,74.5,89.1,51,0
+2021,Medical Sciences,Medical Technology,31,University of Freiburg,179.7,35.3,78,82.8,45.2,23.1
+2021,Medical Sciences,Medical Technology,32,University of Tuebingen,179.0,44.8,68.9,71.5,51,0
+2021,Medical Sciences,Medical Technology,33,Yale University,178.9,45.9,79.7,65.3,35.6,23.1
+2021,Medical Sciences,Medical Technology,34,Medical University of Vienna,178.7,45.6,79.7,85.1,36.4,0
+2021,Medical Sciences,Medical Technology,35,"University of California, Berkeley",178.5,28.6,86,71.6,42,37.8
+2021,Medical Sciences,Medical Technology,36,McGill University,176.6,41.3,85.1,84.8,33.2,0
+2021,Medical Sciences,Medical Technology,37,Humboldt University of Berlin,176.4,47.9,74.4,73.6,39.3,0
+2021,Medical Sciences,Medical Technology,38,Free University Berlin,176.2,47.4,74.8,73.4,39.3,0
+2021,Medical Sciences,Medical Technology,39,Aarhus University,175.9,39.5,80.5,86.6,38.6,0
+2021,Medical Sciences,Medical Technology,40,University of Washington,175.0,46.1,76.5,62.1,40,0
+2021,Medical Sciences,Medical Technology,41,Cornell University,174.6,44.9,76.6,65.1,40,0
+2021,Medical Sciences,Medical Technology,42,Northwestern University,174.2,40.3,74.9,62.4,46.4,0
+2021,Medical Sciences,Medical Technology,43,Charite - Universitats Medizin Berlin,173.4,45.5,74.7,72.7,38.6,0
+2021,Medical Sciences,Medical Technology,43,University of Amsterdam,173.4,46.9,79.8,75.7,31.5,0
+2021,Medical Sciences,Medical Technology,45,University of Munich,173.3,49,81.1,77.4,27.8,0
+2021,Medical Sciences,Medical Technology,46,University of Southern California,172.5,38.8,74,66.3,46.4,0
+2021,Medical Sciences,Medical Technology,47,University of Copenhagen,171.8,43.8,82.8,82.4,28.8,0
+2021,Medical Sciences,Medical Technology,48,Washington University in St. Louis,171.5,47.2,79.8,56.1,33.2,0
+2021,Medical Sciences,Medical Technology,49,Swiss Federal Institute of Technology Lausanne,170.9,27.6,80.7,89.9,44.6,0
+2021,Medical Sciences,Medical Technology,50,Maastricht University,170.1,42.4,79.6,87.7,30.6,0
+2021,Medical Sciences,Medical Technology,51-75,Emory University,,49.5,73.2,56,21,37.8
+2021,Medical Sciences,Medical Technology,51-75,Erasmus University Rotterdam,,46.2,79.9,79.4,19.7,0
+2021,Medical Sciences,Medical Technology,51-75,Icahn School of Medicine at Mount Sinai,,39.3,83.3,70.2,30.6,0
+2021,Medical Sciences,Medical Technology,51-75,KU Leuven,,43.3,84.9,90.4,14.9,0
+2021,Medical Sciences,Medical Technology,51-75,RWTH Aachen University,,33.9,82.6,76,24.7,46.3
+2021,Medical Sciences,Medical Technology,51-75,Seoul National University,,49.4,67.5,47.7,28.8,0
+2021,Medical Sciences,Medical Technology,51-75,Technical University of Denmark,,20.5,90.3,87.4,31.5,0
+2021,Medical Sciences,Medical Technology,51-75,The University of Melbourne,,32.5,77.2,81.1,28.8,28.3
+2021,Medical Sciences,Medical Technology,51-75,The University of Queensland,,33,70.4,81,36.4,0
+2021,Medical Sciences,Medical Technology,51-75,The University of Texas M. D. Anderson Cancer Center,,54.4,74.9,62.3,24.7,0
+2021,Medical Sciences,Medical Technology,51-75,University of Basel,,32.2,74,88.9,42.7,0
+2021,Medical Sciences,Medical Technology,51-75,University of Bern,,34.3,77.1,86,34.9,0
+2021,Medical Sciences,Medical Technology,51-75,University of British Columbia,,38.8,76.6,77.9,26.8,0
+2021,Medical Sciences,Medical Technology,51-75,University of Chicago,,33,83.3,62.3,32.4,0
+2021,Medical Sciences,Medical Technology,51-75,University of Duisburg-Essen,,34.6,83.8,73.1,31.5,0
+2021,Medical Sciences,Medical Technology,51-75,University of Erlangen-Nuremberg,,36.2,72.9,74.5,32.4,0
+2021,Medical Sciences,Medical Technology,51-75,University of Geneva,,35.2,71,84.3,32.4,0
+2021,Medical Sciences,Medical Technology,51-75,University of Hamburg,,36.9,75.2,77.9,27.8,0
+2021,Medical Sciences,Medical Technology,51-75,University of Michigan-Ann Arbor,,49.3,71.7,53.7,35.6,0
+2021,Medical Sciences,Medical Technology,51-75,University of North Carolina at Chapel Hill,,39.6,76.9,72.7,24.7,0
+2021,Medical Sciences,Medical Technology,51-75,University of Nottingham,,28.3,79.8,77.9,25.7,34.1
+2021,Medical Sciences,Medical Technology,51-75,University of Pittsburgh,,42.8,77.9,59.5,33.2,0
+2021,Medical Sciences,Medical Technology,51-75,University of Virginia,,30.8,76.9,59,39.3,0
+2021,Medical Sciences,Medical Technology,51-75,University of Wuerzburg,,29.5,73.4,72.6,35.6,26.7
+2021,Medical Sciences,Medical Technology,51-75,Vrije Universiteit Amsterdam,,44.5,83.5,80.4,14.9,26.7
+2021,Medical Sciences,Medical Technology,76-100,Cardiff University,,24.9,83.6,85.1,24.7,0
+2021,Medical Sciences,Medical Technology,76-100,Columbia University,,41.3,76.9,62.5,16.6,0
+2021,Medical Sciences,Medical Technology,76-100,Eindhoven University of Technology,,20.7,79.1,78.9,33.2,0
+2021,Medical Sciences,Medical Technology,76-100,Karolinska Institute,,35.8,71.5,86.3,26.8,0
+2021,Medical Sciences,Medical Technology,76-100,Lund University,,31.2,72.8,83.4,33.2,0
+2021,Medical Sciences,Medical Technology,76-100,Oregon Health and Science University,,29.7,79.9,60.7,25.7,0
+2021,Medical Sciences,Medical Technology,76-100,Paris-Saclay University,,32.1,80.4,70,26.8,0
+2021,Medical Sciences,Medical Technology,76-100,Pontifical Catholic University of Chile,,17.9,74.3,100,39.3,0
+2021,Medical Sciences,Medical Technology,76-100,Sapienza University of Rome,,31.7,82.5,80.2,14.9,0
+2021,Medical Sciences,Medical Technology,76-100,Sorbonne University,,38.2,74,73,19.7,0
+2021,Medical Sciences,Medical Technology,76-100,"St George's, University of London",,20.4,93.7,77,18.2,0
+2021,Medical Sciences,Medical Technology,76-100,The University of Calgary,,30.9,78,73,30.6,0
+2021,Medical Sciences,Medical Technology,76-100,The University of Sheffield,,22.6,72.9,74.5,39.3,0
+2021,Medical Sciences,Medical Technology,76-100,Tsinghua University,,26.5,62.2,71.9,45.8,0
+2021,Medical Sciences,Medical Technology,76-100,University of Antwerp,,21.3,86.4,81.1,22.3,0
+2021,Medical Sciences,Medical Technology,76-100,University of Cologne,,31.6,88.4,70.8,14.9,0
+2021,Medical Sciences,Medical Technology,76-100,University of Iowa,,27.8,77.3,60.5,28.8,0
+2021,Medical Sciences,Medical Technology,76-100,"University of Maryland, Baltimore",,34.1,73.4,60.8,25.7,23.1
+2021,Medical Sciences,Medical Technology,76-100,University of Montreal,,36.5,76.7,80.2,22.3,0
+2021,Medical Sciences,Medical Technology,76-100,University of Padua,,29,96.4,74.9,12.9,0
+2021,Medical Sciences,Medical Technology,76-100,University of Sydney,,38.4,73.2,83.3,18.2,0
+2021,Medical Sciences,Medical Technology,76-100,University of Utah,,33,69.1,50.8,40.7,0
+2021,Medical Sciences,Medical Technology,76-100,Uppsala University,,27.7,86.7,76,18.2,0
+2021,Medical Sciences,Medical Technology,76-100,Western University,,34.4,68.8,72,34.9,0
+2021,Medical Sciences,Medical Technology,76-100,Yonsei University,,41.8,64.2,46.5,29.7,0
+2021,Medical Sciences,Medical Technology,101-150,Aalto University,,20.8,89,86.5,14.9,0
+2021,Medical Sciences,Medical Technology,101-150,Aix Marseille University,,29.7,74.2,72.9,25.7,0
+2021,Medical Sciences,Medical Technology,101-150,Catholic University of Louvain,,25.5,74.6,79.7,19.7,0
+2021,Medical Sciences,Medical Technology,101-150,Delft University of Technology,,22.8,70.1,72.3,27.8,0
+2021,Medical Sciences,Medical Technology,101-150,Ghent University,,30,83,79.3,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,Goethe University Frankfurt,,29.5,76.2,79.6,14.9,0
+2021,Medical Sciences,Medical Technology,101-150,Heinrich Heine University Duesseldorf,,31.2,78,76,18.2,0
+2021,Medical Sciences,Medical Technology,101-150,Korea Advanced Institute of Science and Technology,,17.9,75.7,48.8,33.2,0
+2021,Medical Sciences,Medical Technology,101-150,Linkoping University,,21.7,70.2,79.5,28.8,0
+2021,Medical Sciences,Medical Technology,101-150,Medical University of Graz,,21,75.6,85.9,21,0
+2021,Medical Sciences,Medical Technology,101-150,Medical University of South Carolina,,28.7,74,78.3,14.9,0
+2021,Medical Sciences,Medical Technology,101-150,PSL University,,21,93,65.9,7.4,0
+2021,Medical Sciences,Medical Technology,101-150,Queen Mary University of London,,22.8,90.9,84.8,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,Southern Medical University,,26.6,69,59.5,28.8,0
+2021,Medical Sciences,Medical Technology,101-150,Stony Brook University,,22.4,72.7,67,19.7,32.7
+2021,Medical Sciences,Medical Technology,101-150,Sungkyunkwan University,,36.1,61.8,41.7,34.9,0
+2021,Medical Sciences,Medical Technology,101-150,The Chinese University of Hong Kong,,23.9,87.7,63.2,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,The Ohio State University - Columbus,,27.8,69.1,53.5,33.2,0
+2021,Medical Sciences,Medical Technology,101-150,The University of Edinburgh,,25.9,86.8,84.8,14.9,0
+2021,Medical Sciences,Medical Technology,101-150,The University of Manchester,,28.6,76.5,79.8,21,0
+2021,Medical Sciences,Medical Technology,101-150,The University of Texas at Dallas,,19,73.5,62.2,28.8,0
+2021,Medical Sciences,Medical Technology,101-150,"University at Buffalo, the State University of New York",,20.5,87.6,72.4,21,0
+2021,Medical Sciences,Medical Technology,101-150,University of Alberta,,26.9,62,70.5,33.2,0
+2021,Medical Sciences,Medical Technology,101-150,University of Barcelona,,34.6,82.7,82.3,0,0
+2021,Medical Sciences,Medical Technology,101-150,University of Bergen,,22.8,87.3,89.7,7.4,0
+2021,Medical Sciences,Medical Technology,101-150,University of Birmingham,,25.5,75.1,79.7,18.2,0
+2021,Medical Sciences,Medical Technology,101-150,University of Bologna,,26.3,90.5,75,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,University of Bonn,,28.7,75.2,63.7,23.5,0
+2021,Medical Sciences,Medical Technology,101-150,University of Bordeaux,,24.8,74.7,80.4,19.7,0
+2021,Medical Sciences,Medical Technology,101-150,"University of California, Irvine",,29.3,74.4,70.3,18.2,0
+2021,Medical Sciences,Medical Technology,101-150,University of Colorado at Denver,,15.4,97.2,69.1,7.4,0
+2021,Medical Sciences,Medical Technology,101-150,University of Goettingen,,23.6,73.9,65.6,23.5,0
+2021,Medical Sciences,Medical Technology,101-150,University of Groningen,,41.2,82.6,80.3,0,0
+2021,Medical Sciences,Medical Technology,101-150,University of Illinois at Chicago,,25.7,70.8,55.8,29.7,0
+2021,Medical Sciences,Medical Technology,101-150,University of Leeds,,25.4,74.4,76.4,24.7,0
+2021,Medical Sciences,Medical Technology,101-150,University of Liege,,21.7,100,93.5,0,0
+2021,Medical Sciences,Medical Technology,101-150,University of Miami,,24.5,76.9,58.5,21,40.1
+2021,Medical Sciences,Medical Technology,101-150,University of Oslo,,33,82.5,79.8,12.9,0
+2021,Medical Sciences,Medical Technology,101-150,University of Ottawa,,31.7,78.5,76.4,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,University of Paris,,35.5,77.6,64.3,14.9,0
+2021,Medical Sciences,Medical Technology,101-150,University of Pavia,,16.7,88.3,84.7,16.6,0
+2021,Medical Sciences,Medical Technology,101-150,University of Rochester,,24.8,70.2,70.4,24.7,0
+2021,Medical Sciences,Medical Technology,101-150,University of Rostock,,17.7,89,73.2,12.9,0
+2021,Medical Sciences,Medical Technology,101-150,University of Sherbrooke,,17.6,87.6,80.5,19.7,0
+2021,Medical Sciences,Medical Technology,101-150,University of Turin,,23.2,77.9,67.7,21,0
+2021,Medical Sciences,Medical Technology,101-150,University of Turku,,22.4,77.5,82.7,19.7,0
+2021,Medical Sciences,Medical Technology,101-150,University of Warwick,,19.9,93.6,87.5,10.5,0
+2021,Medical Sciences,Medical Technology,101-150,University Paris Est Creteil,,17.8,100,64.9,7.4,0
+2021,Medical Sciences,Medical Technology,101-150,Wayne State University,,28,74.5,67.7,16.6,40.1
+2021,Medical Sciences,Medical Technology,101-150,Zhejiang University,,27.8,62.6,59.9,37.2,0
+2021,Medical Sciences,Medical Technology,151-200,Autonomous University of Barcelona,,24.9,77.1,78.2,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,Baylor College of Medicine,,32.9,64.7,53,14.9,0
+2021,Medical Sciences,Medical Technology,151-200,Boston University,,30,73.3,70.5,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,Brown University,,25.8,84.2,58.8,7.4,0
+2021,Medical Sciences,Medical Technology,151-200,Capital Medical University,,32.6,61,61.5,24.7,0
+2021,Medical Sciences,Medical Technology,151-200,Claude Bernard University Lyon 1,,24.9,71.3,75,14.9,0
+2021,Medical Sciences,Medical Technology,151-200,Hannover Medical School,,25.9,68.1,62.7,19.7,0
+2021,Medical Sciences,Medical Technology,151-200,Huazhong University of Science and Technology,,25.9,64.5,63.4,24.7,0
+2021,Medical Sciences,Medical Technology,151-200,Indiana University Bloomington,,24.1,72.1,55.3,14.9,0
+2021,Medical Sciences,Medical Technology,151-200,Korea University,,30.4,70.1,67.5,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,Medical College of Wisconsin,,24.4,64.6,50.5,24.7,26.7
+2021,Medical Sciences,Medical Technology,151-200,Medical University of Innsbruck,,24.7,85.6,88.4,0,0
+2021,Medical Sciences,Medical Technology,151-200,Monash University,,26.4,69.6,81.2,16.6,0
+2021,Medical Sciences,Medical Technology,151-200,National University of Singapore,,27.4,73.8,87.4,12.9,0
+2021,Medical Sciences,Medical Technology,151-200,Newcastle University,,17.7,75.7,78.6,16.6,0
+2021,Medical Sciences,Medical Technology,151-200,Norwegian University of Science and Technology - NTNU,,21.6,69.7,70,19.7,0
+2021,Medical Sciences,Medical Technology,151-200,Peking University,,28.5,56.6,53.7,26.8,0
+2021,Medical Sciences,Medical Technology,151-200,Pompeu Fabra University,,22,81.2,93,0,0
+2021,Medical Sciences,Medical Technology,151-200,Shanghai Jiao Tong University,,36.1,61.6,62,19.7,0
+2021,Medical Sciences,Medical Technology,151-200,Tel Aviv University,,26.9,60.6,66.9,21,37.8
+2021,Medical Sciences,Medical Technology,151-200,The Hebrew University of Jerusalem,,20.4,79.3,81.2,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,The University of Glasgow,,20.3,73,73.8,16.6,0
+2021,Medical Sciences,Medical Technology,151-200,The University of Hong Kong,,24.4,64,74.1,25.7,0
+2021,Medical Sciences,Medical Technology,151-200,The University of New Mexico - Albuquerque,,26.6,78.9,60.2,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,The University of New South Wales,,25.8,68.4,75.8,16.6,0
+2021,Medical Sciences,Medical Technology,151-200,TU Dresden,,31.5,79.9,75.7,0,0
+2021,Medical Sciences,Medical Technology,151-200,Umea University,,17.5,70.4,80.1,18.2,0
+2021,Medical Sciences,Medical Technology,151-200,Université Grenoble Alpes,,23.6,70.4,71.9,19.7,0
+2021,Medical Sciences,Medical Technology,151-200,Université libre de Bruxelles (ULB),,23.4,79.4,83.4,12.9,0
+2021,Medical Sciences,Medical Technology,151-200,University of Alabama at Birmingham,,30.1,77.2,52.4,12.9,0
+2021,Medical Sciences,Medical Technology,151-200,University of Arizona,,24.9,61.7,55,31.5,0
+2021,Medical Sciences,Medical Technology,151-200,"University of California, Davis",,29.7,76.9,62.5,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of Cincinnati,,23.1,68.3,53.5,19.7,0
+2021,Medical Sciences,Medical Technology,151-200,University of Colorado Health Science Center,,27.2,73.2,46.7,14.9,0
+2021,Medical Sciences,Medical Technology,151-200,University of Eastern Finland,,19.1,67.8,81,26.8,0
+2021,Medical Sciences,Medical Technology,151-200,University of Electronic Science and Technology of China,,22.3,72.3,77.8,16.6,0
+2021,Medical Sciences,Medical Technology,151-200,University of Florida,,29,65.1,61.8,18.2,0
+2021,Medical Sciences,Medical Technology,151-200,University of Gothenburg,,21,69.6,74.1,21,0
+2021,Medical Sciences,Medical Technology,151-200,University of Illinois at Urbana-Champaign,,20.4,67.2,57.1,29.7,16.4
+2021,Medical Sciences,Medical Technology,151-200,University of Kiel,,21.9,77.3,76,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of Leipzig,,28.7,76.6,73.4,12.9,0
+2021,Medical Sciences,Medical Technology,151-200,University of Magdeburg,,23.4,64.8,70.7,25.7,0
+2021,Medical Sciences,Medical Technology,151-200,University of Milan,,33.5,77.1,68.6,0,0
+2021,Medical Sciences,Medical Technology,151-200,University of Muenster,,28.7,76.2,68.6,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of Rennes 1,,23.2,82.7,71.2,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of South Florida,,16.7,96.2,64.1,7.4,0
+2021,Medical Sciences,Medical Technology,151-200,University of Trieste,,12,87.9,74.9,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of Ulm,,22.4,69.8,68,22.3,0
+2021,Medical Sciences,Medical Technology,151-200,University of Ulsan,,38.8,64.6,46.3,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,University of Verona,,22.8,83.9,75.5,10.5,0
+2021,Medical Sciences,Medical Technology,151-200,Vrije Universiteit Brussel (VUB),,23.6,80.6,86.8,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Albert Einstein College of Medicine,,22.4,63.6,51.8,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Aristotle University of Thessaloniki,,16.2,57.7,77.9,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,Beijing Normal University,,24,68.9,76.2,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Brescia University,,16.2,75.5,72.2,0,0
+2021,Medical Sciences,Medical Technology,201-300,Catholic University of the Sacred Heart,,22.3,71.4,71.3,0,0
+2021,Medical Sciences,Medical Technology,201-300,Chang Gung University,,22.5,58.7,59.5,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,Charles University in Prague,,18.2,65.4,73.7,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Dartmouth College,,23.2,68.3,58.6,16.6,0
+2021,Medical Sciences,Medical Technology,201-300,Fudan University,,31.4,65.9,48,0,0
+2021,Medical Sciences,Medical Technology,201-300,Gachon University,,16.7,63.1,42.7,22.3,0
+2021,Medical Sciences,Medical Technology,201-300,Georgia Institute of Technology,,18.6,69.2,54.4,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,Guangzhou Medical University,,16.6,65.8,50.5,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Hokkaido University,,21.7,62,51.5,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,INSA Lyon,,19.1,68,81.6,16.6,0
+2021,Medical Sciences,Medical Technology,201-300,Kobe University,,17.2,78.8,57.1,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,KTH Royal Institute of Technology,,13.3,70,79,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Kyoto University,,23.8,63.6,44.3,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Kyung Hee University,,19.3,55.3,43.8,21,0
+2021,Medical Sciences,Medical Technology,201-300,Laval University,,20.5,75.2,72.5,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Mansoura University,,8,78.7,72.1,0,0
+2021,Medical Sciences,Medical Technology,201-300,McMaster University,,22.6,70.3,74.7,12.9,0
+2021,Medical Sciences,Medical Technology,201-300,Michigan State University,,19.7,59.4,64.9,18.2,0
+2021,Medical Sciences,Medical Technology,201-300,Nanjing University,,19,61.6,64.3,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Nanyang Technological University,,16.3,68.5,85.4,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,National and Kapodistrian University of Athens,,18.1,69.4,72.4,0,0
+2021,Medical Sciences,Medical Technology,201-300,National Taiwan University,,26.3,56.4,59.2,23.5,0
+2021,Medical Sciences,Medical Technology,201-300,National Yang Ming Chiao Tung University,,26.7,63.3,62.7,0,0
+2021,Medical Sciences,Medical Technology,201-300,North Carolina State University - Raleigh,,9.9,73.8,64.8,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Paracelsus Private Medical University,,17.8,74.7,88.7,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Paul Sabatier University (Toulouse 3),,14.3,68.4,73.6,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Peking Union Medical College,,31.3,62.3,54.5,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Polytechnic University of Milan,,15.9,70.8,88.1,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Purdue University - West Lafayette,,15.4,80.1,59.6,12.9,0
+2021,Medical Sciences,Medical Technology,201-300,Queensland University of Technology,,13.5,65.4,71.8,12.9,0
+2021,Medical Sciences,Medical Technology,201-300,Rush University,,19.4,72.2,54.3,0,0
+2021,Medical Sciences,Medical Technology,201-300,"Rutgers, The State University of New Jersey - New Brunswick",,21.8,71.8,54.1,0,0
+2021,Medical Sciences,Medical Technology,201-300,Semmelweis University,,14.5,71.3,84.4,0,0
+2021,Medical Sciences,Medical Technology,201-300,Shenzhen University,,19.8,74.3,65.6,0,0
+2021,Medical Sciences,Medical Technology,201-300,Sichuan University,,27.3,65.5,54,0,0
+2021,Medical Sciences,Medical Technology,201-300,Southeast University,,16.3,66.7,62.6,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Stockholm University,,13,71.3,95.5,0,0
+2021,Medical Sciences,Medical Technology,201-300,Sun Yat-sen University,,36.8,65.5,53.9,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Technion-Israel Institute of Technology,,17.7,66.3,73,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,The George Washington University,,17,69.8,54.5,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Adelaide,,15.5,74.7,74.2,0,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Auckland,,16.3,68,90.8,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Dundee,,16.5,77.1,79.8,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Texas at Austin,,18.5,73.2,60.7,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Texas Health Science Center at Houston,,25.3,71.2,55.8,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Texas Health Science Center at San Antonio,,24.1,74.9,63.8,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Texas Medical Branch at Galveston,,12.8,83.3,52.2,0,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Tokyo,,22.7,60.6,51.4,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,The University of Western Australia,,18.7,69.6,79,0,0
+2021,Medical Sciences,Medical Technology,201-300,Thomas Jefferson University,,25.9,72.6,59.9,0,0
+2021,Medical Sciences,Medical Technology,201-300,Tianjin Medical University,,20.6,65.5,54.9,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,Trinity College Dublin,,15.5,67.5,84.3,0,0
+2021,Medical Sciences,Medical Technology,201-300,Uniformed Services University of the Health Sciences - USA,,15.5,67.6,43.5,12.9,0
+2021,Medical Sciences,Medical Technology,201-300,Università Della Svizzera Italiana,,13,74.3,93.9,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Bochum,,20.3,74.3,70.9,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,University of Bristol,,15.7,69,80.3,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Coimbra,,14.7,65.7,77.1,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Florence,,20.7,71.8,70.6,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Genoa,,23.5,68.7,77,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,University of Helsinki,,21.2,67.1,80.4,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Jena,,21,69.1,66.4,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,University of Kentucky,,19.7,69.4,56.1,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Leicester,,13.3,85,74.5,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Lisbon,,15.7,63.8,88.7,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Liverpool,,15.7,68.9,85.2,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,University of Lorraine,,17.3,64.8,64.5,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Louisville,,13.5,63.3,63.4,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,University of Luebeck,,21.3,76.8,80.6,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,University of Mainz,,21.4,67.6,68.7,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Marburg,,16.6,70.7,69.4,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Massachusetts Medical School - Worcester,,16.7,72.5,63.1,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,University of Milano-Bicocca,,17,75.1,73.5,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Montpellier,,26.1,70.9,69.5,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Naples Federico II,,23.9,80.8,65.2,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Navarra,,16.1,83.8,71.9,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Oulu,,13,62.3,83.3,16.6,0
+2021,Medical Sciences,Medical Technology,201-300,University of Parma,,17.7,79.2,71.2,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Pisa,,21,69.4,68.2,14.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Porto,,12.8,73.6,83.9,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Roma - Tor Vergata,,18.7,73.4,73.6,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Sao Paulo,,24.9,68.3,76,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,University of Saskatchewan,,10.9,72.7,70.9,10.5,0
+2021,Medical Sciences,Medical Technology,201-300,University of Siena,,14.4,72.3,71.7,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Southern Denmark,,24.6,77,83.7,0,0
+2021,Medical Sciences,Medical Technology,201-300,University of Strasbourg,,17.9,64.6,61,19.7,0
+2021,Medical Sciences,Medical Technology,201-300,University of Twente,,22.3,72.1,69.8,12.9,0
+2021,Medical Sciences,Medical Technology,201-300,University of Vermont,,15.4,83,63,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,University of Wollongong,,14.3,67.5,83.6,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Virginia Commonwealth University,,19.3,71.8,56.7,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Vita-Salute San Raffaele University,,25.7,79.8,71,0,0
+2021,Medical Sciences,Medical Technology,201-300,Wake Forest University,,25.5,72.3,59.5,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Xiamen University,,15.1,58.3,55.2,27.8,0
+2021,Medical Sciences,Medical Technology,201-300,Xidian University,,15.8,76.5,59.4,0,0
+2021,Medical Sciences,Medical Technology,201-300,Yeshiva University,,24.5,65.1,55.5,7.4,0
+2021,Medical Sciences,Medical Technology,201-300,Zhengzhou University,,19.2,67.8,54.9,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Aalborg University,,14.5,67.6,71,0,0
+2021,Medical Sciences,Medical Technology,301-400,Ain Shams University,,8.5,66.2,65.9,0,0
+2021,Medical Sciences,Medical Technology,301-400,Air Force Medical University,,17,68.8,57.1,0,0
+2021,Medical Sciences,Medical Technology,301-400,Ajou University,,15.8,64.1,40.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,Alexandria University,,13.2,65,95.5,0,0
+2021,Medical Sciences,Medical Technology,301-400,"All India Institute of Medical Sciences, New Delhi",,12.8,55.1,43,0,0
+2021,Medical Sciences,Medical Technology,301-400,Anhui Medical University,,12,57.6,50.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Ankara University,,7.4,54.9,49.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Army Medical University,,14.3,60.6,53.9,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Beihang University,,13.5,73.5,56.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,Cairo University,,13.3,53.9,76.2,16.6,0
+2021,Medical Sciences,Medical Technology,301-400,Catholic University of Korea,,23.1,56.1,40.5,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Central South University,,17.1,63.9,59.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,Chiba University,,12.8,51.7,41,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,China Medical University (Shenyang),,17.1,57.7,47.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,China Medical University (Taichung),,14.8,54.2,57,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Chongqing Medical University,,14.1,60.4,49.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,Chonnam National University,,16.2,57,49.5,14.9,0
+2021,Medical Sciences,Medical Technology,301-400,Chulalongkorn University,,7.7,55,81,0,0
+2021,Medical Sciences,Medical Technology,301-400,Chung-Ang University,,15.9,59.3,31.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,Complutense University of Madrid,,14.7,56.9,74.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Dalhousie University,,13,59.2,61.7,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Dalian Medical University,,10.5,61.2,48.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Ewha Womans University,,14.8,56.5,39.4,12.9,0
+2021,Medical Sciences,Medical Technology,301-400,Federal University of Sao Paulo,,13.2,59.4,73.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,Fukushima Medical University,,10.3,65.3,58.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,Georgetown University,,20.8,65.7,54.9,0,0
+2021,Medical Sciences,Medical Technology,301-400,Gifu University,,9,54,59.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Gunma University,,15.4,60.1,53.5,0,0
+2021,Medical Sciences,Medical Technology,301-400,Hacettepe University,,12.8,60,48.7,0,0
+2021,Medical Sciences,Medical Technology,301-400,Hallym University,,15.5,58.4,30.7,0,0
+2021,Medical Sciences,Medical Technology,301-400,Hanyang University,,14.7,55.9,48.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Harbin Medical University,,11.5,59.1,47.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Indiana University-Purdue University at Indianapolis,,13.8,68.6,59.9,0,0
+2021,Medical Sciences,Medical Technology,301-400,Inje university,,16.1,57.7,37.3,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Istanbul University - Cerrahpasa,,6.8,61.8,42.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,Iuliu Hatieganu University of Medicine and Pharmacy Cluj-Napoca,,9.9,62.5,59.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Jeonbuk National University,,13.3,56.3,47.1,0,0
+2021,Medical Sciences,Medical Technology,301-400,Jinan University,,15.1,57.1,42.7,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Juntendo University,,14.4,55.9,54.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Kanazawa University,,15.5,49.9,43.5,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Keimyung University,,11.6,62.6,40.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Keio University,,15.4,57.9,48.1,14.9,0
+2021,Medical Sciences,Medical Technology,301-400,King Abdulaziz University,,10.3,56.6,95.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,King Saud University,,11.3,54.8,89.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,Konkuk University,,15.5,59.2,44.4,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Kyungpook National University,,14.5,53,40.4,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Kyushu University,,17.1,55.2,44.8,18.2,0
+2021,Medical Sciences,Medical Technology,301-400,Loyola University Chicago,,14.8,64.1,53.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,Mahidol University,,11.5,55.6,78.1,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Nagoya University,,15.5,59.9,44.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,Nanjing Medical University,,21.8,60.2,42.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,Nanjing University of Aeronautics and Astronautics,,8,63.5,70.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,National Autonomous University of Mexico,,12,51,75,0,0
+2021,Medical Sciences,Medical Technology,301-400,Northeastern University (Shenyang),,10.1,65.7,67.9,0,0
+2021,Medical Sciences,Medical Technology,301-400,Osaka University,,22.4,55.4,54.2,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Pusan National University,,15.3,58.3,43.1,0,0
+2021,Medical Sciences,Medical Technology,301-400,Queen's University,,17.2,58,77.1,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Shandong First Medical University,,19.4,59,46.2,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Shandong University,,22.8,57.4,45.6,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Soochow University (China),,16.6,59.5,51.8,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Taipei Medical University,,17.9,57.4,63.6,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Tampere University,,11.8,64.7,73.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,Tehran University of Medical Sciences,,12.5,49.4,49.6,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Temple University,,13.3,71,59.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,Texas A&M University,,15,54.1,54.4,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,The Second Military Medical University,,16.3,62.4,49.4,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,"The University of Newcastle, Australia",,15.4,63.8,76.1,0,0
+2021,Medical Sciences,Medical Technology,301-400,Tianjin University,,13.5,52.3,63,0,0
+2021,Medical Sciences,Medical Technology,301-400,Tohoku University,,19.6,62.7,52.7,0,0
+2021,Medical Sciences,Medical Technology,301-400,Tokyo Medical and Dental University,,11.8,55.9,38.7,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Tongji University,,14.3,65.3,54.6,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,Tufts University,,15.8,65,59.9,0,0
+2021,Medical Sciences,Medical Technology,301-400,University College Dublin,,13.2,65,78.5,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Arkansas for Medical Sciences,,18.7,60,53.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Belgrade,,13.2,57.8,74.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Campania Luigi Vanvitelli,,10.5,63.9,62.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Campinas,,12.7,66.1,65.5,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Chieti-Pescara,,15.4,65.7,78.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Kansas,,13.6,67.2,52.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,University of Lille,,18.1,62.3,65.7,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Ljubljana,,11.6,61.6,70.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Malaya,,11.1,56.1,81.5,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,University of Manitoba,,11.5,60.3,76.3,7.4,0
+2021,Medical Sciences,Medical Technology,301-400,"University of Maryland, College Park",,16.2,67.9,57.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Messina,,10.5,64.5,71.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Missouri - Columbia,,12.8,58.6,53.8,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,University of Nebraska Medical Center,,19.3,69.2,51.8,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Otago,,12.2,68.8,82.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Palermo,,12.8,72,64.6,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Regensburg,,17.9,62.9,55.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Science and Technology of China,,13,51.3,74.3,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,University of Surrey,,12.5,68.3,84.5,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Tennessee Health Science Center,,16.1,65.8,50.4,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Tsukuba,,15.8,56.6,43.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Valencia,,13.5,68.3,82,0,0
+2021,Medical Sciences,Medical Technology,301-400,University of Zagreb,,14.8,65.1,66.2,0,0
+2021,Medical Sciences,Medical Technology,301-400,Wenzhou Medical University,,12.3,56.2,50.3,0,0
+2021,Medical Sciences,Medical Technology,301-400,Wuhan University,,12.7,58.1,53.3,10.5,0
+2021,Medical Sciences,Medical Technology,301-400,Xi'an Jiaotong University,,16.2,62.2,57.5,0,0
